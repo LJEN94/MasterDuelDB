@@ -1,5 +1,4 @@
 Value.name
-Column1.name
 "A Case for K9"
 "A" Cell Breeding Device
 "A" Cell Incubator
@@ -13872,3 +13871,4 @@ ZW - Sylphid Wing
 ZW - Tornado Bringer
 ZW - Ultimate Shield
 ZW - Unicorn Spear
+
