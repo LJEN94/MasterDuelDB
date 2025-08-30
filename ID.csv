@@ -1,22 +1,22 @@
-﻿Name,ID
-"A Case for K9",80181649
-"A" Cell Breeding Device,34541863
-"A" Cell Incubator,64163367
-"A" Cell Recombination Device,91231901
-"A" Cell Scatter Burst,73262676
-"Infernoble Arms - Almace",98319530
-"Infernoble Arms - Durendal",37478723
-"Infernoble Arms - Hauteclere",64867422
-"Infernoble Arms - Joyeuse",90861137
+﻿﻿Name,ID
+"""A Case for K9""",80181649
+"""A"" Cell Breeding Device",34541863
+"""A"" Cell Incubator",64163367
+"""A"" Cell Recombination Device",91231901
+"""A"" Cell Scatter Burst",73262676
+"""Infernoble Arms - Almace""",98319530
+"""Infernoble Arms - Durendal""",37478723
+"""Infernoble Arms - Hauteclere""",64867422
+"""Infernoble Arms - Joyeuse""",90861137
 1st Movement Solo,44256816
 3-Hump Lacooda,86988864
-30,000-Year White Turtle,11714098
+"30,000-Year White Turtle",11714098
 4-Starred Ladybug of Doom,83994646
 7,67048711
 7 Colored Fish,23771716
 7 Completed,86198326
 8-Claws Scorpion,14261867
-A Bao A Qu, the Lightless Shadow,4731783
+"A Bao A Qu, the Lightless Shadow",4731783
 A Cat of Ill Omen,24140059
 A Deal with Dark Ruler,6850209
 A Feather of the Phoenix,49140998
@@ -27,7 +27,7 @@ A Legendary Ocean,295517
 A Major Upset,32207100
 A Man with Wdjat,51351302
 A Rival Appears!,5728014
-A Shattered, Colorless Realm,44553392
+"A Shattered, Colorless Realm",44553392
 A Wild Monster Appears!,23587624
 A Wingbeat of Giant Dragon,28596933
 A-Assault Core,30012506
@@ -107,8 +107,8 @@ Abyss-sting Triaina,81878201
 Abyss-strom,97697447
 Abyssal Designator,89801755
 Abyssal Kingshark,44223284
-Abyssrhine, the Atlantean Spirit,17080584
-Abysstrite, the Atlantean Spirit,9453320
+"Abyssrhine, the Atlantean Spirit",17080584
+"Abysstrite, the Atlantean Spirit",9453320
 Accel Synchro Stardust Dragon,30983281
 Accel Synchron,37675907
 Accellight,34838437
@@ -145,7 +145,7 @@ Adamancipator Signs,72957245
 Additional Mirror Level 7,23812568
 Adhesion Trap Hole,62325062
 Adhesive Explosive,53828396
-Adreus, Keeper of Armageddon,94119480
+"Adreus, Keeper of Armageddon",94119480
 Adularia of the June Moon,15464375
 Advance Draw,51630558
 Advance Force,38589847
@@ -166,8 +166,8 @@ Aegis of the Ocean Dragon Lord,7935043
 Aerial Eater,28143384
 Aerial Recharge,70875955
 Aeropixthree,83094004
-Aether, the Empowering Dragon,56804361
-Aether, the Evil Empowering Dragon,28865322
+"Aether, the Empowering Dragon",56804361
+"Aether, the Evil Empowering Dragon",28865322
 After the Storm,82263578
 After the Struggle,25345186
 Afterglow,43575579
@@ -177,7 +177,7 @@ Ages of Stars and Frost,27822206
 Agido,16135253
 Agido the Ancient Sentinel,62320425
 Agnimal Candle,13014905
-Ahrima, the Wicked Warden,86377375
+"Ahrima, the Wicked Warden",86377375
 Aileron,96084564
 Air Armor Ninja,69023354
 Air Cracking Storm,98864751
@@ -185,12 +185,12 @@ Air Eater,8353769
 Airknight Parshath,18036057
 Airorca,84747429
 Aitsu,48202661
-Aiwass, the Magistus Spell Spirit,35877582
+"Aiwass, the Magistus Spell Spirit",35877582
 Aiza the Dragoness of Deranged Devotion,63378869
 Akakieisu,38035986
 Akashic Magician,28776350
 Akihiron,36904469
-Akz, the Pumer,38837163
+"Akz, the Pumer",38837163
 Al-Lumi'raj,25795273
 Alba-Lenatus the Abyss Dragon,3410461
 Albaz the Ashen,37683547
@@ -200,15 +200,15 @@ Albion the Shrouded Dragon,25451383
 Alchemic Magician,65301952
 Alchemist of Black Spells,78121572
 Alchemy Cycle,65384019
-Alector, Sovereign of Birds,17573739
-Aleirtt, the Ogdoadic Dark,98787535
+"Alector, Sovereign of Birds",17573739
+"Aleirtt, the Ogdoadic Dark",98787535
 Aleister the Invoker,86120751
 Aleister the Invoker of Madness,97973962
 ALERT!,26372118
 Alexandrite Dragon,43096270
 Alghoul Mazera,45154513
-Alice, Lady of Lament,14504454
-Alich, Malebranche of the Burning Abyss,47728740
+"Alice, Lady of Lament",14504454
+"Alich, Malebranche of the Burning Abyss",47728740
 Alien Ammonite,652362
 Alien Brain,17490535
 Alien Dog,15475415
@@ -265,12 +265,12 @@ Ally of Justice Unknown Crusher,22371016
 Ally of Justice Unlimiter,82377606
 Ally Salvo,59482302
 Aloof Lupine,92998610
-Alpacaribou, Mystical Beast of the Forest,77797992
+"Alpacaribou, Mystical Beast of the Forest",77797992
 Alpha Summon,73355951
 Alpha The Electromagnet Warrior,42023223
 Alpha The Magnet Warrior,99785935
-Alpha, the Master of Beasts,73304257
-Alsei, the Sylvan High Protector,10406322
+"Alpha, the Master of Beasts",73304257
+"Alsei, the Sylvan High Protector",10406322
 Altar for Tribute,21070956
 Altergeist Adminia,61470213
 Altergeist Camouflage,80143954
@@ -365,7 +365,7 @@ Ame no Habakiri no Mitsurugi,13332685
 Ame no Murakumo no Mitsurugi,19899073
 Ameba,95174353
 Amores of Prophecy,40213117
-Amorphactor Pain, the Imagination Dracoverlord,98287529
+"Amorphactor Pain, the Imagination Dracoverlord",98287529
 Amorphage Envy,33300669
 Amorphage Gluttony,34522216
 Amorphage Goliath,69072185
@@ -385,7 +385,7 @@ Amphibious Swarmship Amblowhale,20665527
 Amplifier,303660
 Amulet Dragon,75380687
 Amulet of Ambition,5183693
-Amunessia, the Ogdoadic Queen,61160289
+"Amunessia, the Ogdoadic Queen",61160289
 An Owl of Luck,23927567
 An Unfortunate Report,19763315
 Anarchist Monk of the Six Samurai,80570228
@@ -484,7 +484,7 @@ Angel of Blue Tears,91706817
 Angel of Zera,42216237
 Angel Statue - Azurune,44822037
 Angel Trumpeter,87979586
-Angelica, Princess of Noble Arms,36320744
+"Angelica, Princess of Noble Arms",36320744
 Angelica's Angelic Ring,40678060
 Angello Vaalmonica,3048768
 Angmarl the Fiendish Monarch,65612386
@@ -517,7 +517,7 @@ Ape Magician,31975743
 Apex Predation,25573115
 Apocaries,28531163
 Apocatequil,41158734
-Apollousa, Bow of the Goddess,4280258
+"Apollousa, Bow of the Goddess",4280258
 Apophis the Serpent,95561146
 Apophis the Swamp Deity,85888377
 Apoqliphort Skybase,40061558
@@ -597,7 +597,7 @@ Archfiend Black Skull Dragon,45349196
 Archfiend Cavalry,92039899
 Archfiend Commander,68371799
 Archfiend Eccentrick,57624336
-Archfiend Emperor, the First Lord of Horror,28423537
+"Archfiend Emperor, the First Lord of Horror",28423537
 Archfiend Empress,31766317
 Archfiend General,48675364
 Archfiend Giant,84341431
@@ -638,14 +638,14 @@ Aria the Melodious Diva,40502912
 Ariane the Labrynth Servant,75730490
 Arianna the Labrynth Servant,1225009
 Arias the Labrynth Butler,73602965
-Ariel, Priestess of the Nekroz,56827051
-Arionpos, Serpent of the Ghoti,65910922
+"Ariel, Priestess of the Nekroz",56827051
+"Arionpos, Serpent of the Ghoti",65910922
 Arisen Gaia the Fierce Knight,29904964
 Arkbrave Dragon,33282498
 Arktos XII - Chronochasm Vaylantz,50687050
 Arlownay,14708569
 Arma Knight,36151751
-Armades, Keeper of Boundaries,88033975
+"Armades, Keeper of Boundaries",88033975
 Armageddon Designator,28493337
 Armageddon Knight,28985331
 Armaill,53153481
@@ -665,14 +665,14 @@ Armed Dragon Thunder LV3,57030525
 Armed Dragon Thunder LV5,21546416
 Armed Dragon Thunder LV7,94141712
 Armed Dragon Thunderbolt,57605303
-Armed Dragon, the Armored Dragon,75220074
+"Armed Dragon, the Armored Dragon",75220074
 Armed Neos,31817415
 Armed Ninja,9076207
 Armed Protector Dragon,29330706
 Armed Rebeellion,21056275
 Armed Samurai - Ben Kei,84430950
 Armed Sea Hunter,20470500
-Armillyre, the Starleader Dragon,36768783
+"Armillyre, the Starleader Dragon",36768783
 Armityle the Chaos Phantasm,43378048
 Armityle the Chaos Phantasm - Phantom of Fury,60110982
 Armor Blast,79155167
@@ -702,7 +702,7 @@ Armory Call,38960450
 Arms of Genex Return Zero,61775475
 Arms Regeneration,32549749
 Army Ant Token,22493812
-Arnis, the Empowered Warrior,29687169
+"Arnis, the Empowered Warrior",29687169
 Aroma Blend,25861589
 Aroma Garden,5050644
 Aroma Gardening,29189613
@@ -722,14 +722,14 @@ Aromaseraphy Angelica,16759958
 Aromaseraphy Jasmine,21200905
 Aromaseraphy Rosemary,38148100
 Aromaseraphy Sweet Marjoram,79656239
-Aron, the Ogdoadic King,34172284
+"Aron, the Ogdoadic King",34172284
 Array of Revealing Light,69296555
 Arrivalrivals,29508346
 Arrive in Light,365213
 Arsenal Bug,42364374
 Arsenal Robber,55348096
 Arsenal Summoner,85489096
-Artemis, the Magistus Moon Maiden,34755994
+"Artemis, the Magistus Moon Maiden",34755994
 Artifact Achilleshield,11475049
 Artifact Aegis,85080444
 Artifact Beagalltach,12697630
@@ -760,8 +760,8 @@ Artmage Peripeteia -Turmoil-,17719582
 Artmage Power Patron,23829452
 Artmage Vandalism -Assault-,1122030
 Artmage Varnish -Alteration-,74011784
-Artorigus, King of the Noble Knights,21223277
-Ascator, Dawnwalker,71821687
+"Artorigus, King of the Noble Knights",21223277
+"Ascator, Dawnwalker",71821687
 Ascending Soul,88301833
 Ascension Sky Dragon,37910722
 Asceticism of the Six Samurai,27821104
@@ -771,7 +771,7 @@ Ashened to Endlessness,34813443
 ASHLAN U1000,44376395
 Ashoka Pillar,58996839
 Ashura King,80993256
-Askaan, the Bicorned Ghoti,46815301
+"Askaan, the Bicorned Ghoti",46815301
 Asleep at the Switch,99657399
 Asmo Token,85771020
 Aspischool,12888461
@@ -829,22 +829,22 @@ Attention!,85352446
 Attraffic Control,46083380
 Augmented Heraldry,59048135
 Auram the World Chalice Blademaster,4709881
-Aurkus, Lightsworn Druid,7183277
+"Aurkus, Lightsworn Druid",7183277
 Aurora Paragon,22386234
 Aurora Wing,70089580
 Aussa the Earth Channeler,62803464
 Aussa the Earth Charmer,37970940
-Aussa the Earth Charmer, Immovable,97661969
+"Aussa the Earth Charmer, Immovable",97661969
 Automatic Laser,58990631
 Autonomous Action Unit,71453557
 Autorokket Dragon,80250185
 Avalanching Aussa,29139104
 Avalon,82140600
-Avance, Swordsman of the Nekroz,51618973
+"Avance, Swordsman of the Nekroz",51618973
 Avatar of The Pot,99284890
 Avendread Savior,91420202
 Avenging Knight Parshath,69514125
-Avida, Rebuilder of Worlds,17469113
+"Avida, Rebuilder of Worlds",17469113
 Awakening of Nephthys,82832464
 Awakening of the Crystal Ultimates,12877076
 Awakening of the Possessed,62256492
@@ -869,7 +869,7 @@ Azamina Ilia Silvia,46396218
 Azamina Moa Regina,46174776
 Azamina Mu Rcielago,73391962
 Azamina Sol Erysichthon,9785661
-Aztekipede, the Worm Warrior,75081613
+"Aztekipede, the Worm Warrior",75081613
 Azure-Eyes Silver Dragon,40908371
 B-Buster Drake,77411244
 B. Dragon Jungle King,89832901
@@ -911,7 +911,7 @@ Bad Aim,46253216
 Bad Luck Blast,76004142
 Bad Reaction to Simochi,40633297
 Baelgrill de Nouvelles,88890658
-Bahalutiya, the Grand Radiance,53318263
+"Bahalutiya, the Grand Radiance",53318263
 Bahamut Shark,440556
 Bait Doll,7165085
 Baku the Beast Ninja,94670654
@@ -930,8 +930,8 @@ Banishment of the Darklords,87112784
 Banner of Courage,10012614
 Banquet of Millions,48814566
 Baobaboon,55705473
-Barbar, Malebranche of the Burning Abyss,81992475
-Barbaroid, the Ultimate Battle Machine,54702678
+"Barbar, Malebranche of the Burning Abyss",81992475
+"Barbaroid, the Ultimate Battle Machine",54702678
 Barian Untopia,30761649
 Barian's Chaos Draw,97769122
 Bark of Dark Ruler,41925941
@@ -958,10 +958,10 @@ Barrier Wave,96700602
 Basal Rose Shoot,69167267
 Bashing Shield,88610708
 Basic Insect,89091579
-Basilius, Familiar of the Evil Eye,81344637
-Basiltrice, Familiar of the Evil Eye,65351555
+"Basilius, Familiar of the Evil Eye",81344637
+"Basiltrice, Familiar of the Evil Eye",65351555
 Bat,72076281
-Bat, the Forest Ninja,80447641
+"Bat, the Forest Ninja",80447641
 Battery Charger,61181383
 Batteryman 9-Volt,60549248
 Batteryman AA,63142001
@@ -1033,9 +1033,9 @@ Battlin' Boxer Uppercutter,11522479
 Battlin' Boxer Veil,13313278
 Battlin' Boxing Cross Counter,19688343
 Battlin' Boxing Spirits,36916401
-Baxia, Brightness of the Yang Zing,83755611
+"Baxia, Brightness of the Yang Zing",83755611
 Bayerock Dragon,4472318
-Bayonater, the Baneful Barrel,47474172
+"Bayonater, the Baneful Barrel",47474172
 Bayonet Punisher,36092504
 Bazoo the Soul Eater Beast,79480466
 Bazoo the Soul-Eater,40133511
@@ -1043,7 +1043,7 @@ Beacon of White,50371210
 Beaked Snake,6103114
 Bean Soldier,84990171
 Bearblocker,80141055
-Beargram, Shelled Emperor of the Forest Crown,27134209
+"Beargram, Shelled Emperor of the Forest Crown",27134209
 Beast Fangs,46009906
 Beast King Barbaros,78651105
 Beast King Unleashed,50675040
@@ -1062,10 +1062,10 @@ Beastking of the Swamps,99426834
 Beastly Mirror Ritual,81933259
 Beasts of Phantom,300302006
 Beat Cop from the Underworld,99011763
-Beat, Bladesman Fur Hire,93850652
+"Beat, Bladesman Fur Hire",93850652
 Beatdown!,300202002
 Beatraptor,46924949
-Beatrice, Lady of the Eternal,27552504
+"Beatrice, Lady of the Eternal",27552504
 Beautiful Beast Trainer,29616941
 Beautiful Headhuntress,16899564
 Beautunaful Princess,6625096
@@ -1091,12 +1091,12 @@ Beetrooper Squad,40633084
 Beetrooper Sting Lancer,65430555
 Beginning Knight,6628343
 Beginning of Heaven and Earth,32360466
-Begone, Knave!,20374520
+"Begone, Knave!",20374520
 Behegon,94022093
 Behemoth the King of a Hundred Battles,13836592
 Behemoth the King of All Animals,22996376
-Behold, Gate Guardian!,300302043
-Beiige, Vanguard of Dark World,33731070
+"Behold, Gate Guardian!",300302043
+"Beiige, Vanguard of Dark World",33731070
 Belial - Marquis of Darkness,33655493
 Believe in your Bro,300302044
 Bellcat Fighter,22953211
@@ -1122,7 +1122,7 @@ Bettan Bat,84079032
 Beware the Brothers Paradox!,300302045
 Beware the White Forest,35778533
 Beyond the Pendulum,22125101
-Bi'an, Earth of the Yang Zing,66500065
+"Bi'an, Earth of the Yang Zing",66500065
 Bickuribox,25655502
 Bicorn Re'em,58685438
 Bicular,83392426
@@ -1147,7 +1147,7 @@ Big-Winged Berfomet,55461744
 Binary Blader,80088625
 Binary Sorceress,79016563
 Binding Chain,8058240
-Bingo Machine, Go!!!,93437091
+"Bingo Machine, Go!!!",93437091
 Bio Plant,7670542
 Bio-Insect Armor,3084730
 Bio-Mage,58696829
@@ -1162,7 +1162,7 @@ Bite Shoes,50122883
 Bitelon,44702857
 Bitron,36211150
 Bitrooper,36694815
-Bixi, Water of the Yang Zing,2095764
+"Bixi, Water of the Yang Zing",2095764
 Black and White Wave,31677606
 Black Brachios,50896944
 Black Brutdrago,96029574
@@ -1211,10 +1211,10 @@ Black-Winged Assault Dragon,73218989
 Black-Winged Dragon,9012916
 Black-Winged Strafe,67779172
 Blackback,44028461
-Blackbeard, the Plunder Patroll Captain,67647362
+"Blackbeard, the Plunder Patroll Captain",67647362
 Blackbird Close,80254726
 Blackboost,53519297
-Blackeyes, the Plunder Patroll Seaguide,91642007
+"Blackeyes, the Plunder Patroll Seaguide",91642007
 Blackfeather Darkrage Dragon,60992105
 Blackland Fire Dragon,87564352
 Blackwing - Abrolhos the Megaquake,31053337
@@ -1288,18 +1288,18 @@ Blast Juggler,70138455
 Blast Magician,21051146
 Blast Sphere,26302522
 Blast with Chain,98239899
-Blaster, Dragon Ruler of Infernos,53804307
+"Blaster, Dragon Ruler of Infernos",53804307
 Blasting Fuse,99788587
 Blasting the Ruins,21466326
 Blaze Accelerator,69537999
 Blaze Accelerator Deployment (Skill Card),300302024
 Blaze Accelerator Reload,52198054
 Blaze Cannon,4059313
-Blaze Fenix, the Burning Bombardment Bird,6602300
-Blaze, Supreme Ruler of all Dragons,47132793
+"Blaze Fenix, the Burning Bombardment Bird",6602300
+"Blaze, Supreme Ruler of all Dragons",47132793
 Blazewing Butterfly,16984449
 Blazing Bombardment Beast,70117791
-Blazing Cartesia, the Virtuous,95515789
+"Blazing Cartesia, the Virtuous",95515789
 Blazing Hiita,92518817
 Blazing Inpachi,5464695
 Blazing Mirror Force,75249652
@@ -1318,7 +1318,7 @@ Blizzard Falcon,43694481
 Blizzard Princess,28348537
 Blizzard Thunderbird,50920465
 Blizzard Warrior,96565487
-Blizzed, Defender of the Ice Barrier,60161788
+"Blizzed, Defender of the Ice Barrier",60161788
 Block Attack,25880422
 Block Dragon,94689206
 Block Golem,72580321
@@ -1361,7 +1361,7 @@ Blue-Eyes Ultimate Dragon,23995346
 Blue-Eyes Ultimate Spirit Dragon,89604813
 Blue-Eyes White Dragon,89631139
 Blue-Winged Crown,41396436
-Bluebeard, the Plunder Patroll Shipwright,55349375
+"Bluebeard, the Plunder Patroll Shipwright",55349375
 Blustering Winds,22346472
 BM-4 Blast Spider,40634253
 Boar Soldier,21340051
@@ -1462,7 +1462,7 @@ Branded Sword,81767888
 Brave Scizzar,74277583
 Brave-Eyes Pendulum Dragon,88305705
 Bravedrive,78161361
-Bravo, Fighter Fur Hire,66740005
+"Bravo, Fighter Fur Hire",66740005
 Break Away,9852718
 Break Off Trap Hole,56526564
 Break the Destiny,4008212
@@ -1480,14 +1480,14 @@ Breath of the Tistina,58882608
 Bri Synchron,52840598
 Bright Future,24707869
 Bright Star Dragon,16719802
-Brightest, Blazing, Branded King,19271881
+"Brightest, Blazing, Branded King",19271881
 Brigrand the Glory Dragon,34848821
 Brilliant Fusion,7394770
 Brilliant Rose,61011438
 Brilliant Spark,3105404
 Brinegir,2102065
-Brionac, Dragon of the Ice Barrier,50321796
-Brionac, the Magical Ice Dragon,65892310
+"Brionac, Dragon of the Ice Barrier",50321796
+"Brionac, the Magical Ice Dragon",65892310
 Brohunder,27217742
 Broken Bamboo Sword,41587307
 Broken Blocker,60930169
@@ -1521,8 +1521,8 @@ Brotherhood of the Fire Fist - Swallow,2521011
 Brotherhood of the Fire Fist - Swan,93877990
 Brotherhood of the Fire Fist - Tiger King,96381979
 Brotherhood of the Fire Fist - Wolf,93294869
-Broww, Huntsman of Dark World,79126789
-Brron, Mad King of Dark World,6214884
+"Broww, Huntsman of Dark World",79126789
+"Brron, Mad King of Dark World",6214884
 Brushfire Knight,36569343
 Brutal Beast Battle,36809777
 Brutal Potion,30155789
@@ -1587,7 +1587,7 @@ Burglar,6297941
 Burgundy the Magic Elf,89974735
 Burial Bicorn Carnovorus,34149150
 Burial from a Different Dimension,48976825
-Burner, Dragon Ruler of Sparks,53797637
+"Burner, Dragon Ruler of Sparks",53797637
 Burning Algae,41859700
 Burning Bamboo Sword,55870497
 Burning Beast,59364406
@@ -1604,8 +1604,8 @@ Burst Return,27191436
 Burst Stream of Destruction,17655904
 Bururu @Ignister,42429678
 Buster Blader,78193831
-Buster Blader, the Destruction Swordmaster,3428069
-Buster Blader, the Dragon Destroyer Swordsman,86240887
+"Buster Blader, the Destruction Swordmaster",3428069
+"Buster Blader, the Dragon Destroyer Swordsman",86240887
 Buster Blaster,63676256
 Buster Dragon,11790356
 Buster Gundil the Cubic Behemoth,4998619
@@ -1627,15 +1627,15 @@ Bystial Druiswurm,6637331
 Bystial Magnamhut,33854624
 Bystial Saronir,60242223
 C-Crush Wyvern,3405259
-Caam, Serenity of Gusto,91449144
+"Caam, Serenity of Gusto",91449144
 Cabrera Stone,84384943
 Cactus Bouncer,31615285
 Cactus Fighter,74440055
-Cagna, Malebranche of the Burning Abyss,9342162
-Cairngorgon, Antiluminescent Knight,21501505
+"Cagna, Malebranche of the Burning Abyss",9342162
+"Cairngorgon, Antiluminescent Knight",21501505
 Caius the Mega Monarch,87288189
 Caius the Shadow Monarch,9748752
-Calcab, Malebranche of the Burning Abyss,73213494
+"Calcab, Malebranche of the Burning Abyss",73213494
 Caligo Claw Crow,67692580
 Call of Darkness,78637313
 Call of the Archfiend,97803170
@@ -1648,7 +1648,7 @@ Call of the Mummy,4861205
 Call of the Reaper,45133463
 Called by the Grave,24224830
 Calming Magic,51773900
-Camelot, Realm of Noble Knights and Noble Arms,15635751
+"Camelot, Realm of Noble Knights and Noble Arms",15635751
 Cameraclops,5244497
 Candle of Fate,47695416
 Caninetaur,91754175
@@ -1686,12 +1686,12 @@ Cards from the Sky,54977057
 Cards of Consonance,39701395
 Cards of the Red Stone,32566831
 Carnot the Eternal Machine,13567610
-Carpiponica, Mystical Beast of the Forest,85055821
+"Carpiponica, Mystical Beast of the Forest",85055821
 Carrierroid,46848859
 Cartorhyn the Hidden Gem of the Seafront,94076521
 Cash Back,59957503
 Cassimolar,12527118
-Castel, the Skyblaster Musketeer,82633039
+"Castel, the Skyblaster Musketeer",82633039
 Castle Gate,36931229
 Castle Link,22198672
 Castle of Dark Illusions,62121
@@ -1711,21 +1711,21 @@ Catch of the Day,300102003
 Catche Eve L2,50690129
 Catnipped Kitty,96501677
 Catoblepas and the Witch of Fate,54360049
-Catoblepas, Familiar of the Evil Eye,45955628
+"Catoblepas, Familiar of the Evil Eye",45955628
 Cattle Call,50619462
 Cattycorn,61245403
 Cauldron of the Old Man,91740879
 Cave Dragon,93220472
 Ceasefire,36468556
 Celestia,43912676
-Celestia, Lightsworn Angel,94381039
+"Celestia, Lightsworn Angel",94381039
 Celestial Apparatus Tesea,54092240
 Celestial Double Star Shaman,25472513
 Celestial Knightlord Parshath,48589580
 Celestial Observatory,67378104
 Celestial Sword - Eatos,55569674
 Celestial Transformation,28890974
-Celestial Wolf Lord, Blue Sirius,32995007
+"Celestial Wolf Lord, Blue Sirius",32995007
 Cell Explosion Virus,84491298
 Celtic Guard of Noble Arms,45531624
 Celtic Guardian,91152256
@@ -1749,8 +1749,8 @@ Ceremonial Bell,20228463
 Ceremonial Token,82340057
 Cerulean Sacred Phoenix of Nephthys,24175232
 Cerulean Skyfire,54828837
-Ceruli, Guru of Dark World,7623640
-Cerzebuth, Laimargia of the Ebon Irons,94503794
+"Ceruli, Guru of Dark World",7623640
+"Cerzebuth, Laimargia of the Ebon Irons",94503794
 Cestus of Dagla,28106077
 Chachaka Archer,83021423
 Chain Burst,48276469
@@ -1782,7 +1782,7 @@ Change Slime,18914778
 Changer Synchron,25652655
 Changing Destiny,24673894
 Changshi the Spiridao,76352503
-Chaofeng, Phantom of the Yang Zing,19048328
+"Chaofeng, Phantom of the Yang Zing",19048328
 Chaos Allure Queen,29925614
 Chaos Ancient Gear Giant,51788412
 Chaos Angel,22850702
@@ -1795,7 +1795,7 @@ Chaos Core,54040484
 Chaos Daedalus,26873574
 Chaos Dragon Levianeer,55878038
 Chaos Emperor Dragon - Envoy of the End,82301904
-Chaos Emperor, the Dragon of Armageddon,4538826
+"Chaos Emperor, the Dragon of Armageddon",4538826
 Chaos End,61044390
 Chaos Form,21082832
 Chaos Goddess,31385077
@@ -1808,7 +1808,7 @@ Chaos Mirage Dragon,66699781
 Chaos Necromancer,1434352
 Chaos Nephthys,24226942
 Chaos Phantasm,60329973
-Chaos Ruler, the Chaotic Magical Dragon,3040496
+"Chaos Ruler, the Chaotic Magical Dragon",3040496
 Chaos Scepter Blast,15256925
 Chaos Seed,76766706
 Chaos Sorcerer,9596126
@@ -1830,7 +1830,7 @@ Charioteer of Prophecy,49191560
 Charm of Shabti,50412166
 Charming Resort Staff,64753157
 Charubin the Fire Knight,37421579
-Chasma, Dragon Ruler of Auroras,4965193
+"Chasma, Dragon Ruler of Auroras",4965193
 Checkmate,69313735
 Checksum Dragon,94136469
 Cheepcheepcheep,27189308
@@ -1841,14 +1841,14 @@ Chemicritter Hydron Hawk,55100740
 Chemicritter Oxy Ox,18993198
 Chemistry in Motion,300302046
 Cherry Inmato,525110
-Cherubini, Ebon Angel of the Burning Abyss,58699500
+"Cherubini, Ebon Angel of the Burning Abyss",58699500
 Chevalier de Fleur,45037489
 Chewbone,7392745
 Chewbone Jr. Token,7392746
 Chicken Game,67616300
 Child's Play,12021072
 Chillin' Outback,300302047
-Chimaera, the Master of Beasts,501000006
+"Chimaera, the Master of Beasts",501000006
 Chimera Fusion,63136489
 Chimera the Flying Mythical Beast,4796100
 Chimera the Illusion Beast,38264974
@@ -1858,9 +1858,9 @@ Chimeratech Megafleet Dragon,87116928
 Chimeratech Overdragon,64599569
 Chimeratech Rampage Dragon,84058253
 Chiron the Mage,16956455
-Chirubimé, Princess of Autumn Leaves,87294988
+"Chirubimé, Princess of Autumn Leaves",87294988
 Chivalry,56532632
-Chiwen, Light of the Yang Zing,61488417
+"Chiwen, Light of the Yang Zing",61488417
 Chobham Armor Dragon,27352108
 Chocolate Magician Girl,7198399
 Choju of the Trillion Hands,90027012
@@ -1922,13 +1922,13 @@ Cipher Soldier,79853073
 Cipher Spectrum,98905
 Cipher Twin Raptor,21999001
 Cipher Wing,81974607
-Cir, Malebranche of the Burning Abyss,57143342
+"Cir, Malebranche of the Burning Abyss",57143342
 Circle of the Fairies,12954226
 Circle of the Fire Kings,59388357
 Citadel Whale,46290741
-Clara & Rushka, the Ventriloduo,1482001
+"Clara & Rushka, the Ventriloduo",1482001
 Clashing Souls,57496978
-Clavkiys, the Magikey Skyblaster,98234196
+"Clavkiys, the Magikey Skyblaster",98234196
 Claw Reacher,41218256
 Clay Charge,22479888
 Clear Cube,33506331
@@ -1956,7 +1956,7 @@ Clockwork Knight,41739381
 Clockwork Night,84797028
 Clone Token,86871615
 Cloning,86871614
-Clorless, Chaos King of Dark World,22723778
+"Clorless, Chaos King of Dark World",22723778
 Closed Forest,78082039
 Cloudcastle,9348522
 Cloudian - Acid Cloud,17810268
@@ -2025,7 +2025,7 @@ Comics Hero King Arthur,77631175
 Command Knight,10375182
 Command Performance,78184733
 Commander Covington,22666164
-Commander Gottoms, Swordmaster,53388413
+"Commander Gottoms, Swordmaster",53388413
 Commander of Swords,12197543
 Commencement Dance,43417563
 Common Charity,40465719
@@ -2044,7 +2044,7 @@ Condolence Puppet,57093995
 Conductor of Nephthys,8454126
 Confiras de Nouvelles,53618197
 Confiscation,17375316
-Confronting the "C",15721123
+"Confronting the ""C""",15721123
 Confusion Chaff,67630339
 Conquistador of the Golden Land,20590515
 Conscription,31000575
@@ -2080,7 +2080,7 @@ Constellar Zubeneschamali,14759024
 Construction Train Signal Red,34475451
 Consumed By Darkness,300302025
 Contact,16616620
-Contact "C",87170768
+"Contact ""C""",87170768
 Contact Gate,41933425
 Contact Out,69270537
 Contact with Gusto,83544697
@@ -2118,7 +2118,7 @@ Corridor of Agony,26257572
 Corroding Shark,34290067
 Corrosive Scales,13235258
 Corrupted Keys,67949763
-Corruption Cell "A",2561846
+"Corruption Cell ""A""",2561846
 Cosmic Blazar Dragon,21123811
 Cosmic Compass,27450400
 Cosmic Cyclone,8267140
@@ -2159,7 +2159,7 @@ Crass Clown,93889755
 Crawling Dragon,67494157
 Crawling Dragon #2,38289717
 Crazy Fish,53713014
-Crealtar, the Impcantation Originator,96915510
+"Crealtar, the Impcantation Originator",96915510
 Creation Resonator,5780210
 Creature Seizure,15305240
 Creature Swap,31036355
@@ -2196,9 +2196,9 @@ Crossout Designator,65681983
 Crossrose Dragon,72218246
 Crow Goblin,77998771
 Crow Tengu,64806765
-Crowley, the First Propheseer,50756327
-Crowley, the Gifted Magistus,875572
-Crowley, the Magistus of Grimoires,9505425
+"Crowley, the First Propheseer",50756327
+"Crowley, the Gifted Magistus",875572
+"Crowley, the Magistus of Grimoires",9505425
 Crowned by the World Chalice,95511642
 Crusader of Endymion,73853830
 Crusadia Arboria,91646304
@@ -2295,7 +2295,7 @@ Cupid Volley,11851647
 Cupsy★Yummy Way,31603289
 Cupsy☆Yummy,31425736
 Cure Mermaid,85802526
-Curious, the Lightsworn Dominion,98095162
+"Curious, the Lightsworn Dominion",98095162
 Curse Necrofear,14509651
 Curse of Aging,41398771
 Curse of Anubis,66742250
@@ -2303,8 +2303,8 @@ Curse of Aramatir,34690953
 Curse of Darkness,84970821
 Curse of Diabell,64998567
 Curse of Dragon,28279543
-Curse of Dragon, the Cursed Dragon,61525276
-Curse of Dragon, the Magical Knight Dragon,72064891
+"Curse of Dragon, the Cursed Dragon",61525276
+"Curse of Dragon, the Magical Knight Dragon",72064891
 Curse of Dragonfire,7241272
 Curse of Fiend,12470447
 Curse of Royal,2926176
@@ -2581,7 +2581,7 @@ Daigusto Gulldos,84766279
 Daigusto Laplampilica,76937326
 Daigusto Phoenix,2766877
 Daigusto Sphreez,29552709
-Dakki, the Graceful Mayakashi,42542842
+"Dakki, the Graceful Mayakashi",42542842
 Damage = Reptile,44584775
 Damage Condenser,28378427
 Damage Diet,95448692
@@ -2617,14 +2617,14 @@ Dangerous Machine Type-6,76895648
 Dangers of the Divine,22082432
 Danipon,48588176
 Danmari @Ignister,66192538
-Dante, Pilgrim of the Burning Abyss,18386170
-Dante, Traveler of the Burning Abyss,83531441
+"Dante, Pilgrim of the Burning Abyss",18386170
+"Dante, Traveler of the Burning Abyss",83531441
 Dark Advance,97001138
 Dark Alligator,34479658
 Dark Angel,28593329
 Dark Anthelion Dragon,95685352
 Dark Armed Dragon,65192027
-Dark Armed, the Dragon of Annihilation,78144171
+"Dark Armed, the Dragon of Annihilation",78144171
 Dark Artist,72520073
 Dark Assailant,41949033
 Dark Balter the Terrible,80071763
@@ -2789,7 +2789,7 @@ Dark-Eyes Illusionist,38247752
 Dark-Piercing Light,45895206
 Darkbishop Archfiend,35798491
 Darkblaze Dragon,39343610
-Darkest Diabolos, Lord of the Lair,50383626
+"Darkest Diabolos, Lord of the Lair",50383626
 Darkfall,30127518
 Darkfire Dragon,17881964
 Darkfire Soldier #1,5388481
@@ -2818,7 +2818,7 @@ Darklord Uprising,54527349
 Darklord Zerato,40921744
 Darkness Approaches,80168720
 Darkness Destroyer,93709215
-Darkness Metal, the Dragon of Dark Steel,79266769
+"Darkness Metal, the Dragon of Dark Steel",79266769
 Darkness Neosphere,60417395
 Darknight Parshath,76925842
 Darksea Float,70054514
@@ -2880,7 +2880,7 @@ Defect Compiler,92327802
 Defender of Nephthys,51782995
 Defender of the Ice Barrier,82498947
 Defender of the Labyrinth,31897444
-Defender, the Magical Knight,2525268
+"Defender, the Magical Knight",2525268
 Defenders Intersect,71417170
 Defense Draw,24268052
 Defense of the Temple,96687733
@@ -2902,11 +2902,11 @@ Delta The Magnet Warrior,12262393
 Delta Tri,12079734
 Demigod of the Tistina,59504256
 Demise of the Land,48934760
-Demise, Agent of Armageddon,86124104
-Demise, King of Armageddon,72426662
-Demise, Supreme King of Armageddon,59913418
+"Demise, Agent of Armageddon",86124104
+"Demise, King of Armageddon",72426662
+"Demise, Supreme King of Armageddon",59913418
 Demotion,72575145
-Denglong, First of the Yang Zing,65536818
+"Denglong, First of the Yang Zing",65536818
 Denial Deity Dotan,12890860
 Denko Sekka,13974207
 Depresspard,10474647
@@ -2945,7 +2945,7 @@ Desmanian Devil,42908201
 Despair from the Dark,71200730
 Desperado Barrel Dragon,76728962
 Desperate Tag,34149830
-Despia, Theater of the Branded,99543666
+"Despia, Theater of the Branded",99543666
 Despian Comedy,90179822
 Despian Luluwalilith,53971455
 Despian Proskenion,18666161
@@ -3008,26 +3008,26 @@ Detonate,89086566
 Detonate Deleter,24487411
 Detonating Kuriboh,46789706
 Detonation Code,41348446
-Detonator Circle "A",20985997
+"Detonator Circle ""A""",20985997
 Deus Token,85771021
 Deus X-Krawler,62587693
 Devotee of Nephthys,88176533
 Devouring Sarcoughagus,30037118
 Dewdark of the Ice Barrier,90311614
-Dewloren, Tiger King of the Ice Barrier,70583986
+"Dewloren, Tiger King of the Ice Barrier",70583986
 Dhampir Vampire Sheridan,32302078
 Dharc the Dark Charmer,19327348
-Dharc the Dark Charmer, Gloomy,8264361
+"Dharc the Dark Charmer, Gloomy",8264361
 Dharma Cannon,96967123
 Dharma-Eye Magician,88757791
-Diabell, Queen of the White Forest,14307929
+"Diabell, Queen of the White Forest",14307929
 Diabellstar the Black Witch,72270339
 Diabellstar Vengeance,23151193
 Diabellze the Original Sinkeeper,53765052
 Diabellze the White Witch,60145298
 Diabolantis the Menacing Mantis,24634594
 Diabolica the Draconique General,78077209
-Diabolos, King of the Abyss,29424328
+"Diabolos, King of the Abyss",29424328
 Diabound Kernel,51644030
 Diamond Core of Koa'ki Meiru,81994591
 Diamond Dire Wolf,95169481
@@ -3069,7 +3069,7 @@ Digital Bug Rhinosebus,85004150
 Digital Bug Scaradiator,12615446
 Digital Bug Websolder,94344242
 Digitron,32295838
-Digvorzhak, King of Heavy Industry,29515122
+"Digvorzhak, King of Heavy Industry",29515122
 Dillingerous Dragon,23732205
 Dimension Conjurer,77683371
 Dimension Dice,47292920
@@ -3097,12 +3097,12 @@ Dimensional Prison,70342110
 Dimensionhole,22959079
 Dimer Synthesis,90965652
 Dimonno Vaalmonica,30432463
-Dingirsu, the Orcust of the Evening Star,93854893
+"Dingirsu, the Orcust of the Evening Star",93854893
 Dino Destruction,300104003
 Dino-Sewing,27143874
 Dinomic Powerload,41128647
-Dinomight Knight, the True Dracofighter,58984738
-Dinomight Powerload, the Dracoslayer,28720123
+"Dinomight Knight, the True Dracofighter",58984738
+"Dinomight Powerload, the Dracoslayer",28720123
 Dinomist Ankylos,32134638
 Dinomist Brachion,368382
 Dinomist Ceratops,37752990
@@ -3129,7 +3129,7 @@ Dinomorphia Sonic,52807032
 Dinomorphia Stealthbergia,74936480
 Dinomorphia Therizia,92133240
 Dinosaur Kingdom,300203001
-Dinoster Power, the Mighty Dracoslayer,22638495
+"Dinoster Power, the Mighty Dracoslayer",22638495
 Dinovatus Docus,84631951
 Dinowrestler Capaptera,93507434
 Dinowrestler Capoeiraptor,29996433
@@ -3155,7 +3155,7 @@ Disablaster the Negation Fortress,58707981
 Disappear,24623598
 Disarm,26834022
 Disarmament,20727787
-Disaster, Dragon Ruler of All Apocalypses,67359907
+"Disaster, Dragon Ruler of All Apocalypses",67359907
 Disc Fighter,19612721
 Disciple of Nephthys,98999181
 Disciple of the Forbidden Spell,15595052
@@ -3222,29 +3222,29 @@ Dodododraw,73866096
 Dodododwarf Gogogoglove,59724555
 DOG Fighter Token,29491335
 Doggy Diver,1003028
-Dogmatika Adin, the Enlightened,33296432
+"Dogmatika Adin, the Enlightened",33296432
 Dogmatika Alba Zoa,51522296
 Dogmatika Ashiyan,13694209
 Dogmatika Chaplain,30394645
-Dogmatika Ecclesia, the Virtuous,60303688
+"Dogmatika Ecclesia, the Virtuous",60303688
 Dogmatika Encounter,29354228
-Dogmatika Fleurdelis, the Knighted,69680031
-Dogmatika Fleurdelis, the Thunderous,73355772
+"Dogmatika Fleurdelis, the Knighted",69680031
+"Dogmatika Fleurdelis, the Thunderous",73355772
 Dogmatika Genesis,56588755
 Dogmatika Maximus,95679145
 Dogmatika Nation,65589010
 Dogmatika Nexus,22073844
 Dogmatika Punishment,82956214
-Dogmatika Theo, the Iron Punch,96891787
+"Dogmatika Theo, the Iron Punch",96891787
 Dogmatikacism,87481592
 Dogmatikalamity,31002402
 Dogmatikalamity Alba System,93053159
 Dogmatikamacabre,60921537
 Dogmatikamatrix,35569555
 Dogmatikaturgy,42158279
-Dogoran, the Mad Flame Kaiju,93332803
+"Dogoran, the Mad Flame Kaiju",93332803
 Dogu,95816395
-Dogurad, the Stonetrooper,42021064
+"Dogurad, the Stonetrooper",42021064
 Doitsu,57062206
 Doki Doki,42143067
 Dokuroizo the Grim Reaper,25882881
@@ -3263,9 +3263,9 @@ Dominus Spiral,42091632
 Don Thousand's Throne,93238626
 Don Turtle,3493978
 Don Zaloog,76922029
-Don't Slip, the Dogs of War,65938950
-Donner, Dagger Fur Hire,8728498
-Donpa, Marksman Fur Hire,94073244
+"Don't Slip, the Dogs of War",65938950
+"Donner, Dagger Fur Hire",8728498
+"Donpa, Marksman Fur Hire",94073244
 Donyoribo @Ignister,14146794
 Doodle Beast - Stego,31230289
 Doodle Beast - Tyranno,67725394
@@ -3276,7 +3276,7 @@ Doom Kraken,69436288
 Doom Shaman,94944637
 Doom Virus Dragon,22804644
 Doom-Z Break Diactorus,31010081
-Doom-Z Command "D.O.O.M.D.U.R.G.",68831625
+"Doom-Z Command ""D.O.O.M.D.U.R.G.""",68831625
 Doom-Z Destruction,80320877
 Doom-Z End - Drastrius,95626382
 Doom-Z Five - Amalthe,28877382
@@ -3343,7 +3343,7 @@ Double-Edged Sword,41927278
 Double-Edged Sword Technique,21007444
 Double-Headed Dino King Rex,55349196
 Doublebyte Dragon,23971061
-Dovelgus, Generaider Boss of Iron,76382116
+"Dovelgus, Generaider Boss of Iron",76382116
 Downbeat,96540
 Downerd Magician,72167543
 Dowsing Fusion,72490637
@@ -3355,7 +3355,7 @@ Draco Face-Off,14733538
 Draco Masters of the Tenyi,23935886
 Draco Stand-Off,66092596
 Draco-Utopian Aura,9070454
-Dracoback, the Rideable Dragon,38745520
+"Dracoback, the Rideable Dragon",38745520
 Dracocension,16960351
 Draconnection,90887783
 Draconnet,62706865
@@ -3373,9 +3373,9 @@ Dracotail Sting,80208225
 Dracotail Urgula,70871153
 Dragard,65737274
 Dragged Down into the Grave,16435215
-Draghig, Malebranche of the Burning Abyss,45593826
+"Draghig, Malebranche of the Burning Abyss",45593826
 Dragocytos Corrupted Nethersoul Dragon,21435914
-Dragodies, the Empowered Warrior,65472618
+"Dragodies, the Empowered Warrior",65472618
 Dragolithia Kunzite,48705086
 Dragon Buster Destruction Sword,76218313
 Dragon Caller,300202003
@@ -3442,7 +3442,7 @@ Dragonmaid Tinkhec,42055234
 Dragonmaid Welcome,14625090
 Dragonoid Generator,28053763
 Dragonoid Token,28053764
-Dragonox, the Empowered Warrior,92870717
+"Dragonox, the Empowered Warrior",92870717
 Dragonpit Magician,51531505
 Dragonpulse Magician,15146890
 Dragonroid,9069157
@@ -3512,11 +3512,11 @@ Dream Mirror Recap,81038234
 Dream Shark,6180710
 Dream Tower of Princess Nemleria,18458255
 Dreaming Nemleria,70155677
-Dreaming Reality of Nemleria, Realized,16893370
+"Dreaming Reality of Nemleria, Realized",16893370
 Dreamland,26920296
 Dreamsprite,8687195
-Dreiath III, the True Dracocavalry General,94982447
-Driangle, Dragon of the Dark Deep,98248208
+"Dreiath III, the True Dracocavalry General",94982447
+"Driangle, Dragon of the Dark Deep",98248208
 Dried Winds,28265983
 Drill Armed Dragon,46221535
 Drill Barnacle,24137081
@@ -3562,25 +3562,25 @@ Dual Avatar Fists - Yuhi,85360035
 Dual Avatar Invitation,87669904
 Dual Avatar Return,49752795
 Duality,39973386
-Duamutef, Blessing of Horus,11335209
+"Duamutef, Blessing of Horus",11335209
 Duck Dummy,43803845
 Duck Fighter,54813225
 DUCKER Mobile Cannon,14506878
 Duel Academy,5833312
-Duel Link Dragon, the Duel Dragon,60025883
+"Duel Link Dragon, the Duel Dragon",60025883
 Duel Tower,43940008
 Duelist Alliance,37469904
 Duelist Genesis,97474300
 Duelittle Chimera,37880706
 Dueltaining,19162134
-Duke Shade, the Sinister Shadow Lord,12766474
+"Duke Shade, the Sinister Shadow Lord",12766474
 Dummy Golem,13532663
 Dunames Dark Witch,12493482
 Dungeon Worm,51228280
-Dunnell, the Noble Arms of Light,65952776
+"Dunnell, the Noble Arms of Light",65952776
 Duoterion,43017476
 Dupe Frog,46239604
-Duralume, Vaalmonican Heathen Hallow,76821171
+"Duralume, Vaalmonican Heathen Hallow",76821171
 Dust Barrier,31476755
 Dust Knight,35195612
 Dust Storm of Gusto,8414337
@@ -3596,7 +3596,7 @@ Dwimmered Path,24721709
 Dyna Base,39396763
 Dyna Mondo,73898890
 Dyna Tank,75780818
-Dyna, Hero Fur Hire,25123713
+"Dyna, Hero Fur Hire",25123713
 Dynatherium,7409792
 Dystopia the Despondent,52085072
 DZW - Chimera Clad,6330307
@@ -3605,7 +3605,7 @@ E Stranger Big Bang,49139666
 E.M.R.,17427333
 Eagle Eye,53693416
 Eagle Shark,7500772
-Eanoc, Sentry of the Ghoti,9416697
+"Eanoc, Sentry of the Ghoti",9416697
 Earth Armor Ninja,22812068
 Earth Chant,59820352
 Earth Effigy,53461122
@@ -3653,8 +3653,8 @@ Echelon of the Fire Kings,38798785
 Echo Oscillation,15582767
 Eclipse Twins,45852939
 Eclipse Wyvern,51858306
-Eclipse, Dragon Ruler of Catastrophes,30350202
-Eco, Mystical Spirit of the Forest,4192696
+"Eclipse, Dragon Ruler of Catastrophes",30350202
+"Eco, Mystical Spirit of the Forest",4192696
 Ecole de Zone,60514625
 Ectoplasmer,97342942
 Ectoplasmic Fortification!,300101001
@@ -3673,7 +3673,7 @@ Effect Veiler,97268402
 Ego Boost,73178098
 Egotistical Ape,96914272
 Egyptian God Slime,42166000
-Ehren, Lightsworn Monk,44178886
+"Ehren, Lightsworn Monk",44178886
 Ehther the Heavenly Monarch,96570609
 Eidos the Underworld Monarch,31596518
 Eidos the Underworld Squire,59463312
@@ -3690,7 +3690,7 @@ El Shaddoll Grysta,48424886
 El Shaddoll Shekhinaga,74822425
 El Shaddoll Wendigo,74009824
 El Shaddoll Winda,94977269
-Elborz, the Sacred Lands of Simorgh,92223430
+"Elborz, the Sacred Lands of Simorgh",92223430
 Eldeen,6367785
 Elder Entity N'tss,80532587
 Elder Entity Norden,17412721
@@ -3801,7 +3801,7 @@ Elemental HERO Woodsman,75434695
 Elemental Mistress Doriado,99414168
 Elemental Recharge,36586443
 Elemental Training,11167052
-Elements of Thunder, Water, and Wind,300302048
+"Elements of Thunder, Water, and Wind",300302048
 Elementsaber Aina,83032858
 Elementsaber Lapauila,18214905
 Elementsaber Lapauila Mana,71797713
@@ -3816,7 +3816,7 @@ Elf's Light,39897277
 Eliminating the League,73872164
 Elphase,60292055
 Elzette of the White Forest,61980241
-Elzette, Azamina of the White Forest,38648860
+"Elzette, Azamina of the White Forest",38648860
 EM:P Meowmine,48017189
 Embers of the Ashened,35035985
 Emblem of Dragon Destroyer,6390406
@@ -3835,7 +3835,7 @@ EMERGENCY!,61292243
 Emergeroid Call,70628672
 Emerging Emergency Rescute Rescue,97926515
 Emes the Infinity,43580269
-Emilia, Dance Priestess of the Nekroz,87003671
+"Emilia, Dance Priestess of the Nekroz",87003671
 Emissary from Pandemonium,42685062
 Emissary from the House of Wax,87462901
 Emissary of Darkness Token,44330099
@@ -3865,10 +3865,10 @@ End of the World,8198712
 Endless Decay,7845138
 Endless Engine Argyro System,21887075
 Endless Traps,300302007
-Endymion, the Crescent of Magistus,20714553
-Endymion, the Magistus of Mastery,9482987
-Endymion, the Master Magician,40732515
-Endymion, the Mighty Master of Magic,3611830
+"Endymion, the Crescent of Magistus",20714553
+"Endymion, the Magistus of Mastery",9482987
+"Endymion, the Master Magician",40732515
+"Endymion, the Mighty Master of Magic",3611830
 Endymion's Lab,65342096
 Enemy Controller,98045062
 Energizing Elements,300302029
@@ -3879,11 +3879,11 @@ Enervating Mist,26022485
 Engine Token,82556059
 Engraver of the Mark,50078320
 Enigmaster Packbit,72444406
-Enishi, Shien's Chancellor,38280762
+"Enishi, Shien's Chancellor",38280762
 Enlightenment,57274196
 Enlightenment Dragon,46186135
 Enlightenment Paladin,59123194
-Enlilgirsu, the Orcust Mekk-Knight,74820316
+"Enlilgirsu, the Orcust Mekk-Knight",74820316
 Enma's Judgment,32120116
 Enneacraft - Aizaβ.LEON,82359538
 Enneacraft - Archaη.TAIL,100446023
@@ -3891,15 +3891,15 @@ Enneacraft - Astaγ.PIXIEA,28454232
 Enneacraft - Atoriϝ.MAR,100446022
 Enneacraft - Rebirth,100446026
 Enneacraft - Release,100446025
-Enneacraft α' "orgIA",100446016
-Enneacraft β' "alazoneIA",100446017
-Enneacraft ϝ' "tromarIA",100446018
-Enneacraft θ' "oknirIA",100446019
-Enneapolis, the Sinquisition City,100446024
+"Enneacraft α' ""orgIA""",100446016
+"Enneacraft β' ""alazoneIA""",100446017
+"Enneacraft ϝ' ""tromarIA""",100446018
+"Enneacraft θ' ""oknirIA""",100446019
+"Enneapolis, the Sinquisition City",100446024
 Enraged Battle Ox,76909279
 Enraged Muka Muka,91862578
 Envoy of Chaos,38695361
-Epigonen, the Impersonation Invader,51611041
+"Epigonen, the Impersonation Invader",51611041
 Epsilon The Magnet Warrior,52566270
 Epurrely Beauty,98049934
 Epurrely Happiness,52645235
@@ -3911,7 +3911,7 @@ Eradicator Epidemic Virus,54974237
 Erebus the Underworld Monarch,23064604
 Eria the Water Channeler,15746348
 Eria the Water Charmer,74364659
-Eria the Water Charmer, Gentle,73309655
+"Eria the Water Charmer, Gentle",73309655
 Erica the Rikka Fairy,7407724
 Escalation of the Monarchs,18235309
 Escape from the Dark Dimension,31550470
@@ -4044,7 +4044,7 @@ Evolzar Dolkka,42752141
 Evolzar Laggia,74294676
 Evolzar Lars,35103106
 Evolzar Solda,18511599
-Exa, Enforcer of the Nekroz,53180020
+"Exa, Enforcer of the Nekroz",53180020
 Exarion Universe,63749102
 Exceed the Pendulum,92812851
 Exchange,5556668
@@ -4059,7 +4059,7 @@ Exile of the Wicked,26725158
 Exiled Force,74131780
 Exodia Necross,12600382
 Exodia the Forbidden One,33396948
-Exodia, the Legendary Defender,5008836
+"Exodia, the Legendary Defender",5008836
 Exodius the Ultimate Forbidden Lord,13893596
 Exosister Arment,4408198
 Exosister Asophiel,41524885
@@ -4101,7 +4101,7 @@ Extra Veiler,32391566
 Extra-Foolish Burial,57995165
 Extraceratops,38383368
 Exxod Fires of Rage,23617756
-Exxod, Master of The Guard,55737443
+"Exxod, Master of The Guard",55737443
 Eye of Illusion,23446369
 Eye of the Void,57047293
 Eyearmor,64511793
@@ -4196,11 +4196,11 @@ Familiar-Possessed - Eria,68881649
 Familiar-Possessed - Hiita,4376658
 Familiar-Possessed - Lyna,40542825
 Familiar-Possessed - Wynn,31764353
-Fandora, the Flying Furtress,64400161
+"Fandora, the Flying Furtress",64400161
 Fantastic Striborg,79176962
 Fantastical Dragon Phantazmay,78661338
 Farewelcome Labrynth,32785578
-Farfa, Malebranche of the Burning Abyss,36553319
+"Farfa, Malebranche of the Burning Abyss",36553319
 Farm Delivery,27001740
 FaSolfachord Fancia,54100561
 Fatal Abacus,77910045
@@ -4215,9 +4215,9 @@ Feather Shot,19394153
 Feather Wind,71060915
 Featherizer,32271987
 Feedback Warrior,50785356
-Feedran, the Winds of Mischief,92597893
+"Feedran, the Winds of Mischief",92597893
 Felgrand Dragon,3954901
-Felis, Lightsworn Archer,73176465
+"Felis, Lightsworn Archer",73176465
 Fencing Fire Ferret,97396380
 Fenghuang,50866755
 Fengli the Soldrapom,35311929
@@ -4270,7 +4270,7 @@ Fighting Flame Swordsman,1047075
 Fighting Spirit,6178850
 Filia Diabell,78293584
 Filia Regis,70538272
-Filo, Messenger Fur Hire,36205132
+"Filo, Messenger Fur Hire",36205132
 Final Attack Orders,52503575
 Final Bringer of the End Times,54261514
 Final Countdown,95308449
@@ -4286,7 +4286,7 @@ Final Light,17956906
 Final Psychic Ogre,87622767
 Final Ritual of the Ancients,60369732
 Fine,92595643
-Finis Terrae, Tower of the Necroworld,51849482
+"Finis Terrae, Tower of the Necroworld",51849482
 Finite Cards,48310593
 Fire Ant Ascator,78275321
 Fire Cracker,81109178
@@ -4425,7 +4425,7 @@ Flip Flop Frog,81278754
 Flip Frozen,32176662
 Flipping Feline,11024707
 Flock Together,50134646
-Flogos, the Ogdoadic Boundless,9400127
+"Flogos, the Ogdoadic Boundless",9400127
 Floodgate Trap Hole,69599136
 Floowandereeze & Eglen,54334420
 Floowandereeze & Empen,80611581
@@ -4478,13 +4478,13 @@ Fluffal Rabbit,38124994
 Fluffal Sheep,98280324
 Fluffal Wings,72413000
 Flyfang,11954712
-Flying "C",80978111
+"Flying ""C""",80978111
 Flying Elephant,66765023
 Flying Fish,31987274
 Flying Fortress SKY FIRE,16898077
 Flying Kamakiri #1,84834865
 Flying Kamakiri #2,3134241
-Flying Mary, the Wandering Ghost Ship,95784714
+"Flying Mary, the Wandering Ghost Ship",95784714
 Flying Pegasus Railroad Stampede,88875132
 Flying Penguin,5628232
 Flying Red Carp,33314479
@@ -4494,7 +4494,7 @@ Fog Control,63741331
 Fog King,6614221
 Fog Warning,300302065
 Foie Glasya de Nouvelles,15001940
-Folgo, Justice Fur Hire,66023650
+"Folgo, Justice Fur Hire",66023650
 Follow Wind,98252586
 Follow Wing,42776855
 Fool of Prophecy,63175639
@@ -4577,7 +4577,7 @@ Freezing Chains of the Ice Barrier,43582229
 Freki the Runick Fangs,47219274
 Frenzied Panda,98818516
 Frequency Magician,62154416
-Freya, Spirit of Victory,12398280
+"Freya, Spirit of Victory",12398280
 Frightfur Bear,85545073
 Frightfur Chimera,83866861
 Frightfur Cruel Whale,78778375
@@ -4598,7 +4598,7 @@ Frightfur Sheep,57477163
 Frightfur Tiger,464362
 Frightfur Wolf,11039171
 Friller Rabca,93830681
-Frodi, Generaider Boss of Swords,40998517
+"Frodi, Generaider Boss of Swords",40998517
 Froggy Forcefield,34351849
 Frontier Wiseman,38742075
 Frontline Base,46181000
@@ -4636,7 +4636,7 @@ Fury of Thunder,300302005
 Fuse Line,51091138
 Fushi No Tori,38538445
 Fushioh Richie,39711336
-Fusilier Dragon, the Dual-Mode Beast,51632798
+"Fusilier Dragon, the Dual-Mode Beast",51632798
 Fusion Armament,61070601
 Fusion Conscription,17194258
 Fusion Deployment,6498706
@@ -4674,9 +4674,9 @@ G Golem Rock Hammer,98875863
 G Golem Stubborn Menhir,97053215
 G.B. Hunter,4130270
 Gaap the Divine Soldier,37955049
-Gabrion, the Timelord,6616912
+"Gabrion, the Timelord",6616912
 Gachi Gachi Gantetsu,10002346
-Gadarla, the Mystery Dust Kaiju,36956512
+"Gadarla, the Mystery Dust Kaiju",36956512
 Gadget Arms,47985614
 Gadget Box,8025950
 Gadget Driver,54497620
@@ -4714,29 +4714,29 @@ Gagagigo the Risen,9053187
 Gagaku-P.U.N.K. Crash Beat,17691568
 Gagaku-P.U.N.K. Wa Gon,50642380
 Gagaku-P.U.N.K. Wild Picking,81192859
-Gaia Blaze, the Force of the Sun,9709452
-Gaia Dragon, the Thunder Charger,91949988
-Gaia Drake, the Universal Force,58601383
-Gaia Knight, the Force of Earth,97204936
+"Gaia Blaze, the Force of the Sun",9709452
+"Gaia Dragon, the Thunder Charger",91949988
+"Gaia Drake, the Universal Force",58601383
+"Gaia Knight, the Force of Earth",97204936
 Gaia Plate the Earth Giant,14258627
 Gaia Power,56594520
-Gaia Prominence, the Fierce Force,95095116
-Gaia Saber, the Lightning Shadow,67598234
+"Gaia Prominence, the Fierce Force",95095116
+"Gaia Saber, the Lightning Shadow",67598234
 Gaia Soul the Combustible Collective,51355346
-Gaia Stream, the Graceful Force,13289758
+"Gaia Stream, the Graceful Force",13289758
 Gaia the Dragon Champion,66889139
 Gaia The Fierce Knight,6368038
 Gaia the Fierce Knight Origin,50354944
 Gaia the Magical Knight,34130561
 Gaia the Magical Knight of Dragons,15989522
-Gaia, the Mid-Knight Sun,40371092
-Gaia, the Polar Knight,14882493
+"Gaia, the Mid-Knight Sun",40371092
+"Gaia, the Polar Knight",14882493
 Gaiarmor Dragonshell,49816630
 Galactic Charity,20349913
 Galactic Spiral Dragon,88774734
 Galactikuriboh,46261704
-Galatea-I, the Orcust Automaton,48835607
-Galatea, the Orcust Automaton,30741503
+"Galatea-I, the Orcust Automaton",48835607
+"Galatea, the Orcust Automaton",30741503
 Galaxy Brave,55168550
 Galaxy Cleric,28770951
 Galaxy Cyclone,5133471
@@ -4777,7 +4777,7 @@ Gallis the Star Beast,30915572
 Galloping Gaia,2106266
 Gamble,37313786
 Gambler of Legend,2196767
-Gameciel, the Sea Turtle Kaiju,55063751
+"Gameciel, the Sea Turtle Kaiju",55063751
 Gamma The Electromagnet Warrior,15502037
 Gamma the Magnet Warrior,11549357
 Gamushara,85709845
@@ -4793,20 +4793,20 @@ Garbage Ogre,18698739
 Garden Rose Flora,76524506
 Garden Rose Maiden,53325667
 Gargardo the Necroforger Fiend,32872239
-Garlandolf, King of Destruction,30646525
+"Garlandolf, King of Destruction",30646525
 Garma Sword,90844184
 Garma Sword Oath,78577570
 Garmr of the Nordic Beasts,88283496
 Garnecia Elefantis,49888191
 Garoozis,14977074
-Garoth, Lightsworn Warrior,59019082
+"Garoth, Lightsworn Warrior",59019082
 Garuda the Wind Spirit,12800777
 Garum the Storm Vassal,22382087
-Garunix Eternity, Hyang of the Fire Kings,64182380
-Garura, Wings of Resonant Life,11765832
+"Garunix Eternity, Hyang of the Fire Kings",64182380
+"Garura, Wings of Resonant Life",11765832
 Garvas,69780745
 Gash the Dust Lord,19012345
-Gashadokuro, the Skeletal Mayakashi,39475024
+"Gashadokuro, the Skeletal Mayakashi",39475024
 Gatchiri @Ignister,82257671
 Gate Blocker,8102334
 Gate Deeg,49258578
@@ -4952,14 +4952,14 @@ Genex Worker,93882364
 Genin,49370026
 Genomix Fighter,42155488
 Genro Ryu-Ge Hakva,56499179
-Genta, Gateman of Dark World,77895328
+"Genta, Gateman of Dark World",77895328
 Gentlemander,54635862
 Geo Genex,33972299
 Geomancer of the Ice Barrier,56704140
 Geomathmech Final Sigma,42632209
 Geomathmech Magma,15248594
 Geonator Transverser,52119435
-Georgius, Swordman of the Ice Barrier,32991027
+"Georgius, Swordman of the Ice Barrier",32991027
 Gergonne's End,59490397
 Geri the Runick Fangs,28373620
 Germ Infection,24668830
@@ -4970,12 +4970,12 @@ Getsu Fuhma,21887179
 Ghost Beef,84046493
 Ghost Belle & Haunted Mansion,73642296
 Ghost Bird of Bewitchment,15419596
-Ghost Charon, the Underworld Boatman,23379054
+"Ghost Charon, the Underworld Boatman",23379054
 Ghost Fairy Elfobia,44663232
 Ghost Fusion,35705817
 Ghost Gardna,59965151
 Ghost Knight of Jackal,13386503
-Ghost Lancer, the Underworld Spearman,64104037
+"Ghost Lancer, the Underworld Spearman",64104037
 Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga,62219643
 Ghost Meets Girl - A Mayakashi's Manuscript,83266006
 Ghost Meets Girl - A Shiranui's Story,13965201
@@ -4985,9 +4985,9 @@ Ghost Ogre & Snow Rabbit,59438930
 Ghost Reaper & Winter Cherries,62015408
 Ghost Ship,33347467
 Ghost Sister & Spooky Dogwood,60643553
-Ghost Sleeper, the Underworld Princess,99370594
+"Ghost Sleeper, the Underworld Princess",99370594
 Ghost Token,35268888
-Ghost Wyvern, the Underworld Dragon,61103515
+"Ghost Wyvern, the Underworld Dragon",61103515
 Ghostrick Alucard,75367227
 Ghostrick Angel of Mischief,53334641
 Ghostrick Break,80802524
@@ -5057,7 +5057,7 @@ Gift of The Mystical Elf,98299011
 Giga Gagagigo,43793530
 Giga-Tech Wolf,8471389
 Gigantes,47606319
-Gigantic "Champion" Sargas,11132674
+"Gigantic ""Champion"" Sargas",11132674
 Gigantic Cephalotus,82116191
 Gigantic Spright,54498517
 Gigantic Thundercross,34047456
@@ -5097,7 +5097,7 @@ Gimmick Puppet Terror Baby,43598843
 Gimmick Puppet Twilight Joker,92821268
 Gingerbread House,79922118
 Girochin Kuwagata,84620194
-Girsu, the Orcust Mekk-Knight,69811710
+"Girsu, the Orcust Mekk-Knight",69811710
 Gishki Abyss,67111213
 Gishki Aquamirror,46159582
 Gishki Ariel,92784374
@@ -5120,16 +5120,16 @@ Gishki Vanity,93506862
 Gishki Vision,47106439
 Gishki Zielgigas,66729231
 Give and Take,55465441
-Gizmek Arakami, the Hailbringer Hog,59789370
-Gizmek Inaba, the Hopping Hare of Hakuto,50901852
-Gizmek Kaku, the Supreme Shining Sky Stag,63633694
-Gizmek Makami, the Ferocious Fanged Fortress,46809548
-Gizmek Naganaki, the Sunrise Signaler,96399967
-Gizmek Okami, the Dreaded Deluge Dragon,43218406
-Gizmek Orochi, the Serpentron Sky Slasher,71197066
-Gizmek Taniguku, the Immobile Intellect,23384666
-Gizmek Uka, the Festive Fox of Fecundity,90361289
-Gizmek Yata, the Gleaming Vanguard,13224603
+"Gizmek Arakami, the Hailbringer Hog",59789370
+"Gizmek Inaba, the Hopping Hare of Hakuto",50901852
+"Gizmek Kaku, the Supreme Shining Sky Stag",63633694
+"Gizmek Makami, the Ferocious Fanged Fortress",46809548
+"Gizmek Naganaki, the Sunrise Signaler",96399967
+"Gizmek Okami, the Dreaded Deluge Dragon",43218406
+"Gizmek Orochi, the Serpentron Sky Slasher",71197066
+"Gizmek Taniguku, the Immobile Intellect",23384666
+"Gizmek Uka, the Festive Fox of Fecundity",90361289
+"Gizmek Yata, the Gleaming Vanguard",13224603
 Glacial Beast Blizzard Wolf,43175027
 Glacial Beast Iceberg Narwhal,6568731
 Glacial Beast Polar Penguin,79169622
@@ -5184,7 +5184,7 @@ Gladiator Rejection,93684009
 Gladiator Taming,9780364
 Gladiator's Return,24285858
 Glass Slippers,9677699
-Gleipnir, the Fetters of Fenrir,14464864
+"Gleipnir, the Fetters of Fenrir",14464864
 Glife the Phantom Bird,899287
 Glorious Illusion,61962135
 Glorious Numbers,60944809
@@ -5248,7 +5248,7 @@ Gogogo Golem,62476815
 Gogogo Golem - Golden Form,2948263
 Gogogo Goram,59911557
 Gogogo Talisman,63583431
-Goka, the Pyre of Malice,23116808
+"Goka, the Pyre of Malice",23116808
 Gokibore,15367030
 Gokipole,17535764
 Gokipon,14472500
@@ -5271,7 +5271,7 @@ Gold Pride - Start Your Engines!,21677871
 Gold Pride - That Came Out of Nowhere!,91286284
 Gold Pride - The Crowd Goes Wild!,95283172
 Gold Sarcophagus,75500286
-Goldd, Wu-Lord of Dark World,78004197
+"Goldd, Wu-Lord of Dark World",78004197
 Golden Allure Queen,95937545
 Golden Bamboo Sword,74029853
 Golden Castle of Stromberg,72283691
@@ -5284,7 +5284,7 @@ Golden Ladybug,87102774
 Golden Land Forever!,56984514
 Golden Rule,3574681
 Golden-Eyes Idol,78642798
-Goldenhair, the Newest Plunder Patroll,81344070
+"Goldenhair, the Newest Plunder Patroll",81344070
 Goldilocks the Battle Landscaper,24521754
 Golem Dragon,9666558
 Golem Sentry,52323207
@@ -5300,7 +5300,7 @@ Gora Turtle of Illusion,42868711
 Gordian Slicer,66236707
 Gorgon Egg,11793047
 Gorgon of Zilofthonia,12067160
-Gorgon, Empress of the Evil Eyed,29357687
+"Gorgon, Empress of the Evil Eyed",29357687
 Gorgon's Eye,52648457
 Gorgonic Cerberus,37168514
 Gorgonic Gargoyle,64379261
@@ -5355,8 +5355,8 @@ Graceful Revival,98273947
 Graceful Tear,9032529
 Gradius,10992251
 Gradius' Option,14291024
-Graff, Malebranche of the Burning Abyss,20758643
-Gragonith, Lightsworn Dragon,21785144
+"Graff, Malebranche of the Burning Abyss",20758643
+"Gragonith, Lightsworn Dragon",21785144
 Granadora,13944422
 Grand Convergence,38430673
 Grand Horn of Heaven,1637760
@@ -5373,8 +5373,8 @@ Granmarg the Mega Monarch,15545291
 Granmarg the Rock Monarch,60229110
 GranSolfachord Coolia,84521924
 GranSolfachord Musecia,37972500
-Grapha, Dragon Lord of Dark World,34230233
-Grapha, Dragon Overlord of Dark World,39552584
+"Grapha, Dragon Lord of Dark World",34230233
+"Grapha, Dragon Overlord of Dark World",39552584
 Grapple Blocker,32907538
 Grappler,2906250
 Grappler Angler,16632144
@@ -5462,7 +5462,7 @@ Greed Grado,3972721
 Greed Jar,76593718
 Greed Quasar,50263751
 Greedy Venom Fusion Dragon,51570882
-Green Baboon, Defender of the Forest,46668237
+"Green Baboon, Defender of the Forest",46668237
 Green Duston,52182715
 Green Gadget,41172955
 Green Ninja,15198996
@@ -5470,7 +5470,7 @@ Green Phantom King,22910685
 Green Turtle Summoner,54747648
 Greenkappa,61831093
 Gren Maju Da Eiza,36584821
-Gren, Tactician of Dark World,51232472
+"Gren, Tactician of Dark World",51232472
 Grenosaurus,47506081
 Grenosaurus Giga-Cannon,34481518
 Grid Rod,30552375
@@ -5487,7 +5487,7 @@ Ground Attacker Bugroth,58314394
 Ground Collapse,90502999
 Ground Spider,17243896
 Ground Xeno,67523044
-Groza, Tyrant of Thunder,45420955
+"Groza, Tyrant of Thunder",45420955
 Gruesome Goo,65623423
 Gruesome Grave Squirmer,24215921
 Gryphon Wing,55608151
@@ -5534,14 +5534,14 @@ Guardragon Shield,50186558
 Guerilla Kite,54629413
 Guiding Ariadne,98301564
 Guiding Light,69865139
-Guiding Quem, the Virtuous,45883110
+"Guiding Quem, the Virtuous",45883110
 Guilt of the Sinful Spoils,88695895
 Guilt-Gripping Morganite,61822419
 Guitar Gurnards Duonigis,79724755
 Guldfaxe of the Nordic Beasts,41788781
 Gullveig of the Nordic Ascendant,90207654
 Gundari,38975369
-Gungnir, Dragon of the Ice Barrier,65749035
+"Gungnir, Dragon of the Ice Barrier",65749035
 Gunkan Suship Catch-of-the-Day,83008724
 Gunkan Suship Daily Special,24393683
 Gunkan Suship Ikura,61027400
@@ -5553,7 +5553,7 @@ Gunkan Suship Shirauo-class Carrier,21293424
 Gunkan Suship Uni,42377643
 Gunkan Suship Uni-class Super-Dreadnought,94798725
 Gunkan Sushipyard Seaside Supper Spot,62200831
-Guoglim, Spear of the Ghoti,2405631
+"Guoglim, Spear of the Ghoti",2405631
 Gussari @Ignister,55762976
 Gust,73079365
 Gust Fan,55321970
@@ -5566,7 +5566,7 @@ Gusto Squirro,336369
 Gusto Thunbolt,28066831
 Gusto Vedir,86277379
 Guts of Steel,33970665
-Gwenhwyfar, Queen of Noble Arms,19748583
+"Gwenhwyfar, Queen of Noble Arms",19748583
 Gyaku-Gire Panda,9817927
 Gyakutenno Megami,31122090
 Gyroid,18325492
@@ -5575,22 +5575,22 @@ Ha-Re the Sword Mikanko,18377261
 Hack Worm,97466712
 Hade-Hane,28357177
 Haggard Lizardose,9763474
-Hailon, the Timelord,34137269
-Hajun, the Winged Mayakashi,41729254
+"Hailon, the Timelord",34137269
+"Hajun, the Winged Mayakashi",41729254
 Half Counter,6799227
 Half or Nothing,15552258
 Half Shut,73048641
 Half Unbreak,981540
 Halfway to Forever,20285786
 Hallo-Ween!,4341721
-Hallo, the Spirit of Tricks,54611591
+"Hallo, the Spirit of Tricks",54611591
 Hallohallo,77994337
 Hallowed Life Barrier,88789641
 Hamburger Recipe,80811661
 Hammer Bounzer,44790889
 Hammer Shark,17201174
 Hammer Shot,26412047
-Hamon, Lord of Striking Thunder,32491822
+"Hamon, Lord of Striking Thunder",32491822
 Han-Shi Kyudo Spirit,53270092
 Hand Destruction,74519184
 Hand of Nephthys,98446407
@@ -5602,7 +5602,7 @@ Hane-Hane,7089711
 Hanewata,20450925
 Haniwa,84285623
 Hannibal Necromancer,5640330
-Hapi, Guidance of Horus,47330808
+"Hapi, Guidance of Horus",47330808
 Happy Lover,99030164
 Hard Armor,20060230
 Hard-sellin' Goblin,68875140
@@ -5635,7 +5635,7 @@ Harpie's Pet Dragon,52040216
 Harpie's Pet Dragon - Fearsome Fire Blast,4991081
 Harpie's Pet Phantasmal Dragon,85909450
 Harpies' Hunting Ground,75782277
-Harr, Generaider Boss of Storms,68199168
+"Harr, Generaider Boss of Storms",68199168
 Harvest Angel of Doom,31987203
 Harvest Angel of Wisdom,85399281
 Hate Buster,93895605
@@ -5684,7 +5684,7 @@ Heavy Storm,19613556
 Heavy Storm Duster,23924608
 Heavymetalfoes Amalgam,61728808
 Heavymetalfoes Electrumite,24094258
-Hebo, Lord of the River,90365482
+"Hebo, Lord of the River",90365482
 Hecahands Breus,100446005
 Hecahands Goddus,100446003
 Hecahands Gygas,100446004
@@ -5695,13 +5695,13 @@ Hecahands Xeno,100446007
 Hecahands Yadel,100446002
 Hecatrice,74968065
 Hedge Guard,59042331
-Hela, Generaider Boss of Doom,75660578
+"Hela, Generaider Boss of Doom",75660578
 Helios - The Primordial Sun,54493213
 Helios Duo Megistus,80887952
 Helios Trice Megistus,17286057
 Heliosphere Dragon,51043053
 Hellebore the Rikka Fairy,60880471
-Helmer, Helmsman Fur Hire,67466547
+"Helmer, Helmsman Fur Hire",67466547
 Helping Robo for Combat,47025270
 Helpoemer,76052811
 Helshaddoll Hollow,92079625
@@ -5781,7 +5781,7 @@ Heroic Retribution Sword,49551909
 Hexa Spirit of the Ice Barrier,70703416
 Hexatellarknight,70422863
 Hexe Trude,46294982
-Hey, Trunade!,64697431
+"Hey, Trunade!",64697431
 Hi-Five the Sky,91677585
 Hi-Speed Re-Level,15555120
 Hi-Speedroid Chanbara,42110604
@@ -5834,7 +5834,7 @@ High Tide Gyojin,54579801
 High Tide on Fire Island,32542011
 Hiita the Fire Channeler,76615300
 Hiita the Fire Charmer,759393
-Hiita the Fire Charmer, Ablaze,48815792
+"Hiita the Fire Charmer, Ablaze",48815792
 Hinezumi Hanabi,71459017
 Hino-Kagu-Tsuchi,75745607
 Hinotama,46130346
@@ -5886,7 +5886,7 @@ House of Adhesive Tape,15083728
 How Did Dai Get Here?,91323605
 Howl of the Wild,97922283
 Howling Insect,93107608
-Hraesvelgr, the Desperate Doom Eagle,49105782
+"Hraesvelgr, the Desperate Doom Eagle",49105782
 Hrimnir the Divine Follower,49904658
 HTS Psyhemuth,15028680
 Hu-Li the Jewel Mikanko,6327734
@@ -5912,14 +5912,14 @@ Hunting Instinct,11925569
 Hurricail,15042735
 Hushed Psychic Cleric,25343017
 Hushed Psychic Minister,36218106
-Hydor, the Base of All Things,30339825
+"Hydor, the Base of All Things",30339825
 Hydra Viper,37869028
 Hydralander Orbit,93953933
 Hydro Genex,47421985
 Hydro Pressure Cannon,12174035
 Hydrogeddon,22587018
 Hydrojet Shark,90315086
-Hydrotortoise, the Empowered Warrior,82176812
+"Hydrotortoise, the Empowered Warrior",82176812
 Hyena,22873798
 Hymn of Light,80566312
 Hyo,38982356
@@ -5997,16 +5997,16 @@ Igknight Templar,97024987
 Igknight Veteran,93662626
 Igknights Unite,38848158
 Ignihorse Dragonith,28103028
-Ignis Heat, the True Dracowarrior,22499034
-Ignis Phoenix, the Dracoslayer,56347375
+"Ignis Heat, the True Dracowarrior",22499034
+"Ignis Phoenix, the Dracoslayer",56347375
 Ignister A.I.Land,59054773
-Ignister Prominence, the Blasting Dracoslayer,18239909
+"Ignister Prominence, the Blasting Dracoslayer",18239909
 Ignition Beast Volcannon,10365322
 Ignition Phoenix,79555535
 Ignoble Knight of Black Laundsallyn,95772051
 Ignoble Knight of High Laundsallyn,83519853
-Ikelos, the Dream Mirror Mara,75888208
-Ikelos, the Dream Mirror Sprite,49389190
+"Ikelos, the Dream Mirror Mara",75888208
+"Ikelos, the Dream Mirror Sprite",49389190
 Il Blud,70595331
 Ill Witch,81686058
 Illegal Knight,42198835
@@ -6039,14 +6039,14 @@ Imperial Tombs of Necrovalley,90434657
 Imperion Magnum the Superconductive Battlebot,4628897
 Imprisoned Queen Archfiend,52248570
 Imprudent Intrusion,26357901
-Imsety, Glory of Horus,84941194
+"Imsety, Glory of Horus",84941194
 In Papa's Footsteps,91668078
 Inaba White Rabbit,77084837
 Inari Fire,62953041
 Incandescent Ordeal,33031674
 Incarnated Machine Angel,91946859
 Incoming Machine!,94661166
-Incredible Ecclesia, the Virtuous,55273560
+"Incredible Ecclesia, the Virtuous",55273560
 Indigo-Eyes Silver Dragon,16699558
 Indiora Doom Volt the Cubic Emperor,3775068
 Indomitable Fighter Lei Lei,84173492
@@ -6178,7 +6178,7 @@ Interceptomato,19113101
 Interdimensional Matter Forwarder,60238002
 Interdimensional Matter Transporter,36261276
 Interdimensional Warp,57384901
-Interplanetary Invader "A",14729426
+"Interplanetary Invader ""A""",14729426
 Interplanetarypurplythorny Beast,80208323
 Interplanetarypurplythorny Dragon,25206027
 Interrupt Resistor,2414168
@@ -6228,7 +6228,7 @@ Inzektor Picofalena,97273514
 Inzektor Sword - Zektkaliber,16550875
 Ipiria,70744296
 Ipt al Hecahands,100446010
-Iris, the Earth Mother,9628664
+"Iris, the Earth Mother",9628664
 Iron Blacksmith Kotetsu,73431236
 Iron Cage,45072394
 Iron Call,64662453
@@ -6250,15 +6250,15 @@ Iron Knight of Revolution,662857
 Iron Thunder,12682213
 Ironhammer the Giant,79185500
 Island Turtle,4042268
-Isolde, Belle of the Underworld,22657402
-Isolde, Two Tales of the Noble Knights,59934749
+"Isolde, Belle of the Underworld",22657402
+"Isolde, Two Tales of the Noble Knights",59934749
 It's a Toon World!,300201007
 It's Jinzo!,300302011
 It's My Lucky Day!,300102004
-It's No Monster, It's a God!,300302012
+"It's No Monster, It's a God!",300302012
 Ivy Shackles,14730606
 Ivy Token,30069399
-Ixeep, Omen of the Ghoti,3137279
+"Ixeep, Omen of the Ghoti",3137279
 Izanagi,6544078
 Izanami,43543777
 Jabbing Panda,36539330
@@ -6269,8 +6269,8 @@ Jack's Knight,90876561
 Jackpot 7,81171949
 Jade Insect Whistle,95214051
 Jade Knight,44364207
-Jain, Lightsworn Paladin,96235275
-Jain, Twilightsworn General,84673417
+"Jain, Lightsworn Paladin",96235275
+"Jain, Twilightsworn General",84673417
 Jam Breeding Machine,21770260
 Jam Defender,21558682
 Jar of Avarice,98954106
@@ -6283,7 +6283,7 @@ Javelin Beetle Pact,41182875
 Jawsman,50532786
 Jelly Cannon,41440817
 Jellyfish,14851496
-Jenis, Lightsworn Mender,83725008
+"Jenis, Lightsworn Mender",83725008
 Jerry Beans Man,23635815
 Jester Confit,8487449
 Jester Lord,72992744
@@ -6291,7 +6291,7 @@ Jet Synchron,9742784
 Jet Warrior,286392
 Jetroid,43697559
 Jewels of the Valiant,72710085
-Jiaotu, Darkness of the Yang Zing,25935625
+"Jiaotu, Darkness of the Yang Zing",25935625
 Jigabyte,40894584
 Jigen Bakudan,90020065
 Jinzo,77585513
@@ -6303,14 +6303,14 @@ Jinzo #7,32809211
 Jinzo the Machine Menace,39987731
 Jioh the Gravity Ninja,92962242
 Jirai Gumo,94773007
-Jizukiru, the Star Destroying Kaiju,63941210
+"Jizukiru, the Star Destroying Kaiju",63941210
 Job-Change Mirror,55337339
 Joker's Knight,29284413
 Joker's Straight,92067220
 Joker's Wild,81945678
 Jolt Counter,8316565
 Jongleur-Ghoul Illusionist,47894537
-Jormungandr, Generaider Boss of Eternity,2665273
+"Jormungandr, Generaider Boss of Eternity",2665273
 Jormungardr the Nordic Serpent,64203620
 Joruri-P.U.N.K. Dangerous Gabu,43685562
 Joruri-P.U.N.K. Madame Spider,82041999
@@ -6326,8 +6326,8 @@ Judgment of the Branded,93595154
 Judgment of the Desert,4869446
 Judgment of the Pharaoh,55948544
 Judgment of Thunder,85080048
-Judgment, the Dragon of Heaven,41659072
-Juke Joint "Killer Tune",100446040
+"Judgment, the Dragon of Heaven",41659072
+"Juke Joint ""Killer Tune""",100446040
 Jumbo Drill,42851643
 Jungle Dweller,73490417
 Junk Anchor,25148255
@@ -6358,7 +6358,7 @@ Junk Warrior Extreme,100348032
 Junkuriboh,38491199
 Jupiter the Power Patron of Destruction,68231287
 Juragedo,59546797
-Juraishin, the Cursed Thunder God,78693036
+"Juraishin, the Cursed Thunder God",78693036
 Jurassic Impact,65430834
 Jurassic Power,99531088
 Jurassic World,10080320
@@ -6392,16 +6392,16 @@ Justice Bringer,26842483
 Justice of Prophecy,26732909
 Jutte Fighter,60410769
 K9-04 Noroi,47960073
-K9-17 "Ripper",27420823
+"K9-17 ""Ripper""",27420823
 K9-17 Izuna,92248362
-K9-666 "Jacks",67515699
+"K9-666 ""Jacks""",67515699
 K9-66a Jokul,28642461
 K9-66b Lantern,55031170
 K9-EW Special Release Experiment,26585784
 K9-LC Release Restraint,27308231
-K9-ØØ "Hound",54919528
+"K9-ØØ ""Hound""",54919528
 K9-ØØ Lupis,91025875
-K9-X "Werewolf",90303227
+"K9-X ""Werewolf""",90303227
 K9-X Forced Release,53792930
 KA-2 Des Scissors,52768103
 Kabazauls,51934376
@@ -6414,7 +6414,7 @@ Kagemusha Raccoon Token,39972130
 Kageningen,80600490
 Kagero the Cannon Ninja,20065259
 Kagetokage,94656263
-Kahkki, Guerilla of Dark World,25847467
+"Kahkki, Guerilla of Dark World",25847467
 Kahyoreigetsu,39049051
 Kai-Den Kendo Spirit,71614230
 Kaibaman,34627841
@@ -6433,44 +6433,44 @@ Kaiser Sea Snake,6442944
 Kaiser Vorse Raider,93927067
 Kaitoptera,50834074
 Kaiza the Hidden Star,25449584
-Kalantosa, Mystical Beast of the Forest,97317530
+"Kalantosa, Mystical Beast of the Forest",97317530
 Kamakiriman,68928540
 Kaminari Attack,9653271
 Kaminote Blow,97570038
-Kamion, the Timelord,91712985
+"Kamion, the Timelord",91712985
 Kamionwizard,41544074
-Kamui, Hope of Gusto,72439556
+"Kamui, Hope of Gusto",72439556
 Kanan the Swordmistress,12829151
 Kangaroo Champ,95789089
 Kanikabuto,84103702
 Kanzashi the Rikka Queen,6284176
 Kappa Avenger,48109103
 Karakuri Anatomy,85541675
-Karakuri Barrel mdl 96 "Shinkuro",92300891
-Karakuri Bonze mdl 9763 "Kunamzan",49296203
-Karakuri Bushi mdl 6318 "Muzanichiha",39118197
+"Karakuri Barrel mdl 96 ""Shinkuro""",92300891
+"Karakuri Bonze mdl 9763 ""Kunamzan""",49296203
+"Karakuri Bushi mdl 6318 ""Muzanichiha""",39118197
 Karakuri Cash Cache,80204957
 Karakuri Cash Inn,3693034
 Karakuri Cash Shed,2924048
-Karakuri Gama mdl 4624 "Shirokunishi",75690317
+"Karakuri Gama mdl 4624 ""Shirokunishi""",75690317
 Karakuri Gama Oil,11699941
 Karakuri Gold Dust,16708652
 Karakuri Klock,79178930
-Karakuri Komachi mdl 224 "Ninishi",24621460
-Karakuri Merchant mdl 177 "Inashichi",30230789
-Karakuri Muso mdl 818 "Haipa",24150026
-Karakuri Ninja mdl 339 "Sazank",93724592
-Karakuri Ninja mdl 7749 "Nanashick",50615578
-Karakuri Ninja mdl 919 "Kuick",6276588
-Karakuri Shogun mdl 00 "Burei",23874409
+"Karakuri Komachi mdl 224 ""Ninishi""",24621460
+"Karakuri Merchant mdl 177 ""Inashichi""",30230789
+"Karakuri Muso mdl 818 ""Haipa""",24150026
+"Karakuri Ninja mdl 339 ""Sazank""",93724592
+"Karakuri Ninja mdl 7749 ""Nanashick""",50615578
+"Karakuri Ninja mdl 919 ""Kuick""",6276588
+"Karakuri Shogun mdl 00 ""Burei""",23874409
 Karakuri Showdown Castle,22751868
-Karakuri Soldier mdl 236 "Nisamu",3846170
+"Karakuri Soldier mdl 236 ""Nisamu""",3846170
 Karakuri Spider,45688586
-Karakuri Steel Shogun mdl 00X "Bureido",66976526
-Karakuri Strategist mdl 248 "Nishipachi",66625883
-Karakuri Super Shogun mdl 00N "Bureibu",25904894
+"Karakuri Steel Shogun mdl 00X ""Bureido""",66976526
+"Karakuri Strategist mdl 248 ""Nishipachi""",66625883
+"Karakuri Super Shogun mdl 00N ""Bureibu""",25904894
 Karakuri Trick House,33184236
-Karakuri Watchdog mdl 313 "Saizan",70271583
+"Karakuri Watchdog mdl 313 ""Saizan""",70271583
 Karate Man,23289281
 Karbonala Warrior,54541900
 Karma Cut,71587526
@@ -6489,9 +6489,9 @@ Kashtira Shangri-Ira,73542331
 Kashtira Unicorn,68304193
 Kashtiratheosis,34447918
 Kattapillar,81179446
-Kayenn, the Master Magma Blacksmith,51554871
+"Kayenn, the Master Magma Blacksmith",51554871
 Kazejin,62340868
-Keaf, Murk of the Ghoti,99529628
+"Keaf, Murk of the Ghoti",99529628
 Keeper of Dragon Magic,48048590
 Keeper of the Shrine,66752837
 Kelbek,54878498
@@ -6500,7 +6500,7 @@ Keldo,80441106
 Keldo the Sacred Protector,63542003
 Ken the Warrior Dragon,25131968
 Ketu Dracotail,6153210
-Keurse, the Ogdoadic Light,62383431
+"Keurse, the Ogdoadic Light",62383431
 Key Mace,1929294
 Key Mace #2,20541432
 Key Man the Key Warrior,23168060
@@ -6545,9 +6545,9 @@ Kiseitai,4266839
 Kishido Spirit,60519422
 Kitchen Dragonmaid,16960120
 Kitsuni Kitsunebi,3361010
-Kittytail, Mystical Beast of the Forest,64475743
+"Kittytail, Mystical Beast of the Forest",64475743
 Kiwi Magician Girl,82627406
-Knight Armed Dragon, the Armored Knight Dragon,98007437
+"Knight Armed Dragon, the Armored Knight Dragon",98007437
 Knight Day Grepher,15767889
 Knight of Armor Dragon,75901113
 Knight of Legend,300204002
@@ -6637,7 +6637,7 @@ Kuebiko,20087414
 Kuibelt the Blade Dragon,87837090
 Kujakujaku,24384095
 Kuji-Kiri Curse,78543464
-Kumongous, the Sticky String Kaiju,29726552
+"Kumongous, the Sticky String Kaiju",29726552
 Kumootoko,56283725
 Kunai with Chain,37390589
 Kunoichi,56514812
@@ -6689,7 +6689,7 @@ Lady of Faith,17358176
 Lady of the Lake,10736540
 Lady Panther,38480590
 Lady's Dragonmaid,48658295
-Laevatein, Generaider Boss of Shadows,74615388
+"Laevatein, Generaider Boss of Shadows",74615388
 Laevateinn the Burning Blade,6260560
 Lair of Darkness,59160188
 Lair Wire,81128478
@@ -6697,7 +6697,7 @@ LaLa Li-oon,9430387
 Lamb Token,60764582
 Lamia,84900597
 LaMoon,75850803
-Lancea, Ancestral Dragon of the Ice Mountain,96402918
+"Lancea, Ancestral Dragon of the Ice Mountain",96402918
 Lancephorhynchus,48940337
 Lancer Archfiend,79418153
 Lancer Dragonute,11125718
@@ -6724,7 +6724,7 @@ Last Resort,97970833
 Last Turn,28566710
 Last Will,85602018
 Latency,3560069
-Latinum, Exarch of Dark World,15667446
+"Latinum, Exarch of Dark World",15667446
 Laughing Flower,42591472
 Laughing Puffin,80275707
 Launcher Commander,35911108
@@ -6760,10 +6760,10 @@ Lavalval Ignis,3989465
 Lavalval Salamander,67797569
 Law of the Cosmos,64659851
 Layard the Liberator,67468948
-Layer 19: "Preventing the Invasion! The Pitch-Black Super Quantum!!",98349765
-Lazion, the Timelord,92435533
+"Layer 19: ""Preventing the Invasion! The Pitch-Black Super Quantum!!""",98349765
+"Lazion, the Timelord",92435533
 Leafplace Plaice,50599453
-Lector Pendulum, the Dracoverlord,7127502
+"Lector Pendulum, the Dracoverlord",7127502
 Ledger of Legerdemain,56256517
 Lee the World Chalice Fairy,21893603
 Leeching the Light,90263923
@@ -6806,11 +6806,11 @@ Legion the Fiend Jester,25280974
 Lekunga,62543393
 Lekunga Token,62543394
 Lemon Magician Girl,34318086
-Lemuria, the Forgotten City,34103656
+"Lemuria, the Forgotten City",34103656
 Leng Ling,70298454
 Leo Wizard,4392470
 Leo Wizard the Dark Fiend,55423549
-Leo, the Keeper of the Sacred Tree,8561192
+"Leo, the Keeper of the Sacred Tree",8561192
 Leodrake's Mane,57201737
 Leogun,10538007
 Leotaur,98225108
@@ -6837,7 +6837,7 @@ LeVirtue Dragon,33113958
 Lib the World Key Blademaster,39752820
 Liberator Eto,24643913
 Liberty at Last!,72022087
-Libic, Malebranche of the Burning Abyss,62957424
+"Libic, Malebranche of the Burning Abyss",62957424
 Libromancer Agent,19516687
 Libromancer Bonded,41085464
 Libromancer Displaced,88083109
@@ -6853,7 +6853,7 @@ Libromancer Mystigirl,52707042
 Libromancer Origin Story,84121302
 Libromancer Prevented,14478717
 Libromancer Realized,15590355
-Lich Lord, King of the Underworld,55818463
+"Lich Lord, King of the Underworld",55818463
 Life Absorbing Machine,14318794
 Life Equalizer,17178486
 Life Extreme,36148308
@@ -6893,7 +6893,7 @@ Lightning Storm,14532163
 Lightning Tricorn,49389523
 Lightning Vortex,69162969
 Lightning Warrior,87259077
-Lightning, Dragon Ruler of Drafts,89185742
+"Lightning, Dragon Ruler of Drafts",89185742
 Lightpulsar Dragon,99365553
 Lightray Daedalus,38737148
 Lightray Diabolos,30126992
@@ -6912,7 +6912,7 @@ Lightsworn Sanctuary,52665542
 Lightwave Tuning,78845026
 Like the Diabell,65289956
 Lil-la Rap,72233469
-Lilith, Lady of Lament,23898021
+"Lilith, Lady of Lament",23898021
 Lillybot,68812773
 Limit Code,86607583
 Limit Impulse,82324105
@@ -6971,22 +6971,22 @@ Living Fossil,34959756
 Living Vase,34320307
 Lizard Soldier,20831168
 Ljosalf of the Nordic Alfar,40666140
-Lo, the Prayers of the Voiceless Voice,25801745
+"Lo, the Prayers of the Voiceless Voice",25801745
 Localized Tornado,64681263
 Lock Cat,52346240
 Lockout Gardna,37310367
 Locomotion R-Genex,38354937
 Loge's Flame,18478530
 Loka Samsara,2116237
-Loki, Lord of the Aesir,67098114
+"Loki, Lord of the Aesir",67098114
 Lollipo★Yummy Way,93192592
 Lollipo☆Yummy,4215180
 Lone Wolf,82452993
 Lonefire Blossom,48686504
-Longirsu, the Orcust Orchestrator,76145142
+"Longirsu, the Orcust Orchestrator",76145142
 Looking into the Future,300302034
 Loop of Destruction,7852509
-Loptr, Shadow of the Generaider Bosses,94183877
+"Loptr, Shadow of the Generaider Bosses",94183877
 Lord British Space Fighter,35514096
 Lord Gaia the Fierce Knight,8910971
 Lord of D.,17985575
@@ -6997,7 +6997,7 @@ Lord of the Red,19025379
 Lord of the Tachyon Galaxy,44466810
 Lord of Zemia,81618817
 Lord Poison,40320754
-Loris, Lady of Lament,50699850
+"Loris, Lady of Lament",50699850
 Lose 1 Turn,24348804
 Loss Time,72453068
 Lost Blue Breaker,95231062
@@ -7009,7 +7009,7 @@ Lovely Labrynth of the Silver Castle,2347656
 Low Blow,300302003
 Lubellion the Searing Dragon,70534340
 Luce the Dusk's Dark,45409943
-Lucent, Netherlord of Dark World,34968834
+"Lucent, Netherlord of Dark World",34968834
 Lucius the Shadow Vassal,58786132
 Lucky Chance,96012004
 Lucky Cloud,82760689
@@ -7020,8 +7020,8 @@ Lucky Punch,36378044
 Lucky Trinket,3985011
 Lullaby of Obedience,39238953
 Lumenize,57115864
-Lumina, Lightsworn Summoner,95503687
-Lumina, Twilightsworn Shaman,56166150
+"Lumina, Lightsworn Summoner",95503687
+"Lumina, Twilightsworn Shaman",56166150
 Luminous Dragon Ritual,34834619
 Luminous Soldier,57482479
 Luminous Spark,81777047
@@ -7052,12 +7052,12 @@ Lunalight Yellow Marten,50546208
 Lunar Queen Elzaim,62210247
 Luster Dragon,11091375
 Luster Dragon #2,17658803
-Luster Pendulum, the Dracoslayer,92746535
+"Luster Pendulum, the Dracoslayer",92746535
 Lycanthrope,84385264
-Lyla, Lightsworn Sorceress,22624373
-Lyla, Twilightsworn Enchantress,10071151
+"Lyla, Lightsworn Sorceress",22624373
+"Lyla, Twilightsworn Enchantress",10071151
 Lyna the Light Charmer,73318863
-Lyna the Light Charmer, Lustrous,9839945
+"Lyna the Light Charmer, Lustrous",9839945
 Lyrilusc - Assembled Nightingale,48608796
 Lyrilusc - Beryl Canary,10182251
 Lyrilusc - Bird Call,45354718
@@ -7150,7 +7150,7 @@ Madolche Waltz,48439321
 Madolchepalooza,23681456
 Maestroke the Symphony Djinn,25341652
 Mage Power,83746708
-Magellanica, the Deep Sea City,26534688
+"Magellanica, the Deep Sea City",26534688
 Magi Magi ☆ Magician Gal,10000030
 Magia Magic - Thunder of Judgment,59080
 Magic Cylinder,62279055
@@ -7288,7 +7288,7 @@ Magnifistorming Summoning Technique,94103142
 Magnum Shield,84877802
 Magnum the Reliever,43227
 Maha Vailo,93013676
-Maha Vailo, Light of the Heavens,45796834
+"Maha Vailo, Light of the Heavens",45796834
 Mahaama the Fairy Dragon,545781
 Maharaghi,40695128
 Mahjong Munia Maidens,53620899
@@ -7318,7 +7318,7 @@ Majespecter Toad - Ogama,645794
 Majespecter Tornado,36183881
 Majespecter Unicorn - Kirin,31178212
 Majespecter Wind,51250293
-Majester Paladin, the Ascending Dracoslayer,88722973
+"Majester Paladin, the Ascending Dracoslayer",88722973
 Majestic Absorption,63144961
 Majestic Dragon,21159309
 Majestic Mech - Goryu,95701283
@@ -7328,9 +7328,9 @@ Majestic Mirage,98020526
 Majestic Red Dragon,67030233
 Majestic Star Dragon,7841112
 Majesty Hyperion,91434602
-Majesty Maiden, the True Dracocaster,95004025
+"Majesty Maiden, the True Dracocaster",95004025
 Majesty of the White Dragons,43219114
-Majesty Pegasus, the Dracoslayer,92332424
+"Majesty Pegasus, the Dracoslayer",92332424
 Majesty with Eyes of Blue,2783661
 Majesty's Fiend,33746252
 Majesty's Pegasus,76473843
@@ -7339,9 +7339,9 @@ Majioshaleon,67211766
 Majiosheldon,59951714
 Major Riot,9074847
 Maju Garzett,8794435
-Makiu, the Magical Mist,27827272
+"Makiu, the Magical Mist",27827272
 Makyura the Destructor,21593977
-Malacoda, Netherlord of the Burning Abyss,35330871
+"Malacoda, Netherlord of the Burning Abyss",35330871
 Malefic Blue-Eyes White Dragon,9433350
 Malefic Claw Stream,53063039
 Malefic Cyber End Dragon,1710476
@@ -7365,7 +7365,7 @@ Malfunction,6137095
 Malice Ascendant,14255590
 Malice Dispersion,13626450
 Malice Doll of Demise,72657739
-Malice, Lady of Lament,25643346
+"Malice, Lady of Lament",25643346
 Malicevorous Fork,61791132
 Malicevorous Knife,98780137
 Malicevorous Spoon,35307484
@@ -7417,12 +7417,12 @@ Marauding Captain,2460565
 March of the Dark Brigade,24037702
 March of the Monarchs,19870120
 March Towards Ragnarok,28643791
-Mardel, Generaider Boss of Light,13903402
+"Mardel, Generaider Boss of Light",13903402
 Mare Mare,54537489
 Margin Trading,62632427
-Mariamne Paradox, the True Dracophoenix Knight,58205203
-Mariamne, the True Dracophoenix,94160895
-Marina, Princess of Sunflowers,78540593
+"Mariamne Paradox, the True Dracophoenix Knight",58205203
+"Mariamne, the True Dracophoenix",94160895
+"Marina, Princess of Sunflowers",78540593
 Marincess Aqua Argonaut,20934852
 Marincess Basilalima,33945211
 Marincess Battle Ocean,91027843
@@ -7503,10 +7503,10 @@ Master of Chaos,85059922
 Master of Ham,9551692
 Master of Oz,27134689
 Master of the Flaming Dragonswords,34160055
-Master Peace, the True Dracoslayer,34079868
-Master Peace, the True Dracoslaying King,21377582
-Master Peace, the True Dracoverlord,12800564
-Master Pendulum, the Dracoslayer,75195825
+"Master Peace, the True Dracoslayer",34079868
+"Master Peace, the True Dracoslaying King",21377582
+"Master Peace, the True Dracoverlord",12800564
+"Master Pendulum, the Dracoslayer",75195825
 Master Tao the Chanter,34541543
 Master with Eyes of Blue,45644898
 Master's Diploman,11327848
@@ -7545,7 +7545,7 @@ Mavelus,59036972
 Max Metalmorph,89812483
 Max Warrior,94538053
 Maximum Six,30707994
-Maxx "C",23434538
+"Maxx ""C""",23434538
 Mayakashi Mayhem,41867019
 Mayakashi Metamorphosis,39753577
 Mayakashi Return,2364438
@@ -7590,7 +7590,7 @@ Medium of the Ice Barrier,88494899
 Medium Piece Golem,58843503
 Medius the Pure,97556336
 Medusa Worm,2694423
-Medusa, Watcher of the Evil Eye,18551923
+"Medusa, Watcher of the Evil Eye",18551923
 Mefist the Infernal General,46820049
 Mega Fortress Whale,96546575
 Mega Thunderball,21817254
@@ -7617,7 +7617,7 @@ Megasonic Eye,7562372
 Megazowler,75390004
 Megirus Light,23032273
 Megistric Maginician,83035296
-Mei-Kou, Master of Barriers,47731128
+"Mei-Kou, Master of Barriers",47731128
 Meizen the Battle Ninja,11825276
 Mekanikal Arkfiend,93715853
 Mekk-Knight Avram,84754430
@@ -7667,7 +7667,7 @@ Meliae of the Trees,64245689
 Melodious Concerto,31458630
 Melodious Illusion,63804637
 Melomelody the Brass Djinn,88942504
-Meltiel, Sage of the Sky,49905576
+"Meltiel, Sage of the Sky",49905576
 Mementoal Tecuhtlica - Combined Creation,23288411
 Mementomictlan,43338320
 Mementomictlan Tecuhtlica - Creation King,14529511
@@ -7729,7 +7729,7 @@ Messenger of Peace,44656491
 Metabo Globster,49808196
 Metabo Token,49808197
 Metabo-Shark,37792478
-Metaion, the Timelord,74530899
+"Metaion, the Timelord",74530899
 Metal Armored Bug,65957473
 Metal Detector,75646520
 Metal Dragon,9293977
@@ -7758,7 +7758,7 @@ Metallizing Parasite - Soltite,87564935
 Metalmorph,68540059
 Metalrokket Dragon,32472237
 Metalsilver Armor,33114323
-Metaltron XII, the True Dracombatant,57761191
+"Metaltron XII, the True Dracombatant",57761191
 Metaltronus,64664373
 Metalzoa,50705071
 Metalzoa X,27268998
@@ -7793,8 +7793,8 @@ Metrognome,26638543
 Mezuki,92826944
 Miasma Dragon Tistina,30373970
 Miasma Necromancer,69176851
-Michael, the Arch-Lightsworn,4779823
-Michion, the Timelord,7733560
+"Michael, the Arch-Lightsworn",4779823
+"Michion, the Timelord",7733560
 Michizure,37580756
 Micro Coder,2347477
 Micro Ray,18190572
@@ -7815,7 +7815,7 @@ Mikanko Rivalry,78199891
 Mikanko Spiritwalk,53174748
 Mikanko Water Arabesque,43527730
 Mikazukinoyaiba,38277918
-Mikazukinoyaiba, the Moon Fang Dragon,85753549
+"Mikazukinoyaiba, the Moon Fang Dragon",85753549
 Mild Turkey,47558785
 Milla the Temporal Magician,33225925
 Millennium Ankh,37613663
@@ -7870,10 +7870,10 @@ Mine Golem,76321376
 Mine Mole,94079037
 Minefield Eruption,85519211
 Minefieldriller,24419823
-Minerva, Lightsworn Maiden,40164421
-Minerva, Scholar of the Sky,53666449
-Minerva, the Athenian Lightsworn,18843291
-Minerva, the Exalted Lightsworn,30100551
+"Minerva, Lightsworn Maiden",40164421
+"Minerva, Scholar of the Sky",53666449
+"Minerva, the Athenian Lightsworn",18843291
+"Minerva, the Exalted Lightsworn",30100551
 Mini Mare Mare Token,54537490
 Mini-Guts,99004752
 Miniaturize,34815282
@@ -7957,10 +7957,10 @@ Mitsu the Insect Ninja,67282505
 Mitsurugi Great Purification,17954937
 Mitsurugi Magatama,76725398
 Mitsurugi Mirror,49721684
-Mitsurugi no Miko, Wousu,76948970
-Mitsurugi no Mikoto, Aramasa,40543231
-Mitsurugi no Mikoto, Kusanagi,82782870
-Mitsurugi no Mikoto, Saji,18176525
+"Mitsurugi no Miko, Wousu",76948970
+"Mitsurugi no Mikoto, Aramasa",40543231
+"Mitsurugi no Mikoto, Kusanagi",82782870
+"Mitsurugi no Mikoto, Saji",18176525
 Mitsurugi Prayers,45171524
 Mitsurugi Ritual,81560239
 Mitsurugi Sacred Boundary,12210097
@@ -7970,7 +7970,7 @@ Moai Interceptor Cannons,45159319
 Mobius the Frost Monarch,4929256
 Mobius the Mega Monarch,23689697
 Mogmole,9861795
-Moissa Knight, the Comet General,66736715
+"Moissa Knight, the Comet General",66736715
 Moissa Wight,19093698
 Moisture Creature,75285069
 Moja,94878265
@@ -8022,13 +8022,13 @@ Moray of Avarice,73244186
 Moray of Greed,22123627
 Mordschlag,12760674
 Moremarshmallon,38505587
-Morgan, the Enchantress of Avalon,24027078
+"Morgan, the Enchantress of Avalon",24027078
 Morgana the Witch of Eyes,29439831
 Morinphen,55784832
 Mormolith,71717923
 Morph King Stygi-Gel,85457355
-Morpheus, the Dream Mirror Black Knight,38267552
-Morpheus, the Dream Mirror White Knight,1872843
+"Morpheus, the Dream Mirror Black Knight",38267552
+"Morpheus, the Dream Mirror White Knight",1872843
 Morphing Jar,33508719
 Morphing Jar #2,79106360
 Morpho Butterspy,43573231
@@ -8065,7 +8065,7 @@ Morphtronic Staplen,2250266
 Morphtronic Telefon,38082437
 Morphtronic Vacuumen,48868994
 Morphtronic Videon,84592800
-Morphtronics, Scramble!,49833312
+"Morphtronics, Scramble!",49833312
 Mosaic Manticore,8483333
 Mother Grizzly,57839750
 Mother Spider,17021204
@@ -8110,7 +8110,7 @@ Mushroom Man #2,93900406
 Musical Sumo Dice Games,96637156
 Musician King,56907389
 Mustering of the Dark Scorpions,68191243
-Musto, Oracle of Gusto,9837195
+"Musto, Oracle of Gusto",9837195
 Mutamorphosis,88654892
 Mutant Mindmaster,11508758
 Mutiny in the Sky,71593652
@@ -8187,7 +8187,7 @@ N.As.H. Knight,34876719
 Nadir Servant,1984618
 Naelshaddoll Ariel,97518132
 Nagel's Protection,63053267
-Naglfar, Generaider Boss of Fire,2881864
+"Naglfar, Generaider Boss of Fire",2881864
 Nanana,98931003
 Nanobreaker,70948327
 Narrow Pass,40172183
@@ -8236,11 +8236,11 @@ Naturia Sunflower,7478431
 Naturia Tulip,70261145
 Naturia Vein,16940215
 Naturia White Oak,24644634
-Nauya, the Ogdoadic Remnant,62405028
+"Nauya, the Ogdoadic Remnant",62405028
 Navy Dragon Mech,80040886
 Nazuki the Vaylantz Ninja,41525660
 Nebula Dragon,51786039
-Nebulus, Dragon Ruler of Mishaps,94655777
+"Nebulus, Dragon Ruler of Mishaps",94655777
 Neck Hunter,70084224
 Necklace of Command,48576971
 Necro Defender,77700347
@@ -8271,8 +8271,8 @@ Nefarious Archfiend Eater of Nefariousness,60666820
 Nega-Ton Corepanel,55117418
 Negate Attack,14315573
 Nehshaddoll Genius,66675911
-Neiroy, the Dream Mirror Disciple,18189187
-Neiroy, the Dream Mirror Traitor,90176467
+"Neiroy, the Dream Mirror Disciple",18189187
+"Neiroy, the Dream Mirror Traitor",90176467
 Neko Mane King,11021521
 Nekogal #1,1761063
 Nekogal #2,43352213
@@ -8320,7 +8320,7 @@ Neo Space Connector,85840608
 Neo Space Pathfinder,19594506
 Neo Super Quantal Mech King Blaster Magna,95493471
 Neo the Magic Swordsman,50930991
-Neo-Parshath, the Sky Paladin,12510878
+"Neo-Parshath, the Sky Paladin",12510878
 Neo-Spacian Air Hummingbird,54959865
 Neo-Spacian Aqua Dolphin,17955766
 Neo-Spacian Dark Panther,43237273
@@ -8333,10 +8333,10 @@ Neos Force,47274077
 Neos Fusion,14088859
 Neos Wiseman,5126490
 Nephe Shaddoll Fusion,60226558
-Nephilabyss, the Ogdoadic Overlord,46518210
-Nephthys, the Sacred Flame,87054946
-Nephthys, the Sacred Preserver,50669347
-Neptabyss, the Atlantean Prince,21565445
+"Nephilabyss, the Ogdoadic Overlord",46518210
+"Nephthys, the Sacred Flame",87054946
+"Nephthys, the Sacred Preserver",50669347
+"Neptabyss, the Atlantean Prince",21565445
 Nerva the Power Patron of Creation,53589300
 Nettles,19505896
 Network Trap Hole,84640866
@@ -8352,8 +8352,8 @@ NEX,81913510
 NEXT,74414885
 Next to be Lost,7076131
 Ni-Ni the Mirror Mikanko,54862960
-Nibiru, the Primal Being,27204311
-Nidhogg, Generaider Boss of Ice,49275969
+"Nibiru, the Primal Being",27204311
+"Nidhogg, Generaider Boss of Ice",49275969
 Night Assailant,16226786
 Night Beam,89882100
 Night Dragolich,88724332
@@ -8386,7 +8386,7 @@ Nimble Momonga,22567609
 Nimble Musasabi,57844634
 Nimble Sunfish,2843014
 Nin-Ken Dog,11987744
-Ninaruru, the Magistus Glass Goddess,8660395
+"Ninaruru, the Magistus Glass Goddess",8660395
 Nine Pillars of Yang Zing,57831349
 Nine-Lives Cat,28981598
 Nine-Tailed Fox,27198001
@@ -8467,8 +8467,8 @@ Nordic Relic Svalinn,64797746
 Nordic Smith Ivaldi,91011603
 Norito the Moral Leader,14152862
 Noritoshi in Darkest Rainment,662854
-Nouvelles Recipe Book "Recettes de Nouvellez",61944066
-Nouvelles Restaurant "At Table",15388353
+"Nouvelles Recipe Book ""Recettes de Nouvellez""",61944066
+"Nouvelles Restaurant ""At Table""",15388353
 Nova Summoner,48783998
 Novox's Prayer,43694075
 Nowru Aries the Vernal Dragon,25607552
@@ -8499,7 +8499,7 @@ Number 2: Numeron Gate Dve,42230449
 Number 20: Giga-Brilliant,47805931
 Number 21: Frozen Lady Justice,57707471
 Number 22: Zombiestein,73445448
-Number 23: Lancelot, Dark Knight of the Underworld,66547759
+"Number 23: Lancelot, Dark Knight of the Underworld",66547759
 Number 24: Dragulas the Vampiric Dragon,93713837
 Number 25: Force Focus,64554883
 Number 26: Spaceway Octobypass,39622156
@@ -8647,7 +8647,7 @@ Numeron Network,41418852
 Numeron Storm,20936251
 Numeron Wall,42352091
 Numinous Healer,2130625
-Nunu, the Ogdoadic Remnant,36010310
+"Nunu, the Ogdoadic Remnant",36010310
 Nurse Dragonmaid,40398073
 Nutrient Z,29389368
 Nuvia the Wicked,12953226
@@ -8661,10 +8661,10 @@ Obese Marmot of Nefariousness,56713552
 Obliterate!!!,64043465
 Obliterate!!! Blaze,402416
 Obnoxious Celtic Guard,52077741
-Oboro-Guruma, the Wheeled Mayakashi,30607616
+"Oboro-Guruma, the Wheeled Mayakashi",30607616
 Obsessive Uvualoop,98806751
 Obsidian Dragon,90464188
-Obsidim, the Ashened City,3055018
+"Obsidim, the Ashened City",3055018
 Ocean Dragon Lord - Kairyu-Shin,23931679
 Ocean Dragon Lord - Neo-Daedalus,10485110
 Ocean of Regeneration,44728989
@@ -8698,12 +8698,12 @@ Odd-Eyes Venom Dragon,45014450
 Odd-Eyes Vortex Dragon,53262004
 Odd-Eyes Wing Dragon,58074177
 Odd-Eyes Wizard Dragon,85497611
-Odin, Father of the Aesir,93483212
+"Odin, Father of the Aesir",93483212
 Odin's Eye,88069166
 Offering to the Immortals,82340056
 Offering to the Snake Deity,93217231
 Offerings to the Doomed,19230408
-Ogdoabyss, the Ogdoadic Overlord,97565997
+"Ogdoabyss, the Ogdoadic Overlord",97565997
 Ogdoadic Calling,23837054
 Ogdoadic Daybreak,78789356
 Ogdoadic Hollow,96433300
@@ -8747,7 +8747,7 @@ Omega Judgment,53923690
 Omega Summon,47457347
 Ominous Fortunetelling,56995655
 Omni Dragon Brotaur,8972398
-On Your Mark, Get Set, DUEL!,31006879
+"On Your Mark, Get Set, DUEL!",31006879
 One by One,91534476
 One Day of Peace,33782437
 One for One,2295440
@@ -8758,8 +8758,8 @@ One-Eyed Skill Gainer,75620895
 One-Kuri-Way,68223137
 One-Shot Wand,36042825
 One-Time Passcode,93104632
-Oneiros, the Dream Mirror Erlking,35187185
-Oneiros, the Dream Mirror Tormentor,37678339
+"Oneiros, the Dream Mirror Erlking",35187185
+"Oneiros, the Dream Mirror Tormentor",37678339
 Oni Tank T-34,66927994
 Oni-Gami Combo,90470931
 Onibimaru Soul Sweeper,9486959
@@ -8804,7 +8804,7 @@ Ordeal of a Traveler,39537362
 Order of the Queen,300302069
 Order to Charge,78986941
 Order to Smash,39019325
-Orea, the Sylvan High Arbiter,95239444
+"Orea, the Sylvan High Arbiter",95239444
 Orgoth the Relentless,15744417
 Orichalcos Shunoros,7634581
 Orient Dragon,68124775
@@ -8816,7 +8816,7 @@ Orphebull the Harmonious Bullfighter Bard,97240499
 Oscillo Hero,82065276
 Oshaleon,71519605
 Ostinato,9113513
-Otherworld - The "A" Zone,60946968
+"Otherworld - The ""A"" Zone",60946968
 Otohime,39751094
 Otonari Thunder,72782945
 Otoshidamashi,14957440
@@ -8861,8 +8861,8 @@ P.M. Captor,13760677
 P.U.N.K. JAM Dragon Drive,28403802
 P.U.N.K. JAM Extreme Session,49370016
 P.U.N.K. JAM FEVER!,11441009
-Paces, Light of the Ghoti,46037983
-Pacifis, the Phantasm City,2819435
+"Paces, Light of the Ghoti",46037983
+"Pacifis, the Phantasm City",2819435
 Packet Link,78859567
 Packet Swap,75153328
 Pahunder,84530620
@@ -8924,12 +8924,12 @@ Parasite Paracide,27911549
 Parasite Paranoid,14457896
 Parasitic Ticky,87978805
 Parasomnia Pillow,44092304
-Parl, Hermit of Dark World,3289027
+"Parl, Hermit of Dark World",3289027
 Parlor Dragonmaid,88453933
 Parrot Dragon,62762898
 Parry,52228131
 Parry Knights,17988746
-Parsec, the Interstellar Dragon,32872833
+"Parsec, the Interstellar Dragon",32872833
 Parthian Shot,29185231
 Particle Fusion,39261576
 Past Image,50292967
@@ -9108,7 +9108,7 @@ Performapal U Go Golem,73511233
 Performapal Uni,7714344
 Performapal Whim Witch,64450427
 Performapal Whip Snake,79967395
-Periallis, Empress of Blossoms,72924435
+"Periallis, Empress of Blossoms",72924435
 Peropero Cerperus,69764158
 Personal Spoofing,53936268
 Pesanta the Troubadour Deity,66429798
@@ -9134,8 +9134,8 @@ Phantasmal Lord Ultimitl Bishbaalkin,90884403
 Phantasmal Martyr Token,93224849
 Phantasmal Martyrs,93224848
 Phantasmal Summoning Beast,53134520
-Phantasos, the Dream Mirror Foe,99792080
-Phantasos, the Dream Mirror Friend,62393472
+"Phantasos, the Dream Mirror Foe",99792080
+"Phantasos, the Dream Mirror Friend",62393472
 Phantom Beast Cross-Wing,71181155
 Phantom Beast Rock-Lizard,70969517
 Phantom Beast Thunder-Pegasus,34961968
@@ -9218,7 +9218,7 @@ Pikeru's Second Sight,58015506
 Pile Armed Dragon,19153590
 Pilgrim of the Ice Barrier,20700531
 Pilgrim Reaper,45742626
-Pilica, Descendant of Gusto,71175527
+"Pilica, Descendant of Gusto",71175527
 Pillar of the Future - Cyanos,20357457
 Pinch Hopper,26185991
 Pineapple Blast,90669991
@@ -9275,9 +9275,9 @@ Pop-Up,15248873
 Poplar of the White Forest,5800323
 Portable Battery Pack,61840587
 Poseidon Wave,25642998
-Poseidra Abyss, the Atlantean Dragon Lord,60517697
-Poseidra, the Atlantean Dragon,47826112
-Poseidra, the Storming Atlantean,99193444
+"Poseidra Abyss, the Atlantean Dragon Lord",60517697
+"Poseidra, the Atlantean Dragon",47826112
+"Poseidra, the Storming Atlantean",99193444
 Possessed Dark Soul,52860176
 Possessed Partnerships,65046521
 Pot of Acquisitiveness,64014615
@@ -9404,7 +9404,7 @@ Priestess of the Ashened City,67660909
 Priestess with Eyes of Blue,36734924
 Prima Materiactor,57448410
 Primal Cry,47435107
-Primal Dragon, the Primordial,64025981
+"Primal Dragon, the Primordial",64025981
 Primal Seed,23701465
 Primathmech Alembertian,85692042
 Primathmech Laplacian,88021907
@@ -9440,11 +9440,11 @@ Progleo,52615248
 Prohibit Snake,39732186
 Prohibition,43711255
 Prologue of the Destruction Swordsman,33280639
-Prometeor, the Burning Star,75713017
-Promethean Princess, Bestower of Flames,2772337
-Prometheus, King of the Shadows,82213171
+"Prometeor, the Burning Star",75713017
+"Promethean Princess, Bestower of Flames",2772337
+"Prometheus, King of the Shadows",82213171
 Prominence Hand,21414674
-Prominence, Molten Swordsman,89770167
+"Prominence, Molten Swordsman",89770167
 Promotion,88617904
 Prompthorn,50548657
 Proof of Powerlessness,11373345
@@ -9469,7 +9469,7 @@ Protron,24154052
 Proxy Dragon,22862454
 Proxy F Magician,12450071
 Proxy Horse,16684346
-Prufinesse, the Tactical Trapper,9798352
+"Prufinesse, the Tactical Trapper",9798352
 Pseudo Space,77584012
 Psi-Beast,46291010
 Psi-Blocker,29417188
@@ -9477,7 +9477,7 @@ Psi-Curse,16678947
 Psi-Impulse,31328739
 Psi-Reflector,74644400
 Psi-Station,4230620
-Psiics, Moonlight of the Ghoti,26523337
+"Psiics, Moonlight of the Ghoti",26523337
 PSY-Frame Accelerator,51053997
 PSY-Frame Circuit,575512
 PSY-Frame Driver,49036338
@@ -9524,7 +9524,7 @@ Psychic Tuning,3891471
 Psychic Wave,80681226
 Psychic Wheeleder,3233859
 Psychokinesis,32180819
-Pulao, Wind of the Yang Zing,35089369
+"Pulao, Wind of the Yang Zing",35089369
 Pulling the Rug,34717238
 Pulse Mines,58464739
 Pumpkin Carriage,14512825
@@ -9543,7 +9543,7 @@ Puppet Queen,15001619
 Puppet Ritual,1969506
 Puppet Rook,77590412
 Puppet Shark,53323475
-Puralis, the Purple Pyrotile,37038993
+"Puralis, the Purple Pyrotile",37038993
 Purge Ray,64161630
 Purple Poison Magician,48461764
 Purrely,25550531
@@ -9558,7 +9558,7 @@ Pursuit Chaser,27870033
 Purushaddoll Aeon,78942513
 Putrid Pudding Body Buddies,85101097
 Puzzle Reborn,30585393
-Puzzlomino, the Drop-n-Deleter,84271823
+"Puzzlomino, the Drop-n-Deleter",84271823
 Pyramid Energy,76754619
 Pyramid of Light,53569894
 Pyramid of Wonders,66835946
@@ -9570,7 +9570,7 @@ Pyrotech Mech - Shiryu,61231400
 Pyroxene Fusion,55824220
 Qadshaddoll Keios,24635329
 Qardan the Clear-Sighted,86605515
-Qebehsenuef, Protection of Horus,74725513
+"Qebehsenuef, Protection of Horus",74725513
 Qlife's End,20447641
 Qlimate Change,4450854
 Qliphort Carrier,91907707
@@ -9629,18 +9629,18 @@ R.B. The Brute Blues,32216688
 R.B. VALCan Booster,6821579
 R.B. VALCan Rocket,79436874
 Ra's Disciple,74875003
-Ra'ten, the Heavenly General,30163008
+"Ra'ten, the Heavenly General",30163008
 Rabid Horseman,94905343
 Rabidragon,95788410
 Radian Token,28674153
-Radian, the Multidimensional Kaiju,28674152
+"Radian, the Multidimensional Kaiju",28674152
 Radiance of the Voiceless Voice,86310763
 Radiant Jeral,84177693
 Radiant Mirror Force,21481146
 Radiant Spirit,12624008
 Radiant Vouirescence,70856343
-Radius, the Half-Moon Dragon,6483224
-Rafale, Champion Fur Hire,38916526
+"Radius, the Half-Moon Dragon",6483224
+"Rafale, Champion Fur Hire",38916526
 Rafflesia Seduction,31440542
 Rage of Kairyu-Shin,82685480
 Rage of the Deep Sea,73778008
@@ -9667,7 +9667,7 @@ Rahu Dracotail,32548318
 Rai Rider,31173519
 Rai-Jin,37829468
 Rai-Mei,63223467
-Raiden, Hand of the Lightsworn,77558536
+"Raiden, Hand of the Lightsworn",77558536
 Raider's Knight,28781003
 Raider's Unbreakable Mind,87091930
 Raider's Wing,52159691
@@ -9763,7 +9763,7 @@ Rank-Up-Magic Skip Force,58988903
 Rank-Up-Magic Soul Shave Force,23581825
 Rank-Up-Magic Zexal Force,36224040
 Ranryu,44680819
-Raphion, the Timelord,60222213
+"Raphion, the Timelord",60222213
 Rapid Trigger,67526112
 Rapid Warrior,255998
 Rapid-Fire Magician,6337436
@@ -9780,18 +9780,18 @@ Rasetsu,43378076
 Rasterliger,88000953
 Ravenous Crocodragon Archethys,87188910
 Ravenous Vendread,13386407
-Raviel, Lord of Phantasms,69890967
-Raviel, Lord of Phantasms - Shimmering Scraper,28651380
+"Raviel, Lord of Phantasms",69890967
+"Raviel, Lord of Phantasms - Shimmering Scraper",28651380
 Ray & Temperature,85309439
 Ray of Hope,82529174
 Razor Lizard,18372968
-Rciela, Sinister Soul of the White Forest,77313225
+"Rciela, Sinister Soul of the White Forest",77313225
 Re-Cover,58695102
 Re-dyce-cle,85704698
 Re-Fusion,74694807
 Re-qliate,20426907
 Re: EX,18000338
-Reactan, Dragon Ruler of Pebbles,91020571
+"Reactan, Dragon Ruler of Pebbles",91020571
 Reactor Slime,79387392
 Ready for Intercepting,31785398
 Ready Fusion,63854005
@@ -9826,7 +9826,7 @@ Recette de Viande (Meat Recipe),14166715
 Reckless Greed,37576645
 Reckoned Power,11596936
 Recoded Alive,70238111
-Recon, Scout Fur Hire,31467949
+"Recon, Scout Fur Hire",31467949
 Recovery Sorcerer,76232522
 Recurring Nightmare,81191584
 Recycle,96316857
@@ -9845,7 +9845,7 @@ Red Familiar,8372133
 Red Gadget,86445415
 Red Gardna,72318602
 Red Hared Hasty Horse,19636995
-Red Lotus King, Flame Crime,19299793
+"Red Lotus King, Flame Crime",19299793
 Red Medicine,38199696
 Red Mirror,8706701
 Red Nova,21142671
@@ -9894,13 +9894,13 @@ Red-Eyes Zombie Dragon,5186893
 Red-Eyes Zombie Dragon Lord,38192988
 Red-Eyes Zombie Necro Dragon,28240337
 Red-Headed Oni,30494314
-Redbeard, the Plunder Patroll Matey,68769900
+"Redbeard, the Plunder Patroll Matey",68769900
 Redeemable Jar,84404797
-Redox, Dragon Ruler of Boulders,90411554
+"Redox, Dragon Ruler of Boulders",90411554
 Reed Butterfly,71353388
 Reese the Ice Mistress,30276969
 Reeshaddoll Wendi,51023024
-Reeze, Whirlwind of Gusto,36331074
+"Reeze, Whirlwind of Gusto",36331074
 Reflect Bounder,2851070
 Reflection of Endymion,39000945
 Refrain the Melodious Songstress,64881644
@@ -9921,8 +9921,8 @@ Regenesis Warrior,96540807
 Regretful Rebirth,79544790
 Regulus,20210570
 Regulus the Fairy Beast,61480937
-Reign-Beaux, Overking of Dark World,41406613
-Reign-Beaux, Overlord of Dark World,99458769
+"Reign-Beaux, Overking of Dark World",41406613
+"Reign-Beaux, Overlord of Dark World",99458769
 Reincarnation of the Seventh Emperors,57499304
 Reincarnation Unveiling Mail,68663427
 Reinforce Truth,10118318
@@ -9940,7 +9940,7 @@ Release Brainwashing,85395151
 Release from Stone,26956670
 Release Restraint,75417459
 Release Restraint Wave,98847704
-Release, Reverse, Burst,38777931
+"Release, Reverse, Burst",38777931
 Relieve Monster,37507488
 Relinkuriboh,50185950
 Relinquished,64631466
@@ -9953,7 +9953,7 @@ Remote Revenge,61656650
 Remove Brainwashing,94739788
 Remove Trap,51482758
 Renewal of the World,81306186
-Renge, Gatekeeper of Dark World,60606759
+"Renge, Gatekeeper of Dark World",60606759
 Repair Genex Controller,8173184
 Replicard LAD,1665819
 Reprodocus,34989413
@@ -10012,7 +10012,7 @@ Restructer Revolution,99518961
 Resurgam Xyz,49082032
 Resurrection of Chakra,39399168
 Ret-time Reviver Emit-ter,55702233
-Retaliating "C",46502744
+"Retaliating ""C""",46502744
 Retort,22747316
 Return,47247413
 Return from the Different Dimension,27174286
@@ -10054,7 +10054,7 @@ Revived King Ha Des,5309481
 Revoke Fusion,49469105
 Revolution Synchron,97682931
 Revolving Switchyard,76136345
-Rex, Freight Fur Hire,28004531
+"Rex, Freight Fur Hire",28004531
 RGB Rainbowlution,1259814
 Rhaimundos of the Red Sword,62403074
 Rhinotaurus,83957459
@@ -10074,15 +10074,15 @@ Rikka Princess,132308
 Rikka Queen Strenna,3828844
 Rikka Sheet,68941332
 Rikka Tranquility,32557233
-Rilliona, the Magistus of Verre,72498838
-Rilliona, the Wondrous Magistus Witch Wardrobe,74689476
+"Rilliona, the Magistus of Verre",72498838
+"Rilliona, the Wondrous Magistus Witch Wardrobe",74689476
 Rindbrumm the Striking Dragon,51409648
 Ring Announcer,19544412
 Ring of Defense,58641905
 Ring of Destruction,83555666
 Ring of Magnetism,20436034
-Ringowurm, the Dragon Guarding the Hundred Apples,30765615
-Rinyan, Lightsworn Rogue,38815069
+"Ringowurm, the Dragon Guarding the Hundred Apples",30765615
+"Rinyan, Lightsworn Rogue",38815069
 Ripple Bird,56410769
 Riryoku,34016756
 Riryoku Field,70344351
@@ -10176,7 +10176,7 @@ Rookie Warrior Lady,86028783
 Room for Growth,300302039
 Root Water,39004808
 Rope of Life,93382620
-Rosaria, the Stately Fallen Angel,81146288
+"Rosaria, the Stately Fallen Angel",81146288
 Rose Archer,51852507
 Rose Bell of Revelation,80196387
 Rose Bud,25090294
@@ -10191,7 +10191,7 @@ Rose Spectre of Dunn,32485271
 Rose Tentacles,41160533
 Rose Token,71645243
 Rose Witch,23087070
-Rose, Warrior of Revenge,1557341
+"Rose, Warrior of Revenge",1557341
 Roulette Barrel,46303688
 Roulette Spider,36708764
 Roxrose Dragon,93708824
@@ -10214,16 +10214,16 @@ Royal Surrender,56058888
 Royal Swamp Eel,37953640
 Royal Tribute,72405967
 Royal Writ of Taxation,86742443
-Rubic, Malebranche of the Burning Abyss,734741
-Rubysapphirus, the Adamant Jewel,6906306
+"Rubic, Malebranche of the Burning Abyss",734741
+"Rubysapphirus, the Adamant Jewel",6906306
 Rucia of the White Forest,24779554
 Ruddy Rose Dragon,40139997
 Ruddy Rose Witch,29107423
 Rude Kaiser,26378150
 Ruffian Railcar,24919805
-Ruin, Angel of Oblivion,50139096
-Ruin, Queen of Oblivion,46427957
-Ruin, Supreme Queen of Oblivion,13518809
+"Ruin, Angel of Oblivion",50139096
+"Ruin, Queen of Oblivion",46427957
+"Ruin, Supreme Queen of Oblivion",13518809
 Ruins of the Divine Dragon Lords,69868555
 Runaway Karakuri,83831356
 Rune-Eyes Pendulum Dragon,1516510
@@ -10241,8 +10241,8 @@ Rush Recklessly,70046172
 Rush Warrior,36736723
 Ruthless Denial,73148972
 Ruthless Means,300302071
-Ryko, Lightsworn Hunter,21502796
-Ryko, Twilightsworn Fighter,83550869
+"Ryko, Lightsworn Hunter",21502796
+"Ryko, Twilightsworn Fighter",83550869
 Ryu Kokki,57281778
 Ryu Okami,63737050
 Ryu Senshi,49868263
@@ -10300,13 +10300,13 @@ Sacred Scrolls of the Gizmek Legend,24793135
 Sacred Serpent's Wake,98850929
 Sacred Spirit of the Ice Barrier,44877690
 Sacred Sword of Seven Stars,45725480
-Sacred Tree Beast, Hyperyton,9349094
+"Sacred Tree Beast, Hyperyton",9349094
 Sacrifice Level-Up,94185340
-Sadion, the Timelord,65314286
+"Sadion, the Timelord",65314286
 Safe Zone,38296564
-Saffira, Divine Dragon of the Voiceless Voice,10804018
-Saffira, Dragon Queen of the Voiceless Voice,51296484
-Saffira, Queen of Dragons,56350972
+"Saffira, Divine Dragon of the Voiceless Voice",10804018
+"Saffira, Dragon Queen of the Voiceless Voice",51296484
+"Saffira, Queen of Dragons",56350972
 Saga of the Dragon Emperor,66156348
 Sage of Benevolence - Ciela,34456146
 Sage of Silence,26669055
@@ -10316,7 +10316,7 @@ Sage of Wisdom - Himmel,22790910
 Sage with Eyes of Blue,8240199
 Sage's Stone,13604200
 Saggi the Dark Clown,66602787
-Sagitta, Maverick Fur Hire,93738004
+"Sagitta, Maverick Fur Hire",93738004
 Saiba the Fighting Swordsmith,36608728
 Saint Azamina,85065943
 Saion the Vaylantz Archer,15130912
@@ -10326,7 +10326,7 @@ Sakuretsu Armor,56120475
 Salamandra,32268901
 Salamandra Fusion,9102835
 Salamandra with Chain,62091148
-Salamandra, the Flying Flame Dragon,37531679
+"Salamandra, the Flying Flame Dragon",37531679
 Salamangreat Almiraj,60303245
 Salamangreat Balelynx,14812471
 Salamangreat Beat Bison,25166510
@@ -10378,7 +10378,7 @@ Samsara D Lotus,62318994
 Samsara Dragon,33750025
 Samsara Kaiser,72237166
 Samsara Lotus,5592689
-Samsara, Dragon of Rebirth,29143726
+"Samsara, Dragon of Rebirth",29143726
 Samurai Cavalry of Reptier,93124273
 Samurai Destroyer,40509732
 Samurai of the Ice Barrier,64926005
@@ -10389,7 +10389,7 @@ Sanctity of Dragon,662853
 Sand Gambler,50593156
 Sand Moth,73648243
 Sand Stone,73051941
-Sandaion, the Timelord,33015627
+"Sandaion, the Timelord",33015627
 Sanga of the Thunder,25955164
 Sangan,26202165
 Sangen Furo,55484152
@@ -10427,8 +10427,8 @@ Satellite Cannon,50400231
 Satellite Synchron,57458399
 Satellite Warrior,84664085
 Sauge de Fleur,85032782
-Sauravis, Dragon Sage of the Voiceless Voice,88284599
-Sauravis, the Ancient and Ascended,4810828
+"Sauravis, Dragon Sage of the Voiceless Voice",88284599
+"Sauravis, the Ancient and Ascended",4810828
 Sauropod Brachion,41753322
 Savage Colosseum,32391631
 Scanner,75198893
@@ -10451,8 +10451,8 @@ Scareclaw Tri-Heart,59120809
 Scareclaw Twinsaw,95245571
 Scarlet Security,50215517
 Scarlight Red Dragon Archfiend,80666118
-Scarm, Malebranche of the Burning Abyss,84764038
-Scarr, Scout of Dark World,5498296
+"Scarm, Malebranche of the Burning Abyss",84764038
+"Scarr, Scout of Dark World",5498296
 Scarred Dragon Archfiend,87451661
 Scarred Warrior,45298492
 Scary Moth,68087897
@@ -10519,7 +10519,7 @@ Sea Stealth Attack,19089195
 Sea Stealth II,58203736
 Seal of the Ancients,97809599
 Seal of Wickedness,17874674
-Seal, Strategist Fur Hire,20345391
+"Seal, Strategist Fur Hire",20345391
 Sealing Ceremony of Katon,52971944
 Sealing Ceremony of Mokuton,1802450
 Sealing Ceremony of Raiton,42425831
@@ -10570,7 +10570,7 @@ Seismic Shockwave,79569173
 Seiyaryu,6740720
 Sekka's Light,24940422
 Seleglare the Luminous Lunar Dragon,29303524
-Selene, Queen of the Master Magicians,45819647
+"Selene, Queen of the Master Magicians",45819647
 Selettrice Vaalmonica,23093373
 Self-Destruct Ant,6783559
 Self-Destruct Button,57585212
@@ -10586,7 +10586,7 @@ Sentence of Doom,40771118
 Sentinel of the Seas,85448931
 Sentinel of the Tistina,86111442
 Sentry Soldier of Stone,57354389
-Sephylon, the Ultimate Timelord,8967776
+"Sephylon, the Ultimate Timelord",8967776
 Seraphim Papillion,91140491
 Serenade the Melodious Diva,42029847
 Serene Psychic Girl,9213491
@@ -10602,7 +10602,7 @@ Servant of Catabolism,2792265
 Servant of Endymion,92559258
 Servants of the Fallen King,300103004
 Service Puppet Play,36400569
-Serziel, Watcher of the Evil Eye,82466274
+"Serziel, Watcher of the Evil Eye",82466274
 Set Rotation,73468603
 Setting Sun,300302072
 Setuppercut,19590644
@@ -10646,7 +10646,7 @@ Shadow's Light,61322713
 Shadowknight Archfiend,9603356
 Shadowpriestess of Ohm,27869883
 Shadowslayer,20939559
-Shafu, the Wheeled Mayakashi,78936551
+"Shafu, the Wheeled Mayakashi",78936551
 Shaman of the Ashened City,35151572
 Shaman of the Tenyi,78917791
 Shamisen Samsara Sorrowcat,46057733
@@ -10685,10 +10685,10 @@ Shien's Scheme,77847678
 Shien's Smoke Signal,54031490
 Shien's Spy,7672244
 Shien's Squire,33883834
-Shif, Fairy of the Ghoti,73421698
+"Shif, Fairy of the Ghoti",73421698
 Shift,59560625
 Shifting Shadows,59237154
-Shinato, King of a Higher Plane,86327225
+"Shinato, King of a Higher Plane",86327225
 Shinato's Ark,60365591
 Shine Knight,86952477
 Shine Palace,82878489
@@ -10716,8 +10716,8 @@ Shinobird Salvation,276357
 Shinobird Token,25415053
 Shinobird's Calling,73055622
 Shinonome the Vaylantz Priestess,49131917
-Shiny Black "C",94081496
-Shiny Black "C" Squadder,4148264
+"Shiny Black ""C""",94081496
+"Shiny Black ""C"" Squadder",4148264
 Shipping Error,58761791
 Shiranui Samurai,35818851
 Shiranui Samuraisaga,57288064
@@ -10738,7 +10738,7 @@ Shiranui Style Synthesis,40005099
 Shiranui Sunsaga,59843383
 Shiranui Swordmaster,5177985
 Shiranui Swordsaga,26326541
-Shire, Lightsworn Spirit,2420921
+"Shire, Lightsworn Spirit",2420921
 Shock Surprise,15609017
 Shock Troops of the Ice Barrier,38528901
 Shocktopus,2584136
@@ -10762,7 +10762,7 @@ Shrine of Mist Valley,4215636
 Shrink,55713623
 Shuffle Reborn,14816688
 Shura the Combat Star,32615065
-Shurit, Strategist of the Nekroz,90307777
+"Shurit, Strategist of the Nekroz",90307777
 Shutendoji,65422840
 Shuttleroid,10449150
 Side Effects?,30922149
@@ -10793,7 +10793,7 @@ Silent Wobby,71015787
 Silent Wolf Calupo,15947754
 Silhouhatte Rabbit,1528054
 Silhouhatte Trick,24440742
-Sillva, Warlord of Dark World,32619583
+"Sillva, Warlord of Dark World",32619583
 Silpheed,73001017
 Silver Bow and Arrow,1557499
 Silver Fang,90357090
@@ -10801,7 +10801,7 @@ Silver Gadget,29021114
 Silver Sentinel,9791914
 Silver Wing,25231813
 Silver's Cry,87025064
-Silvera, Wolf Tamer of the White Forest,41924516
+"Silvera, Wolf Tamer of the White Forest",41924516
 Silverrokket Dragon,32476603
 Silvervine Senri,13382806
 Silvy of the White Forest,98385955
@@ -10810,15 +10810,15 @@ Simorgh of Darkness,22586618
 Simorgh Onslaught,28617139
 Simorgh Repulsion,64002884
 Simorgh Sky Battle,57823578
-Simorgh, Bird of Ancestry,86489182
-Simorgh, Bird of Beginning,50820852
-Simorgh, Bird of Bringing,96214561
-Simorgh, Bird of Calamity,23619206
-Simorgh, Bird of Divinity,14989021
-Simorgh, Bird of Perfection,52843699
-Simorgh, Bird of Protection,59707204
-Simorgh, Bird of Sovereignty,72330894
-Simorgh, Lord of the Storm,95192919
+"Simorgh, Bird of Ancestry",86489182
+"Simorgh, Bird of Beginning",50820852
+"Simorgh, Bird of Bringing",96214561
+"Simorgh, Bird of Calamity",23619206
+"Simorgh, Bird of Divinity",14989021
+"Simorgh, Bird of Perfection",52843699
+"Simorgh, Bird of Protection",59707204
+"Simorgh, Bird of Sovereignty",72330894
+"Simorgh, Lord of the Storm",95192919
 Simul Archfiends,94423983
 Simultaneous Equation Cannons,25096909
 Simultaneous Loss,92219931
@@ -10869,7 +10869,7 @@ Skull Dice,126218
 Skull Dog Marron,86652646
 Skull Flame,99899504
 Skull Guardian,3627449
-Skull Guardian, Protector of the Voiceless Voice,10774240
+"Skull Guardian, Protector of the Voiceless Voice",10774240
 Skull Invitation,98139712
 Skull Knight,2504891
 Skull Knight #2,15653824
@@ -10964,10 +10964,10 @@ Snake-Eyes Vengeance Dragon,79415624
 Snakeyashi,29802344
 Snapdragon,75673220
 Snatch Steal,45986603
-Sneaky "C",25137581
+"Sneaky ""C""",25137581
 Sniffer Dragon,27877771
 Snipe Hunter,84290642
-Snopios, Shade of the Ghoti,39522887
+"Snopios, Shade of the Ghoti",39522887
 Snow Dragon,3070049
 Snow Plow Hustle Rustle,24731453
 Snowdrop the Rikka Fairy,33491462
@@ -10976,7 +10976,7 @@ Snowdust Giant,73659078
 Snowman Creator,15893860
 Snowman Eater,91133740
 Snowman Effect,62370023
-Snoww, Unlight of Dark World,60228941
+"Snoww, Unlight of Dark World",60228941
 Snyffus,35448319
 Soaring Eagle Above the Searing Land,26381750
 Sogen,86318356
@@ -11023,7 +11023,7 @@ Sonic Shooter,40384720
 Sonic Stun,93138457
 Sonic Tracker,17888577
 Sonic Warrior,17932494
-Sophia, Goddess of Rebirth,4335427
+"Sophia, Goddess of Rebirth",4335427
 Soprano the Melodious Songstress,62895219
 Sorcerer of Dark Magic,88619463
 Sorcerer of Sebek,39767432
@@ -11095,7 +11095,7 @@ Spearhead of the Ashened City,62156277
 Special Hurricane,42598242
 Special Schedule,97520701
 Specimen Inspection,12292422
-Spectral, Dragon Ruler of Flickers,58201062
+"Spectral, Dragon Ruler of Flickers",58201062
 Speed Bird,86174055
 Speed Recovery,88204302
 Speed Warrior,9365703
@@ -11133,8 +11133,8 @@ Speedroid Wing Synchron,2254222
 Spell Absorption,51481927
 Spell Calling,41160595
 Spell Canceller,84636823
-Spell Card "Monster Reborn",28958464
-Spell Card "Soul Exchange",15735108
+"Spell Card ""Monster Reborn""",28958464
+"Spell Card ""Soul Exchange""",15735108
 Spell Chronicle,74402414
 Spell Economics,4259068
 Spell Gear,313513
@@ -11204,10 +11204,10 @@ Spirit Converter,20802187
 Spirit Elimination,69832741
 Spirit Force,16674846
 Spirit Illusion,71939275
-Spirit Message "A",94772232
-Spirit Message "I",31893528
-Spirit Message "L",30170981
-Spirit Message "N",67287533
+"Spirit Message ""A""",94772232
+"Spirit Message ""I""",31893528
+"Spirit Message ""L""",30170981
+"Spirit Message ""N""",67287533
 Spirit of Flames,13522325
 Spirit of the Books,14037717
 Spirit of the Breeze,53530069
@@ -11250,7 +11250,7 @@ Splendid Venus,5645210
 Split Mirror of the Underworld,42952160
 Splitting Planarian,44175358
 Spool Code,2625939
-Spoon, the Seal of Magistus,42544773
+"Spoon, the Seal of Magistus",42544773
 Spore,11747708
 Spore the Fairy Seed,98888032
 Spright Blue,76145933
@@ -11319,7 +11319,7 @@ Star Boy,8201910
 Star Changer,63485233
 Star Drawing,24610207
 Star Eater,41517789
-Star Light, Star Bright,43661068
+"Star Light, Star Bright",43661068
 Star Mine,49407319
 Star Pendulumgraph,74850403
 Star Power!!,76500786
@@ -11374,7 +11374,7 @@ Starry Knight Flamel,86613346
 Starry Knight Orbitael,44818
 Starry Knight Rayel,23220533
 Starry Knight Sky,58406094
-Starry Night, Starry Dragon,90835938
+"Starry Night, Starry Dragon",90835938
 Stars Align Above the Shrine,15306543
 Stars Align across the Milky Way,20417688
 Starship Adjust Plane,37720300
@@ -11456,7 +11456,7 @@ Strategist of the Ice Barrier,50032342
 Stray Asmodian,86209650
 Stray Lambs,60764581
 Stray Purrely Street,20212491
-Stream, Dragon Ruler of Droplets,27415516
+"Stream, Dragon Ruler of Droplets",27415516
 Strength in Unity,96239878
 Strength of Prophecy,13002461
 Strike Ninja,41006930
@@ -11474,7 +11474,7 @@ Stygian Dirge,81489939
 Stygian Security,50732780
 Stygian Sergeants,86137485
 Stygian Street Patrol,13521194
-Suanni, Fire of the Yang Zing,30106950
+"Suanni, Fire of the Yang Zing",30106950
 Sublimation Knight,54485355
 Submareed Tour Ride,87116749
 Submarine Frog,63948258
@@ -11546,11 +11546,11 @@ Sunvine Shrine,27946124
 Sunvine Sowing,53286626
 Sunvine Thrasher,91557476
 Supay,78552773
-Supay, Duskwalker,17315396
+"Supay, Duskwalker",17315396
 Super All In!,16780318
 Super Anti-Kaiju War Machine Mecha-Dogoran,84769941
 Super Anti-Kaiju War Machine Mecha-Thunder-King,29913783
-Super Armored Robot Armed Black Iron "C",77754169
+"Super Armored Robot Armed Black Iron ""C""",77754169
 Super Conductor Tyranno,85520851
 Super Crashbug,86804246
 Super Defense Robot Elephan,45496268
@@ -11707,7 +11707,7 @@ Swarm of Crows,41039846
 Swarm of Locusts,41872150
 Swarm of Scarabs,15383415
 Sweet Corn,74983881
-Sweet Dreams, Nemleria,44843954
+"Sweet Dreams, Nemleria",44843954
 Sweet Roommaid,36848764
 Swift Birdman Joe,81896370
 Swift Gaia the Fierce Knight,16589042
@@ -11868,7 +11868,7 @@ Tainted of the Tistina,50281477
 Tainted Wisdom,28725004
 Takriminos,44073668
 Takuhee,3170832
-Talaya, Princess of Cherry Blossoms,80190753
+"Talaya, Princess of Cherry Blossoms",80190753
 Tales of the White Forest,99289828
 Talisman of Spell Sealing,71983925
 Talisman of Trap Sealing,19312169
@@ -11883,7 +11883,7 @@ Tantrum Toddler,7020743
 Tao the Chanter,46247516
 Taotao the Chanter,45016904
 Taotie Dragon,82566662
-Taotie, Shadow of the Yang Zing,99946920
+"Taotie, Shadow of the Yang Zing",99946920
 Tarai,8152834
 Tardy Orc,64892035
 Tasuke Knight,86039057
@@ -11922,7 +11922,7 @@ Tellarknight Ptolemaeus,18326736
 Tellus the Little Angel,19280589
 Temperance of Prophecy,87608852
 Tempest Magician,63101919
-Tempest, Dragon Ruler of Storms,89399912
+"Tempest, Dragon Ruler of Storms",89399912
 Template Skipper,24521325
 Temple of Skulls,732302
 Temple of the Kings,29762407
@@ -11935,7 +11935,7 @@ Ten Thousand Dragon,10000
 Tenacity of the Monarchs,33609262
 Tenchi Kaimei,9597987
 Tenderness,57935140
-Tengu, the Winged Mayakashi,4103668
+"Tengu, the Winged Mayakashi",4103668
 Tenkabito Shien,41589166
 Tenma the Sky Star,33837653
 Tenmataitei,90122655
@@ -11961,7 +11961,7 @@ Terminal World NEXT,48605591
 Terra Firma Gravity,26509612
 Terra the Terrible,63308047
 Terraforming,73628505
-Terratiger, the Empowered Warrior,56681873
+"Terratiger, the Empowered Warrior",56681873
 Terrene Toothed Tsuchinoko,77428945
 Terrible Deal,69724380
 Terrifying Toddler of Torment,48468330
@@ -11981,7 +11981,7 @@ Test Panther,66863374
 Test Tiger,92373006
 Testament of the Arcane Lords,501000004
 Testudo erat Numen,74952447
-Tethys, Goddess of Light,87148330
+"Tethys, Goddess of Light",87148330
 Teva,16469012
 Texchanger,74210057
 TG-SX1,40253382
@@ -12133,7 +12133,7 @@ The Monarchs Erupt,48716527
 The Monarchs Masterplan,63899196
 The Monarchs Revolt,9283801
 The Monarchs Stormforth,79844764
-The Most Distant, Deepest Depths,8794055
+"The Most Distant, Deepest Depths",8794055
 The Nordic Lights,50433147
 The Paths of Destiny,50470982
 The Phantom Knights of Ancient Cloak,90432163
@@ -12241,18 +12241,18 @@ The World Tree,5973663
 The World's Greatest Fisherman,300102001
 The Zombie Vampire,73082255
 Theban Nightmare,51838385
-Theia, the Primal Being,85687952
+"Theia, the Primal Being",85687952
 Theinen the Great Sphinx,87997872
 Thelematech Clatis,98986900
 Theorealize,48739627
 Theorealize Overdrive,94326720
 There Can Be Only One,24207889
-Therion "Bull" Ain,84332527
-Therion "Duke" Yul,57111330
-Therion "Empress" Alasia,48806195
-Therion "King" Regulus,10604644
-Therion "Lily" Borea,83610035
-Therion "Reaper" Fum,21727231
+"Therion ""Bull"" Ain",84332527
+"Therion ""Duke"" Yul",57111330
+"Therion ""Empress"" Alasia",48806195
+"Therion ""King"" Regulus",10604644
+"Therion ""Lily"" Borea",83610035
+"Therion ""Reaper"" Fum",21727231
 Therion Charge,57285770
 Therion Cross,43270827
 Therion Discolosseum,84792926
@@ -12263,7 +12263,7 @@ Thestalos the Firestorm Monarch,26205777
 Thestalos the Mega Monarch,69230391
 Thestalos the Shadowfire Monarch,77832858
 This Creepy Little Punk,4599182
-Thor, Lord of the Aesir,30604579
+"Thor, Lord of the Aesir",30604579
 Thorn of Malice,65079854
 Thought Ruler Archfiend,70780151
 Thousand Dragon,41462083
@@ -12306,7 +12306,7 @@ Thunder End Dragon,698785
 Thunder Hand,16223761
 Thunder Kid,15510988
 Thunder King Rai-Oh,71564252
-Thunder King, the Lightningstrike Kaiju,48770333
+"Thunder King, the Lightningstrike Kaiju",48770333
 Thunder Nyan Nyan,70797118
 Thunder of Ruler,91781589
 Thunder Option Token,14089429
@@ -12317,8 +12317,8 @@ Thunderclap Monk,66722103
 Thunderclap Skywolf,13683298
 Thunderforce Attack,42469671
 Thunderspeed Summon,55557574
-Tidal, Dragon Ruler of Waterfalls,26400609
-Tierra, Source of Destruction,91588074
+"Tidal, Dragon Ruler of Waterfalls",26400609
+"Tierra, Source of Destruction",91588074
 Ties of the Brethren,40450317
 Ties That Bind,32270212
 Tiger Axe,49791927
@@ -12380,12 +12380,12 @@ Tindangle Jhrelth,24158464
 Tindangle Protector,67744384
 Tindangle Token,75119041
 Tindangle Trinity,11375683
-Tiras, Keeper of Genesis,31386180
+"Tiras, Keeper of Genesis",31386180
 TiSolfachord Beautia,54387923
-Tistina, the Divinity that Defies Darkness,87676171
+"Tistina, the Divinity that Defies Darkness",87676171
 Titaniklad the Ash Dragon,41373230
 Titanocider,67037924
-Tlakalel, His Malevolent Majesty,82319644
+"Tlakalel, His Malevolent Majesty",82319644
 Toad Master,62671448
 Toadally Awesome,90809975
 Tobari the Sky Ninja,31887806
@@ -12477,7 +12477,7 @@ Tragedy,35686188
 Tragic Twin Threads,81143465
 Tragoedia,98777036
 Train Connection,60879050
-Training Fur Hire, Fur All Your Training Needs,37890974
+"Training Fur Hire, Fur All Your Training Needs",37890974
 Trakodon,42348802
 Trance Archfiend,94283662
 Trance the Magic Swordsman,14214060
@@ -12639,11 +12639,11 @@ Triple Tactics Talent,25311006
 Triple Tactics Thrust,35269904
 Tripod Fish,61254509
 Tripwire Beast,45042329
-Trishula, Dragon of the Ice Barrier,52687916
-Trishula, the Dragon of Icy Imprisonment,15661378
-Trishula, Zero Dragon of the Ice Barrier,70980824
+"Trishula, Dragon of the Ice Barrier",52687916
+"Trishula, the Dragon of Icy Imprisonment",15661378
+"Trishula, Zero Dragon of the Ice Barrier",70980824
 Trismagistus,61159609
-Tristan, Knight of the Underworld,96163807
+"Tristan, Knight of the Underworld",96163807
 Trivikarma,7436169
 Trojan Blast,63323539
 Trojan Gladiator Beast,76384284
@@ -12653,15 +12653,15 @@ Truckroid,61538782
 True Draco Apocalypse,61529473
 True Draco Heritage,49430782
 True Exodia,37984331
-True King Agnimazud, the Vanisher,96746083
-True King Bahrastos, the Fathomer,82321037
-True King Lithosagym, the Disaster,30539496
+"True King Agnimazud, the Vanisher",96746083
+"True King Bahrastos, the Fathomer",82321037
+"True King Lithosagym, the Disaster",30539496
 True King of All Calamities,88581108
 True King's Return,35125879
 True Light,62089826
 Trust Guardian,87319876
-Tsuchigumo, the Poisonous Mayakashi,77092311
-Tsukahagi, the Poisonous Mayakashi,5325155
+"Tsuchigumo, the Poisonous Mayakashi",77092311
+"Tsukahagi, the Poisonous Mayakashi",5325155
 Tsukumo Slash,25334372
 Tsukuyomi,34853266
 Tsumuha-Kutsunagi the Lord of Swords,78098950
@@ -12695,10 +12695,10 @@ Turu-Purun,59053232
 Tutan Mask,3149764
 Twilight Cloth,83747250
 Twilight Eraser,57348141
-Twilight Ninja Getsuga, the Shogun,76930964
+"Twilight Ninja Getsuga, the Shogun",76930964
 Twilight Ninja Jogen,79441381
 Twilight Ninja Kagen,6830480
-Twilight Ninja Nichirin, the Chunin,40945356
+"Twilight Ninja Nichirin, the Chunin",40945356
 Twilight Ninja Shingetsu,14541657
 Twilight Rose Black Knight,92595825
 Twilight Rose Knight,2986553
@@ -12746,7 +12746,7 @@ Tyrant's Temper,4638410
 Tyrant's Throes,55271628
 Tyrant's Tirade,76721030
 Tyrant's Tummyache,48357738
-Tytannial, Princess of Camellias,11819616
+"Tytannial, Princess of Camellias",11819616
 U.A. Blockbacker,34614289
 U.A. Dreadnought Dunker,71279983
 U.A. Goalkeeper,9485511
@@ -12854,7 +12854,7 @@ Unicycular,57308711
 Unification,95352218
 Unification of the Cubic Lords,34325937
 Unified Front,31472884
-Uniflora, Mystical Beast of the Forest,36318200
+"Uniflora, Mystical Beast of the Forest",36318200
 Unifrog,56052205
 Union Activation,38527680
 Union Attack,60399954
@@ -12891,7 +12891,7 @@ Urgent Ritual Art,38844957
 Urgent Schedule,25274141
 Urgent Synthesis,99002135
 Urgent Tuning,94634433
-Uria, Lord of Searing Flames,6007213
+"Uria, Lord of Searing Flames",6007213
 Ursarctic Big Dipper,89264428
 Ursarctic Departure,16471775
 Ursarctic Drytron,89771220
@@ -12908,10 +12908,10 @@ Ursarctic Quint Charge,15758127
 Ursarctic Radiation,32692693
 Ursarctic Septentrion,53087962
 Ursarctic Slider,53865474
-Urubonus, the Avatar of Malice,47077697
+"Urubonus, the Avatar of Malice",47077697
 Ushi Oni,48649353
 Utchatzimime Token,90884404
-Utgarda, Generaider Boss of Delusion,744887
+"Utgarda, Generaider Boss of Delusion",744887
 Utopia Buster,30341772
 Utopian Aura,59070329
 Utopic Onomatopoeia,8512558
@@ -12929,14 +12929,14 @@ Vaalmonica Intonare,78598237
 Vaalmonica Invitare,38491852
 Vaalmonica Scelta,5605529
 Vaalmonica Versare,42193638
-Vaalmonica, the Agathokakological Voice,39210885
+"Vaalmonica, the Agathokakological Voice",39210885
 Vagnawa the Moon-Eating Dragon,9839115
 Vague Shadow Token,9929399
-Vahram, the Magistus Divinity Dragon,61272280
+"Vahram, the Magistus Divinity Dragon",61272280
 Vain Betrayer,94933468
-Vala, Seidhr of the Generaider Bosses,91749600
-Valerifawn, Mystical Beast of the Forest,24096499
-Valhalla, Hall of the Fallen,1353770
+"Vala, Seidhr of the Generaider Bosses",91749600
+"Valerifawn, Mystical Beast of the Forest",24096499
+"Valhalla, Hall of the Fallen",1353770
 Valiant Shark Lancer,23672629
 Valkyrian Knight,99348756
 Valkyrie Brunhilde,2204038
@@ -12952,7 +12952,7 @@ Valkyrie Vierte,81558967
 Valkyrie Zweite,30411385
 Valkyrie's Embrace,45584727
 Valkyrion the Magna Warrior,75347539
-Vallon, the Super Psy Skyblaster,40673853
+"Vallon, the Super Psy Skyblaster",40673853
 Vampire Awakening,31189536
 Vampire Baby,56387350
 Vampire Domination,68688135
@@ -13005,13 +13005,13 @@ Vanquish Soul Razen,29302858
 Vanquish Soul Rocks,77894049
 Vanquish Soul Snow Devil,60883493
 Vanquish Soul Trinity Burst,53330789
-Vanquish Soul, Start!,35550352
+"Vanquish Soul, Start!",35550352
 Vanquishing Light,32233746
-Varar, Vaalmonican Concord,1340142
+"Varar, Vaalmonican Concord",1340142
 VARefar the Kick Deity,19743887
 Variable Form,64038662
 Variety Comes Out,65196094
-Varudras, the Final Bringer of the End Times,70636044
+"Varudras, the Final Bringer of the End Times",70636044
 Vassal Token,22404676
 Vaylantz Buster Baron,14418464
 Vaylantz Dominator Duke,13291886
@@ -13023,7 +13023,7 @@ Vaylantz Wars - The Place of Beginning,13179234
 Vaylantz Wave - Master Phase,84281045
 Vaylantz World - Konig Wissen,75952542
 Vaylantz World - Shinra Bansho,49568943
-Vector Pendulum, the Dracoverlord,69512157
+"Vector Pendulum, the Dracoverlord",69512157
 Vector Scare Archfiend,13452889
 Veda Kalanta,27015862
 Veda Kalarcanum,40785230
@@ -13052,7 +13052,7 @@ Vengeful Servant,21702241
 Vengeful Shinobi,26046205
 Vennominaga the Deity of Poisonous Snakes,8062132
 Vennominon the King of Poisonous Snakes,72677437
-Vennu, Bright Bird of Divinity,10441498
+"Vennu, Bright Bird of Divinity",10441498
 Venom Boa,9284723
 Venom Burn,4466015
 Venom Cobra,22499463
@@ -13060,7 +13060,7 @@ Venom Serpent,36278828
 Venom Shot,60728397
 Venom Snake,73899015
 Venom Swamp,54306223
-Ventdra, the Empowered Warrior,93298460
+"Ventdra, the Empowered Warrior",93298460
 Vera the Vernusylph Goddess,55125728
 Verdant Sanctuary,80402389
 Verdict of Anubis,59576447
@@ -13086,7 +13086,7 @@ Vice Dragon,54343893
 Vicious Astraloud,65815684
 Vicious Claw,75524092
 Victoria,75162696
-Victorica, Angel of Bravery,79928401
+"Victorica, Angel of Bravery",79928401
 Victory Dragon,44910027
 Victory of the Shadow Riders,300302075
 Victory Viper XX03,93130021
@@ -13102,7 +13102,7 @@ Violet Witch,62379337
 Viper's Grudge,1683982
 Viper's Rebirth,64973456
 Viral Infection,300102005
-Virgil, Rock Star of the Burning Abyss,601193
+"Virgil, Rock Star of the Burning Abyss",601193
 Virtual World Beast - Jiujiu,35252119
 Virtual World City - Kauwloon,14886190
 Virtual World Dragon - Longlong,61641818
@@ -13176,7 +13176,7 @@ Volcanic Scattershot,69750546
 Volcanic Shell,33365932
 Volcanic Slicer,17415895
 Volcanic Trooper,22411609
-Voloferniges, the Darkest Dragon Doomrider,38694052
+"Voloferniges, the Darkest Dragon Doomrider",38694052
 Voltanis the Adjudicator,20951752
 Voltester,18585765
 Voltic Bicorn,13995824
@@ -13186,11 +13186,11 @@ Vortex the Whirlwind,25373678
 Vortex Trooper,7736719
 Vorticular Drumgon,739444
 Votis,75311421
-Vouiburial, the Dragon Undertaker,36974120
+"Vouiburial, the Dragon Undertaker",36974120
 Vulcan Dragni the Cubic King,77387463
 Vulcan the Divine,98012938
 Vulcarrion the Rotting Phoenix,58354899
-Vulmina, Statue of the Sacred Dragon,93683815
+"Vulmina, Statue of the Sacred Dragon",93683815
 VW-Tiger Catapult,58859575
 VWXYZ-Dragon Catapult Cannon,84243274
 Vylon Alpha,56768355
@@ -13327,11 +13327,11 @@ Weathering Soldier,23147658
 Wedju Temple,63017368
 Wee Witch's Apprentice,71384012
 Weed Out,28604635
-Ween, the Spirit of Treats,81005500
+"Ween, the Spirit of Treats",81005500
 Weeping Idol,5763020
 Weighbridge,39103226
 Weights & Zenmaisures,42548470
-Weiss, Lightsworn Archfiend,96576187
+"Weiss, Lightsworn Archfiend",96576187
 Welcome Labrynth,5380979
 Welcome to the Jungle,300302076
 Wetha,96643568
@@ -13378,7 +13378,7 @@ White Tiger Summoner,28348939
 White Veil,49306994
 White Wing Magician,11067666
 White-Horned Dragon,73891874
-Whitebeard, the Plunder Patroll Helm,31374201
+"Whitebeard, the Plunder Patroll Helm",31374201
 Whitefish Salvage,63509474
 Wicked Acolyte Chilam Sabak,27103517
 Wicked Dragon with the Ersatz Head,2957055
@@ -13424,8 +13424,8 @@ Wind-Up Warrior,53540729
 Wind-Up Zenmaines,78156759
 Wind-Up Zenmaintenance,1735088
 Wind-Up Zenmaister,68597372
-Winda, Priestess of Gusto,54455435
-Windaar, Sage of Gusto,27944249
+"Winda, Priestess of Gusto",54455435
+"Windaar, Sage of Gusto",27944249
 Windmill Genex,43925870
 Windrose the Elemental Lord,53027855
 WINDS OF VICTORY,37301660
@@ -13444,8 +13444,8 @@ Wing Eagle,47319141
 Wing Egg Elf,98582704
 Wing Requital,8843569
 Winged Cleaver,39175982
-Winged Dragon, Guardian of the Fortress #1,87796900
-Winged Dragon, Guardian of the Fortress #2,57405307
+"Winged Dragon, Guardian of the Fortress #1",87796900
+"Winged Dragon, Guardian of the Fortress #2",57405307
 Winged Egg of New Life,42418084
 Winged Kuriboh,57116033
 Winged Kuriboh LV10,98585345
@@ -13490,7 +13490,7 @@ Witchcrafter Scroll,19673561
 Witchcrafter Unveiling,70226289
 Witchcrafter Vice-Madame,9603252
 Witty Phantom,36304921
-Wiz, Sage Fur Hire,1527418
+"Wiz, Sage Fur Hire",1527418
 Wizard @Ignister,3723262
 Wizard Buster Destruction Sword,2602411
 Wodan the Resident of the Forest,42883273
@@ -13498,13 +13498,13 @@ Woes of the White Forest,62995268
 Wolf,49417509
 Wolf Axwielder,56369281
 Wolf in Sheep's Clothing,83546647
-Wollow, Founder of the Drudge Dragons,45935145
+"Wollow, Founder of the Drudge Dragons",45935145
 Wonder Balloons,78574395
 Wonder Clover,38568567
 Wonder Garage,50684552
 Wonder Wand,67775894
 Wonder Xyz,73860462
-Wonko, Noble Knight of the Forest,17832359
+"Wonko, Noble Knight of the Forest",17832359
 Wonky Quartet,47195442
 Wood Clown,17511156
 Wood Remains,17733394
@@ -13516,14 +13516,14 @@ World Chalice Guardragon,84899094
 World Chalice Guardragon Almarduke,95793022
 World Dino Wrestling,90173539
 World Gears of Theurlogical Demiurgy,57282724
-World Legacy - "World Ark",42388271
-World Legacy - "World Armor",83477829
-World Legacy - "World Chalice",57288708
-World Legacy - "World Crown",27918365
-World Legacy - "World Key",40441990
-World Legacy - "World Lance",46647144
-World Legacy - "World Shield",55787576
-World Legacy - "World Wand",93920420
+"World Legacy - ""World Ark""",42388271
+"World Legacy - ""World Armor""",83477829
+"World Legacy - ""World Chalice""",57288708
+"World Legacy - ""World Crown""",27918365
+"World Legacy - ""World Key""",40441990
+"World Legacy - ""World Lance""",46647144
+"World Legacy - ""World Shield""",55787576
+"World Legacy - ""World Wand""",93920420
 World Legacy Awakens,12989604
 World Legacy Bestowal,59778096
 World Legacy Clash,93236220
@@ -13592,10 +13592,10 @@ Wrath of Neos,52098461
 Wrecker Panda,28139785
 Wretched Ghost of the Attic,17238333
 Wroughtweiler,6480253
-Wulf, Lightsworn Beast,58996430
+"Wulf, Lightsworn Beast",58996430
 Wynn the Wind Channeler,86395581
 Wynn the Wind Charmer,37744402
-Wynn the Wind Charmer, Verdant,30674956
+"Wynn the Wind Charmer, Verdant",30674956
 X-Cross Cannon,70860415
 X-Head Cannon,62651957
 X-Krawler Neurogos,66393507
@@ -13685,7 +13685,7 @@ Yaguramaru the Armor Ninja,13298352
 Yaiba Robo,10315429
 Yajiro Invader,10852583
 Yaksha,94215860
-Yakusa, Lord of the Eight Thunders,90583279
+"Yakusa, Lord of the Eight Thunders",90583279
 Yamadron,70345785
 Yamata Dragon,76862289
 Yamatako Orochi,4632019
@@ -13700,11 +13700,11 @@ Yang Zing Path,17183908
 Yang Zing Prana,43577607
 Yang Zing Unleashed,77783947
 Yaranzo,71280811
-Yasha, the Skeletal Mayakashi,77714963
+"Yasha, the Skeletal Mayakashi",77714963
 Yashinoki,41061625
 Yata-Garasu,3078576
-Yazi, Evil of the Yang Zing,43202238
-Yellow Baboon, Archer of the Forest,65303664
+"Yazi, Evil of the Yang Zing",43202238
+"Yellow Baboon, Archer of the Forest",65303664
 Yellow Dragon Ninja,90247311
 Yellow Duston,16366810
 Yellow Gadget,13839120
@@ -13712,7 +13712,7 @@ Yellow Luster Shield,4542651
 Yellow Ninja,64749612
 Yellow-Bellied Oni,53090623
 Yoko-Zuna Sumo Spirit,40516623
-Yoko, the Graceful Mayakashi,3486020
+"Yoko, the Graceful Mayakashi",3486020
 Yokotuner,27750191
 Yomi Ship,51534754
 Yorishiro of the Aqua,57511992
@@ -13744,10 +13744,10 @@ Yubel,78371393
 Yubel - Terror Incarnate,4779091
 Yubel - The Loving Defender Forever,47172959
 Yubel - The Ultimate Nightmare,31764700
-Yuki-Musume, the Ice Mayakashi,72700231
-Yuki-Onna, the Absolute Zero Mayakashi,2645637
-Yuki-Onna, the Ice Mayakashi,66870733
-Yuki-Onna, the Icicle Mayakashi,36114945
+"Yuki-Musume, the Ice Mayakashi",72700231
+"Yuki-Onna, the Absolute Zero Mayakashi",2645637
+"Yuki-Onna, the Ice Mayakashi",66870733
+"Yuki-Onna, the Icicle Mayakashi",36114945
 Yum☆Yum☆Yummys,56870908
 Yummy★Redemption,65853758
 Yummy★Snatchy,30581601
@@ -13764,21 +13764,21 @@ Zalamander Catalyzer,40460013
 Zanki,30090452
 Zany Zebra,97466438
 Zap Mustung,29951323
-Zaphion, the Timelord,28929131
+"Zaphion, the Timelord",28929131
 Zapper Shrimp,92744676
 Zaralaam the Dark Palace,64230128
 Zarigun,10598400
-Zebufera, Vaalmonican Hallow Heathen,2815176
+"Zebufera, Vaalmonican Hallow Heathen",2815176
 Zefra Divine Strike,35561352
 Zefra Metaltron,85216896
 Zefra Path,5255013
 Zefra Providence,74580251
 Zefra War,96073342
 Zefraath,29432356
-Zefraniu, Secret of the Yang Zing,58990362
-Zefrasaber, Swordmaster of the Nekroz,84388461
-Zefraxa, Flame Beast of the Nekroz,20773176
-Zefraxi, Treasure of the Yang Zing,21495657
+"Zefraniu, Secret of the Yang Zing",58990362
+"Zefrasaber, Swordmaster of the Nekroz",84388461
+"Zefraxa, Flame Beast of the Nekroz",20773176
+"Zefraxi, Treasure of the Yang Zing",21495657
 Zekt Conversion,74854609
 Zektrike Kou-ou,97946536
 Zeman the Ape King,22858242
@@ -13786,10 +13786,10 @@ Zenmaiday,83319610
 Zenmailfunction,61011311
 Zenmailstrom,91422370
 Zenmairch,29999161
-Zep, Ruby of the Ghoti,76133574
+"Zep, Ruby of the Ghoti",76133574
 Zera Ritual,81756897
 Zera the Mant,69123138
-Zeradias, Herald of Heaven,12171659
+"Zeradias, Herald of Heaven",12171659
 Zereort Migrator,87640391
 Zero Extra Link,60162470
 Zero Force,17521642
@@ -13798,7 +13798,7 @@ Zero Gravity,83133491
 Zero-Day Blaster,93014827
 ZERO-MAX,30562585
 Zerozerock,85446833
-Zerrziel, Ruler of the Evil Eyed,17739335
+"Zerrziel, Ruler of the Evil Eyed",17739335
 Zeta Reticulant,64382839
 Zexal Alliance,31712840
 Zexal Catapult,95664204
@@ -13808,7 +13808,7 @@ Zexal Field,95856586
 Zoa,24311372
 Zoa the Fiendish Beast,53753697
 Zodiac Sign,675319
-Zohah, the Ogdoadic Boundless,35998832
+"Zohah, the Ogdoadic Boundless",35998832
 Zolga,16268841
 Zolga the Prophet,31525442
 Zoma the Earthbound Spirit,88001391
@@ -13842,9 +13842,9 @@ Zoodiac Ratpier,78872731
 Zoodiac Thoroughblade,77150143
 Zoodiac Tigermortar,11510448
 Zoodiac Whiptail,31755044
-Zoroa, the Magistus Conflagrant Calamity,95911373
-Zoroa, the Magistus of Flame,36099130
-Zoroa, the Magistus Verethragna,37260677
+"Zoroa, the Magistus Conflagrant Calamity",95911373
+"Zoroa, the Magistus of Flame",36099130
+"Zoroa, the Magistus Verethragna",37260677
 ZS - Armed Sage,68258355
 ZS - Ascended Sage,4647954
 ZS - Ouroboros Sage,32281491
@@ -13856,7 +13856,7 @@ Zubaba Knight,97896503
 Zubababa Knight,62006866
 Zubababancho Gagagacoat,23720856
 Zuijin of the Ice Barrier,43256007
-Zure, Knight of Dark World,7459013
+"Zure, Knight of Dark World",7459013
 Zushin the Sleeping Giant,67547370
 Zuttomozaurus,24454387
 ZW - Asura Strike,40941889
