@@ -1,21 +1,23 @@
 Value.name
-"""A"" Cell Breeding Device"
-"""A"" Cell Incubator"
-"""A"" Cell Recombination Device"
-"""A"" Cell Scatter Burst"
-"""Infernoble Arms - Almace"""
-"""Infernoble Arms - Durendal"""
-"""Infernoble Arms - Hauteclere"""
-"""Infernoble Arms - Joyeuse"""
+Column1.name
+"A Case for K9"
+"A" Cell Breeding Device
+"A" Cell Incubator
+"A" Cell Recombination Device
+"A" Cell Scatter Burst
+"Infernoble Arms - Almace"
+"Infernoble Arms - Durendal"
+"Infernoble Arms - Hauteclere"
+"Infernoble Arms - Joyeuse"
 1st Movement Solo
 3-Hump Lacooda
-"30,000-Year White Turtle"
+30,000-Year White Turtle
 4-Starred Ladybug of Doom
 7
 7 Colored Fish
 7 Completed
 8-Claws Scorpion
-"A Bao A Qu, the Lightless Shadow"
+A Bao A Qu, the Lightless Shadow
 A Cat of Ill Omen
 A Deal with Dark Ruler
 A Feather of the Phoenix
@@ -26,7 +28,7 @@ A Legendary Ocean
 A Major Upset
 A Man with Wdjat
 A Rival Appears!
-"A Shattered, Colorless Realm"
+A Shattered, Colorless Realm
 A Wild Monster Appears!
 A Wingbeat of Giant Dragon
 A-Assault Core
@@ -34,6 +36,7 @@ A-Team: Trap Disposal Unit
 A-to-Z Energy Load
 A-to-Z-Dragon Buster Cannon
 A.I. Challenge You
+A.I. Connect
 A.I. Contact
 A.I. Love Fusion
 A.I. Meet You
@@ -46,9 +49,11 @@ A/D Changer
 Abaki
 Abare Ushioni
 ABC-Dragon Buster
+Abduction
 Abominable Chamber of the Unchained
 Abominable Unchained Soul
 Abomination's Prison
+Absolute Axon Kicker
 Absolute Crusader
 Absolute End
 Absolute King - Megaplunder
@@ -98,19 +103,19 @@ Abyss-scale of the Mizuchi
 Abyss-scorn
 Abyss-sphere
 Abyss-squall
+Abyss-steam
 Abyss-sting Triaina
 Abyss-strom
-Abyss-team
 Abyssal Designator
 Abyssal Kingshark
-"Abyssrhine, the Atlantean Spirit"
-"Abysstrite, the Atlantean Spirit"
+Abyssrhine, the Atlantean Spirit
+Abysstrite, the Atlantean Spirit
 Accel Synchro Stardust Dragon
 Accel Synchron
 Accellight
 Accesscode Talker
 Accumulated Fortune
-Ace?Spades Speculation
+Ace★Spades Speculation
 Achacha Archer
 Achacha Chanbara
 Achichi @Ignister
@@ -141,7 +146,7 @@ Adamancipator Signs
 Additional Mirror Level 7
 Adhesion Trap Hole
 Adhesive Explosive
-"Adreus, Keeper of Armageddon"
+Adreus, Keeper of Armageddon
 Adularia of the June Moon
 Advance Draw
 Advance Force
@@ -162,8 +167,8 @@ Aegis of the Ocean Dragon Lord
 Aerial Eater
 Aerial Recharge
 Aeropixthree
-"Aether, the Empowering Dragon"
-"Aether, the Evil Empowering Dragon"
+Aether, the Empowering Dragon
+Aether, the Evil Empowering Dragon
 After the Storm
 After the Struggle
 Afterglow
@@ -173,7 +178,7 @@ Ages of Stars and Frost
 Agido
 Agido the Ancient Sentinel
 Agnimal Candle
-"Ahrima, the Wicked Warden"
+Ahrima, the Wicked Warden
 Aileron
 Air Armor Ninja
 Air Cracking Storm
@@ -181,12 +186,12 @@ Air Eater
 Airknight Parshath
 Airorca
 Aitsu
-"Aiwass, the Magistus Spell Spirit"
+Aiwass, the Magistus Spell Spirit
 Aiza the Dragoness of Deranged Devotion
 Akakieisu
 Akashic Magician
 Akihiron
-"Akz, the Pumer"
+Akz, the Pumer
 Al-Lumi'raj
 Alba-Lenatus the Abyss Dragon
 Albaz the Ashen
@@ -196,15 +201,15 @@ Albion the Shrouded Dragon
 Alchemic Magician
 Alchemist of Black Spells
 Alchemy Cycle
-"Alector, Sovereign of Birds"
-"Aleirtt, the Ogdoadic Dark"
+Alector, Sovereign of Birds
+Aleirtt, the Ogdoadic Dark
 Aleister the Invoker
 Aleister the Invoker of Madness
 ALERT!
 Alexandrite Dragon
 Alghoul Mazera
-"Alice, Lady of Lament"
-"Alich, Malebranche of the Burning Abyss"
+Alice, Lady of Lament
+Alich, Malebranche of the Burning Abyss
 Alien Ammonite
 Alien Brain
 Alien Dog
@@ -226,6 +231,7 @@ Alien Warrior
 Alinsection
 All-Eyes Phantom Dragon
 All-Out Attacks
+Allied Code Talker @Ignister
 Alligator's Sword
 Alligator's Sword Dragon
 Allure Dance
@@ -260,12 +266,12 @@ Ally of Justice Unknown Crusher
 Ally of Justice Unlimiter
 Ally Salvo
 Aloof Lupine
-"Alpacaribou, Mystical Beast of the Forest"
+Alpacaribou, Mystical Beast of the Forest
 Alpha Summon
 Alpha The Electromagnet Warrior
 Alpha The Magnet Warrior
-"Alpha, the Master of Beasts"
-"Alsei, the Sylvan High Protector"
+Alpha, the Master of Beasts
+Alsei, the Sylvan High Protector
 Altar for Tribute
 Altergeist Adminia
 Altergeist Camouflage
@@ -356,10 +362,11 @@ Ambitious Gofer
 Ambulance Rescueroid
 Ambulanceroid
 Ambush Fangs
+Ame no Habakiri no Mitsurugi
 Ame no Murakumo no Mitsurugi
 Ameba
 Amores of Prophecy
-"Amorphactor Pain, the Imagination Dracoverlord"
+Amorphactor Pain, the Imagination Dracoverlord
 Amorphage Envy
 Amorphage Gluttony
 Amorphage Goliath
@@ -379,12 +386,13 @@ Amphibious Swarmship Amblowhale
 Amplifier
 Amulet Dragon
 Amulet of Ambition
-"Amunessia, the Ogdoadic Queen"
+Amunessia, the Ogdoadic Queen
 An Owl of Luck
 An Unfortunate Report
 Anarchist Monk of the Six Samurai
 Anarchist Monk Ranshin
 Anchamoufrite
+Anchorbolt Hedgehog
 Ancient Brain
 Ancient Chant
 Ancient City - Rainbow Ruins
@@ -392,6 +400,7 @@ Ancient Crimson Ape
 Ancient Dragon
 Ancient Elf
 Ancient Fairy Dragon
+Ancient Fairy Life Dragon
 Ancient Flamvell Deity
 Ancient Forest
 Ancient Fusion
@@ -476,17 +485,19 @@ Angel of Blue Tears
 Angel of Zera
 Angel Statue - Azurune
 Angel Trumpeter
-"Angelica, Princess of Noble Arms"
+Angelica, Princess of Noble Arms
 Angelica's Angelic Ring
 Angello Vaalmonica
 Angmarl the Fiendish Monarch
 Angraecum Umbrella
+Angry Burger
 Animadorned Archosaur
 Ankuriboh
 Annihilator Archfiend
 Anotherverse Dragon
 Anotherverse Gluttonia
 Anotherverse Solaria
+Anotherverse Stratios
 Ansatsu
 Ante
 Anteatereatingant
@@ -501,11 +512,14 @@ Anti-Spell Fragrance
 Antialian
 Antidote Nurse
 Antihuman Intelligence ME-PSY-YA
+Anubis the Last Judge
 Ape Fighter
 Ape Magician
 Apex Predation
+Apocaries
 Apocatequil
-"Apollousa, Bow of the Goddess"
+Apollousa, Bow of the Goddess
+Apophis the Serpent
 Apophis the Swamp Deity
 Apoqliphort Skybase
 Apoqliphort Towers
@@ -584,7 +598,7 @@ Archfiend Black Skull Dragon
 Archfiend Cavalry
 Archfiend Commander
 Archfiend Eccentrick
-"Archfiend Emperor, the First Lord of Horror"
+Archfiend Emperor, the First Lord of Horror
 Archfiend Empress
 Archfiend General
 Archfiend Giant
@@ -612,6 +626,10 @@ Archlord Zerato
 Archnemeses Eschatos
 Archnemeses Protos
 Arcjet Lightcraft
+Arequus the Shining Mars Saint
+Argostars - Adventurous Arion
+Argostars - Fierce Parthe
+Argostars - Giantslaying
 Argostars - Glorious Adra
 Argostars - Home Stadium
 Argostars - Lightning Tydeu
@@ -621,14 +639,14 @@ Aria the Melodious Diva
 Ariane the Labrynth Servant
 Arianna the Labrynth Servant
 Arias the Labrynth Butler
-"Ariel, Priestess of the Nekroz"
-"Arionpos, Serpent of the Ghoti"
+Ariel, Priestess of the Nekroz
+Arionpos, Serpent of the Ghoti
 Arisen Gaia the Fierce Knight
 Arkbrave Dragon
 Arktos XII - Chronochasm Vaylantz
 Arlownay
 Arma Knight
-"Armades, Keeper of Boundaries"
+Armades, Keeper of Boundaries
 Armageddon Designator
 Armageddon Knight
 Armaill
@@ -648,14 +666,14 @@ Armed Dragon Thunder LV3
 Armed Dragon Thunder LV5
 Armed Dragon Thunder LV7
 Armed Dragon Thunderbolt
-"Armed Dragon, the Armored Dragon"
+Armed Dragon, the Armored Dragon
 Armed Neos
 Armed Ninja
 Armed Protector Dragon
 Armed Rebeellion
 Armed Samurai - Ben Kei
 Armed Sea Hunter
-"Armillyre, the Starleader Dragon"
+Armillyre, the Starleader Dragon
 Armityle the Chaos Phantasm
 Armityle the Chaos Phantasm - Phantom of Fury
 Armor Blast
@@ -685,7 +703,7 @@ Armory Call
 Arms of Genex Return Zero
 Arms Regeneration
 Army Ant Token
-"Arnis, the Empowered Warrior"
+Arnis, the Empowered Warrior
 Aroma Blend
 Aroma Garden
 Aroma Gardening
@@ -705,14 +723,14 @@ Aromaseraphy Angelica
 Aromaseraphy Jasmine
 Aromaseraphy Rosemary
 Aromaseraphy Sweet Marjoram
-"Aron, the Ogdoadic King"
+Aron, the Ogdoadic King
 Array of Revealing Light
 Arrivalrivals
 Arrive in Light
 Arsenal Bug
 Arsenal Robber
 Arsenal Summoner
-"Artemis, the Magistus Moon Maiden"
+Artemis, the Magistus Moon Maiden
 Artifact Achilleshield
 Artifact Aegis
 Artifact Beagalltach
@@ -731,19 +749,33 @@ Artifact Scythe
 Artifact Vajra
 Artifacts Unleashed
 Artillery Catapult Turtle
-"Artorigus, King of the Noble Knights"
-"Ascator, Dawnwalker"
+Artmage Academic Arcane Arts Acropolis
+Artmage Diactorus
+Artmage Finmel
+Artmage Graflare
+Artmage Litera
+Artmage Masterwork -Succession-
+Artmage Movement -Lineage-
+Artmage Pact -Awakening-
+Artmage Peripeteia -Turmoil-
+Artmage Power Patron
+Artmage Vandalism -Assault-
+Artmage Varnish -Alteration-
+Artorigus, King of the Noble Knights
+Ascator, Dawnwalker
 Ascending Soul
 Ascension Sky Dragon
 Asceticism of the Six Samurai
 Ash Blossom & Joyous Spring
 Ashened for Eternity
 Ashened to Endlessness
+ASHLAN U1000
 Ashoka Pillar
 Ashura King
-"Askaan, the Bicorned Ghoti"
+Askaan, the Bicorned Ghoti
 Asleep at the Switch
 Asmo Token
+Aspischool
 Assault Armor
 Assault Beast
 Assault Blackwing - Chidori the Rain Sprinkling
@@ -798,22 +830,22 @@ Attention!
 Attraffic Control
 Augmented Heraldry
 Auram the World Chalice Blademaster
-"Aurkus, Lightsworn Druid"
+Aurkus, Lightsworn Druid
 Aurora Paragon
 Aurora Wing
 Aussa the Earth Channeler
 Aussa the Earth Charmer
-"Aussa the Earth Charmer, Immovable"
+Aussa the Earth Charmer, Immovable
 Automatic Laser
 Autonomous Action Unit
 Autorokket Dragon
 Avalanching Aussa
 Avalon
-"Avance, Swordsman of the Nekroz"
+Avance, Swordsman of the Nekroz
 Avatar of The Pot
 Avendread Savior
 Avenging Knight Parshath
-"Avida, Rebuilder of Worlds"
+Avida, Rebuilder of Worlds
 Awakening of Nephthys
 Awakening of the Crystal Ultimates
 Awakening of the Possessed
@@ -827,17 +859,18 @@ Axe Dragonute
 Axe of Despair
 Axe of Fools
 Axe Raider
+Axon Kicker Oracle
 Aye-Iron
 Ayers Rock Sunrise
+Azamina
+Azamina Aphes
 Azamina Debtors
 Azamina Determination
-Azamina Elzette of the White Forest
 Azamina Ilia Silvia
 Azamina Moa Regina
 Azamina Mu Rcielago
 Azamina Sol Erysichthon
-Azamina Unleashing
-"Aztekipede, the Worm Warrior"
+Aztekipede, the Worm Warrior
 Azure-Eyes Silver Dragon
 B-Buster Drake
 B. Dragon Jungle King
@@ -866,6 +899,7 @@ Backfire
 Background Dragon
 Backlinker
 Backs to the Wall
+Backup @Ignister
 Backup Operator
 Backup Secretary
 Backup Soldier
@@ -878,7 +912,7 @@ Bad Aim
 Bad Luck Blast
 Bad Reaction to Simochi
 Baelgrill de Nouvelles
-"Bahalutiya, the Grand Radiance"
+Bahalutiya, the Grand Radiance
 Bahamut Shark
 Bait Doll
 Baku the Beast Ninja
@@ -897,8 +931,8 @@ Banishment of the Darklords
 Banner of Courage
 Banquet of Millions
 Baobaboon
-"Barbar, Malebranche of the Burning Abyss"
-"Barbaroid, the Ultimate Battle Machine"
+Barbar, Malebranche of the Burning Abyss
+Barbaroid, the Ultimate Battle Machine
 Barian Untopia
 Barian's Chaos Draw
 Bark of Dark Ruler
@@ -925,10 +959,10 @@ Barrier Wave
 Basal Rose Shoot
 Bashing Shield
 Basic Insect
-"Basilius, Familiar of the Evil Eye"
-"Basiltrice, Familiar of the Evil Eye"
+Basilius, Familiar of the Evil Eye
+Basiltrice, Familiar of the Evil Eye
 Bat
-"Bat, the Forest Ninja"
+Bat, the Forest Ninja
 Battery Charger
 Batteryman 9-Volt
 Batteryman AA
@@ -1000,9 +1034,9 @@ Battlin' Boxer Uppercutter
 Battlin' Boxer Veil
 Battlin' Boxing Cross Counter
 Battlin' Boxing Spirits
-"Baxia, Brightness of the Yang Zing"
+Baxia, Brightness of the Yang Zing
 Bayerock Dragon
-"Bayonater, the Baneful Barrel"
+Bayonater, the Baneful Barrel
 Bayonet Punisher
 Bazoo the Soul Eater Beast
 Bazoo the Soul-Eater
@@ -1010,13 +1044,14 @@ Beacon of White
 Beaked Snake
 Bean Soldier
 Bearblocker
-"Beargram, Shelled Emperor of the Forest Crown"
+Beargram, Shelled Emperor of the Forest Crown
 Beast Fangs
 Beast King Barbaros
 Beast King Unleashed
-Beast Machine King Barbaros �r
+Beast Machine King Barbaros Ür
 Beast Magic Attack
 Beast of Talwar
+Beast of Talwar - The Sword Summit
 Beast of the Pharaoh
 Beast Rage
 Beast Rising
@@ -1028,10 +1063,10 @@ Beastking of the Swamps
 Beastly Mirror Ritual
 Beasts of Phantom
 Beat Cop from the Underworld
-"Beat, Bladesman Fur Hire"
+Beat, Bladesman Fur Hire
 Beatdown!
 Beatraptor
-"Beatrice, Lady of the Eternal"
+Beatrice, Lady of the Eternal
 Beautiful Beast Trainer
 Beautiful Headhuntress
 Beautunaful Princess
@@ -1057,12 +1092,12 @@ Beetrooper Squad
 Beetrooper Sting Lancer
 Beginning Knight
 Beginning of Heaven and Earth
-"Begone, Knave!"
+Begone, Knave!
 Behegon
 Behemoth the King of a Hundred Battles
 Behemoth the King of All Animals
-"Behold, Gate Guardian!"
-"Beiige, Vanguard of Dark World"
+Behold, Gate Guardian!
+Beiige, Vanguard of Dark World
 Belial - Marquis of Darkness
 Believe in your Bro
 Bellcat Fighter
@@ -1088,7 +1123,7 @@ Bettan Bat
 Beware the Brothers Paradox!
 Beware the White Forest
 Beyond the Pendulum
-"Bi'an, Earth of the Yang Zing"
+Bi'an, Earth of the Yang Zing
 Bickuribox
 Bicorn Re'em
 Bicular
@@ -1113,7 +1148,7 @@ Big-Winged Berfomet
 Binary Blader
 Binary Sorceress
 Binding Chain
-"Bingo Machine, Go!!!"
+Bingo Machine, Go!!!
 Bio Plant
 Bio-Insect Armor
 Bio-Mage
@@ -1128,7 +1163,7 @@ Bite Shoes
 Bitelon
 Bitron
 Bitrooper
-"Bixi, Water of the Yang Zing"
+Bixi, Water of the Yang Zing
 Black and White Wave
 Black Brachios
 Black Brutdrago
@@ -1160,6 +1195,7 @@ Black Ptera
 Black Ray Lancer
 Black Return
 Black Rose Dragon
+Black Rose Garden
 Black Rose Moonlight Dragon
 Black Salvo
 Black Shadow Squall
@@ -1176,10 +1212,10 @@ Black-Winged Assault Dragon
 Black-Winged Dragon
 Black-Winged Strafe
 Blackback
-"Blackbeard, the Plunder Patroll Captain"
+Blackbeard, the Plunder Patroll Captain
 Blackbird Close
 Blackboost
-"Blackeyes, the Plunder Patroll Seaguide"
+Blackeyes, the Plunder Patroll Seaguide
 Blackfeather Darkrage Dragon
 Blackland Fire Dragon
 Blackwing - Abrolhos the Megaquake
@@ -1253,18 +1289,18 @@ Blast Juggler
 Blast Magician
 Blast Sphere
 Blast with Chain
-"Blaster, Dragon Ruler of Infernos"
+Blaster, Dragon Ruler of Infernos
 Blasting Fuse
 Blasting the Ruins
 Blaze Accelerator
 Blaze Accelerator Deployment (Skill Card)
 Blaze Accelerator Reload
 Blaze Cannon
-"Blaze Fenix, the Burning Bombardment Bird"
-"Blaze, Supreme Ruler of all Dragons"
+Blaze Fenix, the Burning Bombardment Bird
+Blaze, Supreme Ruler of all Dragons
 Blazewing Butterfly
 Blazing Bombardment Beast
-"Blazing Cartesia, the Virtuous"
+Blazing Cartesia, the Virtuous
 Blazing Hiita
 Blazing Inpachi
 Blazing Mirror Force
@@ -1283,7 +1319,7 @@ Blizzard Falcon
 Blizzard Princess
 Blizzard Thunderbird
 Blizzard Warrior
-"Blizzed, Defender of the Ice Barrier"
+Blizzed, Defender of the Ice Barrier
 Block Attack
 Block Dragon
 Block Golem
@@ -1326,7 +1362,7 @@ Blue-Eyes Ultimate Dragon
 Blue-Eyes Ultimate Spirit Dragon
 Blue-Eyes White Dragon
 Blue-Winged Crown
-"Bluebeard, the Plunder Patroll Shipwright"
+Bluebeard, the Plunder Patroll Shipwright
 Blustering Winds
 BM-4 Blast Spider
 Boar Soldier
@@ -1334,6 +1370,7 @@ Bokoichi the Freightening Car
 Bolt Escargot
 Bolt Penguin
 Bombardment Beetle
+Bomber Place
 Bond Between Teacher and Student
 Bonding - D2O
 Bonding - DHO
@@ -1397,12 +1434,14 @@ BOXer
 Boycotton
 Bracchio-raidus
 Brain Control
+Brain Controller
 Brain Crusher
 Brain Golem
 Brain Hazard
 Brain Jacker
 Brain Research Lab
 Brainwashing Beam
+Bramble Rose Dragon
 Branch!
 Branded Banishment
 Branded Beast
@@ -1424,7 +1463,7 @@ Branded Sword
 Brave Scizzar
 Brave-Eyes Pendulum Dragon
 Bravedrive
-"Bravo, Fighter Fur Hire"
+Bravo, Fighter Fur Hire
 Break Away
 Break Off Trap Hole
 Break the Destiny
@@ -1442,14 +1481,14 @@ Breath of the Tistina
 Bri Synchron
 Bright Future
 Bright Star Dragon
-"Brightest, Blazing, Branded King"
+Brightest, Blazing, Branded King
 Brigrand the Glory Dragon
 Brilliant Fusion
 Brilliant Rose
 Brilliant Spark
 Brinegir
-"Brionac, Dragon of the Ice Barrier"
-"Brionac, the Magical Ice Dragon"
+Brionac, Dragon of the Ice Barrier
+Brionac, the Magical Ice Dragon
 Brohunder
 Broken Bamboo Sword
 Broken Blocker
@@ -1483,8 +1522,8 @@ Brotherhood of the Fire Fist - Swallow
 Brotherhood of the Fire Fist - Swan
 Brotherhood of the Fire Fist - Tiger King
 Brotherhood of the Fire Fist - Wolf
-"Broww, Huntsman of Dark World"
-"Brron, Mad King of Dark World"
+Broww, Huntsman of Dark World
+Brron, Mad King of Dark World
 Brushfire Knight
 Brutal Beast Battle
 Brutal Potion
@@ -1500,6 +1539,7 @@ Buerillabaisse de Nouvelles
 Bug Emergency
 Bug Matrix
 Bug Signal
+Buio the Dawn's Light
 Bujin Arasuda
 Bujin Hiruko
 Bujin Hirume
@@ -1548,7 +1588,7 @@ Burglar
 Burgundy the Magic Elf
 Burial Bicorn Carnovorus
 Burial from a Different Dimension
-"Burner, Dragon Ruler of Sparks"
+Burner, Dragon Ruler of Sparks
 Burning Algae
 Burning Bamboo Sword
 Burning Beast
@@ -1565,8 +1605,8 @@ Burst Return
 Burst Stream of Destruction
 Bururu @Ignister
 Buster Blader
-"Buster Blader, the Destruction Swordmaster"
-"Buster Blader, the Dragon Destroyer Swordsman"
+Buster Blader, the Destruction Swordmaster
+Buster Blader, the Dragon Destroyer Swordsman
 Buster Blaster
 Buster Dragon
 Buster Gundil the Cubic Behemoth
@@ -1588,15 +1628,15 @@ Bystial Druiswurm
 Bystial Magnamhut
 Bystial Saronir
 C-Crush Wyvern
-"Caam, Serenity of Gusto"
+Caam, Serenity of Gusto
 Cabrera Stone
 Cactus Bouncer
 Cactus Fighter
-"Cagna, Malebranche of the Burning Abyss"
-"Cairngorgon, Antiluminescent Knight"
+Cagna, Malebranche of the Burning Abyss
+Cairngorgon, Antiluminescent Knight
 Caius the Mega Monarch
 Caius the Shadow Monarch
-"Calcab, Malebranche of the Burning Abyss"
+Calcab, Malebranche of the Burning Abyss
 Caligo Claw Crow
 Call of Darkness
 Call of the Archfiend
@@ -1609,7 +1649,7 @@ Call of the Mummy
 Call of the Reaper
 Called by the Grave
 Calming Magic
-"Camelot, Realm of Noble Knights and Noble Arms"
+Camelot, Realm of Noble Knights and Noble Arms
 Cameraclops
 Candle of Fate
 Caninetaur
@@ -1647,12 +1687,12 @@ Cards from the Sky
 Cards of Consonance
 Cards of the Red Stone
 Carnot the Eternal Machine
-"Carpiponica, Mystical Beast of the Forest"
+Carpiponica, Mystical Beast of the Forest
 Carrierroid
 Cartorhyn the Hidden Gem of the Seafront
 Cash Back
 Cassimolar
-"Castel, the Skyblaster Musketeer"
+Castel, the Skyblaster Musketeer
 Castle Gate
 Castle Link
 Castle of Dark Illusions
@@ -1672,21 +1712,21 @@ Catch of the Day
 Catche Eve L2
 Catnipped Kitty
 Catoblepas and the Witch of Fate
-"Catoblepas, Familiar of the Evil Eye"
+Catoblepas, Familiar of the Evil Eye
 Cattle Call
 Cattycorn
 Cauldron of the Old Man
 Cave Dragon
 Ceasefire
 Celestia
-"Celestia, Lightsworn Angel"
+Celestia, Lightsworn Angel
 Celestial Apparatus Tesea
 Celestial Double Star Shaman
 Celestial Knightlord Parshath
 Celestial Observatory
 Celestial Sword - Eatos
 Celestial Transformation
-"Celestial Wolf Lord, Blue Sirius"
+Celestial Wolf Lord, Blue Sirius
 Cell Explosion Virus
 Celtic Guard of Noble Arms
 Celtic Guardian
@@ -1710,7 +1750,8 @@ Ceremonial Bell
 Ceremonial Token
 Cerulean Sacred Phoenix of Nephthys
 Cerulean Skyfire
-"Ceruli, Guru of Dark World"
+Ceruli, Guru of Dark World
+Cerzebuth, Laimargia of the Ebon Irons
 Cestus of Dagla
 Chachaka Archer
 Chain Burst
@@ -1732,6 +1773,7 @@ Chain Thrasher
 Chain Whirlwind
 Chainsaw Insect
 Chakra
+Chakravartin Sphinx
 Chamber Dragonmaid
 Chamberlain of the Six Samurai
 Champion's Vigilance
@@ -1741,7 +1783,7 @@ Change Slime
 Changer Synchron
 Changing Destiny
 Changshi the Spiridao
-"Chaofeng, Phantom of the Yang Zing"
+Chaofeng, Phantom of the Yang Zing
 Chaos Allure Queen
 Chaos Ancient Gear Giant
 Chaos Angel
@@ -1754,7 +1796,7 @@ Chaos Core
 Chaos Daedalus
 Chaos Dragon Levianeer
 Chaos Emperor Dragon - Envoy of the End
-"Chaos Emperor, the Dragon of Armageddon"
+Chaos Emperor, the Dragon of Armageddon
 Chaos End
 Chaos Form
 Chaos Goddess
@@ -1767,7 +1809,7 @@ Chaos Mirage Dragon
 Chaos Necromancer
 Chaos Nephthys
 Chaos Phantasm
-"Chaos Ruler, the Chaotic Magical Dragon"
+Chaos Ruler, the Chaotic Magical Dragon
 Chaos Scepter Blast
 Chaos Seed
 Chaos Sorcerer
@@ -1779,6 +1821,7 @@ Chaos Witch
 Chaos Zone
 Chaos-End Master
 Chaosrider Gustaph
+Chaotic Elements
 Charcoal Inpachi
 Charge Into a Dark World
 Charge of the Light Brigade
@@ -1788,23 +1831,25 @@ Charioteer of Prophecy
 Charm of Shabti
 Charming Resort Staff
 Charubin the Fire Knight
+Chasma, Dragon Ruler of Auroras
 Checkmate
 Checksum Dragon
 Cheepcheepcheep
+Chef de Nouvelles
 Chef's Special Recipe
 Chemicritter Carbo Crab
 Chemicritter Hydron Hawk
 Chemicritter Oxy Ox
 Chemistry in Motion
 Cherry Inmato
-"Cherubini, Ebon Angel of the Burning Abyss"
+Cherubini, Ebon Angel of the Burning Abyss
 Chevalier de Fleur
 Chewbone
 Chewbone Jr. Token
 Chicken Game
 Child's Play
 Chillin' Outback
-"Chimaera, the Master of Beasts"
+Chimaera, the Master of Beasts
 Chimera Fusion
 Chimera the Flying Mythical Beast
 Chimera the Illusion Beast
@@ -1814,9 +1859,9 @@ Chimeratech Megafleet Dragon
 Chimeratech Overdragon
 Chimeratech Rampage Dragon
 Chiron the Mage
-"Chirubim�, Princess of Autumn Leaves"
+Chirubimé, Princess of Autumn Leaves
 Chivalry
-"Chiwen, Light of the Yang Zing"
+Chiwen, Light of the Yang Zing
 Chobham Armor Dragon
 Chocolate Magician Girl
 Choju of the Trillion Hands
@@ -1878,13 +1923,13 @@ Cipher Soldier
 Cipher Spectrum
 Cipher Twin Raptor
 Cipher Wing
-"Cir, Malebranche of the Burning Abyss"
+Cir, Malebranche of the Burning Abyss
 Circle of the Fairies
 Circle of the Fire Kings
 Citadel Whale
-"Clara & Rushka, the Ventriloduo"
+Clara & Rushka, the Ventriloduo
 Clashing Souls
-"Clavkiys, the Magikey Skyblaster"
+Clavkiys, the Magikey Skyblaster
 Claw Reacher
 Clay Charge
 Clear Cube
@@ -1912,7 +1957,7 @@ Clockwork Knight
 Clockwork Night
 Clone Token
 Cloning
-"Clorless, Chaos King of Dark World"
+Clorless, Chaos King of Dark World
 Closed Forest
 Cloudcastle
 Cloudian - Acid Cloud
@@ -1952,6 +1997,7 @@ Code A Ancient Ruins
 Code Exporter
 Code Generator
 Code Hack
+Code Igniter
 Code of Soul
 Code Radiator
 Code Talker
@@ -1980,7 +2026,7 @@ Comics Hero King Arthur
 Command Knight
 Command Performance
 Commander Covington
-"Commander Gottoms, Swordmaster"
+Commander Gottoms, Swordmaster
 Commander of Swords
 Commencement Dance
 Common Charity
@@ -1999,7 +2045,7 @@ Condolence Puppet
 Conductor of Nephthys
 Confiras de Nouvelles
 Confiscation
-"Confronting the ""C"""
+Confronting the "C"
 Confusion Chaff
 Conquistador of the Golden Land
 Conscription
@@ -2035,7 +2081,7 @@ Constellar Zubeneschamali
 Construction Train Signal Red
 Consumed By Darkness
 Contact
-"Contact ""C"""
+Contact "C"
 Contact Gate
 Contact Out
 Contact with Gusto
@@ -2053,6 +2099,8 @@ Converging Wills Dragon
 Converging Wishes
 Convert Contact
 Convulsion of Nature
+Cooky★Yummy Way
+Cooky☆Yummy
 Cooling Embers
 Coordius the Triphasic Dealmon
 Copy Knight
@@ -2071,7 +2119,7 @@ Corridor of Agony
 Corroding Shark
 Corrosive Scales
 Corrupted Keys
-"Corruption Cell ""A"""
+Corruption Cell "A"
 Cosmic Blazar Dragon
 Cosmic Compass
 Cosmic Cyclone
@@ -2112,7 +2160,7 @@ Crass Clown
 Crawling Dragon
 Crawling Dragon #2
 Crazy Fish
-"Crealtar, the Impcantation Originator"
+Crealtar, the Impcantation Originator
 Creation Resonator
 Creature Seizure
 Creature Swap
@@ -2123,6 +2171,7 @@ Crevice Into the Different Dimension
 Crimson Blader
 Crimson Dragon
 Crimson Fire
+Crimson Firewing Pegasus
 Crimson Gaia
 Crimson Knight Vampire Bram
 Crimson Ninja
@@ -2143,13 +2192,14 @@ Cross Porter
 Cross-Dimensional Duel
 Cross-Sheep
 Cross-Sword Beetle
+Crossmind Archfiend
 Crossout Designator
 Crossrose Dragon
 Crow Goblin
 Crow Tengu
-"Crowley, the First Propheseer"
-"Crowley, the Gifted of Magistus"
-"Crowley, the Magistus of Grimoires"
+Crowley, the First Propheseer
+Crowley, the Gifted Magistus
+Crowley, the Magistus of Grimoires
 Crowned by the World Chalice
 Crusader of Endymion
 Crusadia Arboria
@@ -2208,7 +2258,7 @@ Crystolic Potential
 Crystron Ametrix
 Crystron Citree
 Crystron Cluster
-Crystron Eleskeletas
+Crystron Eleskeletus
 Crystron Entry
 Crystron Halqifibrax
 Crystron Impact
@@ -2221,11 +2271,11 @@ Crystron Quariongandrax
 Crystron Rion
 Crystron Rosenix
 Crystron Smiger
+Crystron Sulfador
 Crystron Sulfefnir
-Crystron Sulfudhole
 Crystron Thystvern
 Crystron Token
-Crystron Tristalos
+Crystron Tristaros
 Cu Chulainn the Awakened
 Cuben
 Cubic Ascension
@@ -2243,19 +2293,23 @@ Cupid Fore
 Cupid Pitch
 Cupid Serve
 Cupid Volley
+Cupsy★Yummy Way
+Cupsy☆Yummy
 Cure Mermaid
-"Curious, the Lightsworn Dominion"
+Curious, the Lightsworn Dominion
 Curse Necrofear
 Curse of Aging
 Curse of Anubis
 Curse of Aramatir
 Curse of Darkness
+Curse of Diabell
 Curse of Dragon
-"Curse of Dragon, the Cursed Dragon"
-"Curse of Dragon, the Magical Knight Dragon"
+Curse of Dragon, the Cursed Dragon
+Curse of Dragon, the Magical Knight Dragon
 Curse of Dragonfire
 Curse of Fiend
 Curse of Royal
+Curse of the Ancient Turtle
 Curse of the Circle
 Curse of the Masked Beast
 Curse of the Shadow Prison
@@ -2314,6 +2368,7 @@ Cyber Falcon
 Cyber Gymnast
 Cyber Harpie Lady
 Cyber Jar
+Cyber Jormungardr
 Cyber Kirin
 Cyber Larva
 Cyber Laser Dragon
@@ -2355,6 +2410,7 @@ Cyberdark Invasion
 Cyberdark Keel
 Cyberdark Realm
 Cyberdark Style (Skill Card)
+Cyberdark Wurm
 Cyberdarkness Dragon
 Cyberload Fusion
 Cybernetic Cyclopean
@@ -2434,6 +2490,7 @@ D.D. Esper Star Sparrow
 D.D. Guide
 D.D. Jet Iron
 D.D. Patrol Plane
+D.D. Post
 D.D. Scout Plane
 D.D. Seeker
 D.D. Sprite
@@ -2451,12 +2508,14 @@ D/D Ark
 D/D Berfomet
 D/D Cerberus
 D/D Count Surveyor
+D/D Defense Soldier
 D/D Dog
 D/D Evil
 D/D Extra Surveyor
 D/D Ghost
 D/D Gryphon
 D/D Lamia
+D/D Lance Soldier
 D/D Lilith
 D/D Necro Slime
 D/D Nighthowl
@@ -2487,6 +2546,7 @@ D/D/D Dragonbane King Beowulf
 D/D/D Duo-Dawn King Kali Yuga
 D/D/D Flame High King Genghis
 D/D/D Flame King Genghis
+D/D/D Founder King Clovis
 D/D/D Gust High King Alexander
 D/D/D Gust King Alexander
 D/D/D Headhunt
@@ -2495,6 +2555,7 @@ D/D/D Marksman King Tell
 D/D/D Oblivion King Abyss Ragnarok
 D/D/D Oracle King d'Arc
 D/D/D Rebel King Leonidas
+D/D/D Sky King Zeus Ragnarok
 D/D/D Stone King Darius
 D/D/D Super Doom King Bright Armageddon
 D/D/D Super Doom King Dark Armageddon
@@ -2505,6 +2566,9 @@ D/D/D Vice King Requiem
 D/D/D Wave High King Caesar
 D/D/D Wave King Caesar
 D/D/D Wave Oblivion King Caesar Ragnarok
+D/D/D Wisdom King Solomon
+D/D/D Zero Demise King Zero Machinex
+D/D/D/D Great Dimension King Arc Crisis
 D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox
 D2 Shield
 Dai Dance
@@ -2518,7 +2582,7 @@ Daigusto Gulldos
 Daigusto Laplampilica
 Daigusto Phoenix
 Daigusto Sphreez
-"Dakki, the Graceful Mayakashi"
+Dakki, the Graceful Mayakashi
 Damage = Reptile
 Damage Condenser
 Damage Diet
@@ -2551,16 +2615,17 @@ Danger!? Jackalope?
 Danger!? Tsuchinoko?
 Dangerous Frightfur Nightmary
 Dangerous Machine Type-6
+Dangers of the Divine
 Danipon
 Danmari @Ignister
-"Dante, Pilgrim of the Burning Abyss"
-"Dante, Traveler of the Burning Abyss"
+Dante, Pilgrim of the Burning Abyss
+Dante, Traveler of the Burning Abyss
 Dark Advance
 Dark Alligator
 Dark Angel
 Dark Anthelion Dragon
 Dark Armed Dragon
-"Dark Armed, the Dragon of Annihilation"
+Dark Armed, the Dragon of Annihilation
 Dark Artist
 Dark Assailant
 Dark Balter the Terrible
@@ -2583,12 +2648,14 @@ Dark Coffin
 Dark Contact
 Dark Contract with Errors
 Dark Contract with Patent License
+Dark Contract with the Different Dimension
 Dark Contract with the Entities
 Dark Contract with the Eternal Darkness
 Dark Contract with the Gate
 Dark Contract with the Swamp King
 Dark Contract with the Witch
 Dark Contract with the Yamimakai
+Dark Contract with the Zero King
 Dark Core
 Dark Corridor
 Dark Creation
@@ -2615,6 +2682,7 @@ Dark Eye Nightmare
 Dark Factory of Mass Production
 Dark Factory of More Production
 Dark Flare Knight
+Dark Flare Swordsman
 Dark Flattop
 Dark Fusion
 Dark Garnex the Cubic Beast
@@ -2636,6 +2704,7 @@ Dark King of the Abyss
 Dark Lucius LV4
 Dark Lucius LV6
 Dark Lucius LV8
+Dark Magic Amulet
 Dark Magic Attack
 Dark Magic Curtain
 Dark Magic Expanded
@@ -2647,8 +2716,10 @@ Dark Magical Circle
 Dark Magician
 Dark Magician Girl
 Dark Magician Girl the Dragon Knight
+Dark Magician Girl the Magician's Apprentice
 Dark Magician Knight
 Dark Magician of Chaos
+Dark Magician of Destruction
 Dark Magician the Dragon Knight
 Dark Magician the Knight of Dragon Magic
 Dark Magician the Magician of Black Magic
@@ -2658,6 +2729,7 @@ Dark Mimic LV1
 Dark Mimic LV3
 Dark Mirror Force
 Dark Necrofear
+Dark Necromancer
 Dark Nephthys
 Dark Paladin
 Dark Plant
@@ -2682,7 +2754,6 @@ Dark Scorpion - Gorg the Strong
 Dark Scorpion - Meanae the Thorn
 Dark Scorpion Burglars
 Dark Scorpion Combination
-Dark Sea Serpent - Dryagle
 Dark Shade
 Dark Simorgh
 Dark Smog
@@ -2719,7 +2790,7 @@ Dark-Eyes Illusionist
 Dark-Piercing Light
 Darkbishop Archfiend
 Darkblaze Dragon
-"Darkest Diabolos, Lord of the Lair"
+Darkest Diabolos, Lord of the Lair
 Darkfall
 Darkfire Dragon
 Darkfire Soldier #1
@@ -2748,13 +2819,14 @@ Darklord Uprising
 Darklord Zerato
 Darkness Approaches
 Darkness Destroyer
-"Darkness Metal, the Dragon of Dark Steel"
+Darkness Metal, the Dragon of Dark Steel
 Darkness Neosphere
 Darknight Parshath
 Darksea Float
 Darksea Rescue
 Darkstorm Dragon
 Darktellarknight Batlamyus
+Darkuriboh
 Darkworld Shackles
 Darkworld Thorns
 Darton the Mechanical Monstrosity
@@ -2763,6 +2835,7 @@ Dash Warrior
 Data Acorn Token
 Data Token
 Datacorn
+Dawn Angel Kambi
 Dawn Knight
 Dawn of the Herald
 Dawnbreak Gardna
@@ -2784,6 +2857,7 @@ Decode Destruction
 Decode Talker
 Decode Talker Extended
 Decode Talker Heatsoul
+Decoy
 Decoy Dragon
 Decoyroid
 Dedication through Light and Darkness
@@ -2807,9 +2881,10 @@ Defect Compiler
 Defender of Nephthys
 Defender of the Ice Barrier
 Defender of the Labyrinth
-"Defender, the Magical Knight"
+Defender, the Magical Knight
 Defenders Intersect
 Defense Draw
+Defense of the Temple
 Defense Zone
 Defensive Tactics
 Defrag Dragon
@@ -2823,16 +2898,16 @@ Delinquent Duo
 Delta Attacker
 Delta Crow - Anti Reverse
 Delta Flyer
-Delta of Temptation
+Delta of Invitation
 Delta The Magnet Warrior
 Delta Tri
 Demigod of the Tistina
 Demise of the Land
-"Demise, Agent of Armageddon"
-"Demise, King of Armageddon"
-"Demise, Supreme King of Armageddon"
+Demise, Agent of Armageddon
+Demise, King of Armageddon
+Demise, Supreme King of Armageddon
 Demotion
-"Denglong, First of the Yang Zing"
+Denglong, First of the Yang Zing
 Denial Deity Dotan
 Denko Sekka
 Depresspard
@@ -2871,7 +2946,7 @@ Desmanian Devil
 Despair from the Dark
 Desperado Barrel Dragon
 Desperate Tag
-"Despia, Theater of the Branded"
+Despia, Theater of the Branded
 Despian Comedy
 Despian Luluwalilith
 Despian Proskenion
@@ -2934,24 +3009,26 @@ Detonate
 Detonate Deleter
 Detonating Kuriboh
 Detonation Code
-"Detonator Circle ""A"""
+Detonator Circle "A"
 Deus Token
 Deus X-Krawler
 Devotee of Nephthys
 Devouring Sarcoughagus
 Dewdark of the Ice Barrier
-"Dewloren, Tiger King of the Ice Barrier"
+Dewloren, Tiger King of the Ice Barrier
 Dhampir Vampire Sheridan
 Dharc the Dark Charmer
-"Dharc the Dark Charmer, Gloomy"
+Dharc the Dark Charmer, Gloomy
 Dharma Cannon
 Dharma-Eye Magician
-"Diabell, Queen of the White Forest"
+Diabell, Queen of the White Forest
 Diabellstar the Black Witch
+Diabellstar Vengeance
 Diabellze the Original Sinkeeper
+Diabellze the White Witch
 Diabolantis the Menacing Mantis
 Diabolica the Draconique General
-"Diabolos, King of the Abyss"
+Diabolos, King of the Abyss
 Diabound Kernel
 Diamond Core of Koa'ki Meiru
 Diamond Dire Wolf
@@ -2993,7 +3070,7 @@ Digital Bug Rhinosebus
 Digital Bug Scaradiator
 Digital Bug Websolder
 Digitron
-"Digvorzhak, King of Heavy Industry"
+Digvorzhak, King of Heavy Industry
 Dillingerous Dragon
 Dimension Conjurer
 Dimension Dice
@@ -3021,12 +3098,12 @@ Dimensional Prison
 Dimensionhole
 Dimer Synthesis
 Dimonno Vaalmonica
-"Dingirsu, the Orcust of the Evening Star"
+Dingirsu, the Orcust of the Evening Star
 Dino Destruction
 Dino-Sewing
 Dinomic Powerload
-"Dinomight Knight, the True Dracofighter"
-"Dinomight Powerload, the Dracoslayer"
+Dinomight Knight, the True Dracofighter
+Dinomight Powerload, the Dracoslayer
 Dinomist Ankylos
 Dinomist Brachion
 Dinomist Ceratops
@@ -3053,7 +3130,7 @@ Dinomorphia Sonic
 Dinomorphia Stealthbergia
 Dinomorphia Therizia
 Dinosaur Kingdom
-"Dinoster Power, the Mighty Dracoslayer"
+Dinoster Power, the Mighty Dracoslayer
 Dinovatus Docus
 Dinowrestler Capaptera
 Dinowrestler Capoeiraptor
@@ -3071,6 +3148,7 @@ Dinowrestler Rambrachio
 Dinowrestler Systegosaur
 Dinowrestler Terra Parkourio
 Dinowrestler Valeonyx
+Dipity
 Diplexer Chimera
 Dipsea Fiend
 Dirge of the Lost Dragon
@@ -3078,6 +3156,7 @@ Disablaster the Negation Fortress
 Disappear
 Disarm
 Disarmament
+Disaster, Dragon Ruler of All Apocalypses
 Disc Fighter
 Disciple of Nephthys
 Disciple of the Forbidden Spell
@@ -3102,10 +3181,13 @@ Divine Dragon Ragnarok
 Divine Dragon Titanomakhia
 Divine Dragon Token
 Divine Evolution
+Divine Golden Shadow Dragon Dragluxion
 Divine Grace - Northwemko
 Divine Knight Ishzark
 Divine Punishment
 Divine Relic Mjollnir
+Divine Scorpion Beast of Serket
+Divine Serpent Apophis
 Divine Serpent Geh
 Divine Sword - Phoenix Blade
 Divine Temple of the Snake-Eye
@@ -3136,30 +3218,34 @@ Dododo Driver
 Dododo Swordsman
 Dododo Warrior
 Dododo Witch
+Dodododo Warrior
 Dodododraw
 Dodododwarf Gogogoglove
 DOG Fighter Token
 Doggy Diver
-"Dogmatika Adin, the Enlightened"
+Dogmatika Adin, the Enlightened
 Dogmatika Alba Zoa
 Dogmatika Ashiyan
-"Dogmatika Ecclesia, the Virtuous"
+Dogmatika Chaplain
+Dogmatika Ecclesia, the Virtuous
 Dogmatika Encounter
-"Dogmatika Fleurdelis, the Knighted"
+Dogmatika Fleurdelis, the Knighted
+Dogmatika Fleurdelis, the Thunderous
 Dogmatika Genesis
 Dogmatika Maximus
 Dogmatika Nation
 Dogmatika Nexus
 Dogmatika Punishment
-"Dogmatika Theo, the Iron Punch"
+Dogmatika Theo, the Iron Punch
 Dogmatikacism
 Dogmatikalamity
 Dogmatikalamity Alba System
 Dogmatikamacabre
 Dogmatikamatrix
 Dogmatikaturgy
-"Dogoran, the Mad Flame Kaiju"
+Dogoran, the Mad Flame Kaiju
 Dogu
+Dogurad, the Stonetrooper
 Doitsu
 Doki Doki
 Dokuroizo the Grim Reaper
@@ -3168,18 +3254,19 @@ Dokuroyaiba
 Doll Happiness
 Doll House
 Doll Monster Bear-Bear
-Doll Monster Miss M�dchen
+Doll Monster Miss Mädchen
 Doma The Angel of Silence
 Domain of the True Monarchs
 Domino Effect
 Dominus Impulse
 Dominus Purge
+Dominus Spiral
 Don Thousand's Throne
 Don Turtle
 Don Zaloog
-"Don't Slip, the Dogs of War"
-"Donner, Dagger Fur Hire"
-"Donpa, Marksman Fur Hire"
+Don't Slip, the Dogs of War
+Donner, Dagger Fur Hire
+Donpa, Marksman Fur Hire
 Donyoribo @Ignister
 Doodle Beast - Stego
 Doodle Beast - Tyranno
@@ -3189,6 +3276,14 @@ Doom Dozer
 Doom Kraken
 Doom Shaman
 Doom Virus Dragon
+Doom-Z Break Diactorus
+Doom-Z Command "D.O.O.M.D.U.R.G."
+Doom-Z Destruction
+Doom-Z End - Drastrius
+Doom-Z Five - Amalthe
+Doom-Z Raider
+Doom-Z Seven - Elara
+Doom-Z Zero - Drastia
 Doombearer Psychopompos
 Doomcaliber Knight
 Doomdog Octhros
@@ -3249,7 +3344,7 @@ Double-Edged Sword
 Double-Edged Sword Technique
 Double-Headed Dino King Rex
 Doublebyte Dragon
-"Dovelgus, Generaider Boss of Iron"
+Dovelgus, Generaider Boss of Iron
 Downbeat
 Downerd Magician
 Dowsing Fusion
@@ -3259,18 +3354,29 @@ Dr. Frankenderp
 Draco Berserker of the Tenyi
 Draco Face-Off
 Draco Masters of the Tenyi
+Draco Stand-Off
 Draco-Utopian Aura
-"Dracoback, the Rideable Dragon"
+Dracoback, the Rideable Dragon
 Dracocension
 Draconnection
 Draconnet
 Dracoon Lamp
+Dracotail Arthalion
+Dracotail Faimena
+Dracotail Flame
+Dracotail Gulamel
+Dracotail Horn
+Dracotail Lukias
+Dracotail Mululu
+Dracotail Pan
+Dracotail Phrixl
+Dracotail Sting
+Dracotail Urgula
 Dragard
 Dragged Down into the Grave
-"Draghig, Malebranche of the Burning Abyss"
-Dragluxion
+Draghig, Malebranche of the Burning Abyss
 Dragocytos Corrupted Nethersoul Dragon
-"Dragodies, the Empowered Warrior"
+Dragodies, the Empowered Warrior
 Dragolithia Kunzite
 Dragon Buster Destruction Sword
 Dragon Caller
@@ -3286,6 +3392,7 @@ Dragon Laser
 Dragon Lord Token
 Dragon Manipulator
 Dragon Master Knight
+Dragon Master Lords
 Dragon Master Magia
 Dragon Mastery
 Dragon Nails
@@ -3305,6 +3412,7 @@ Dragon's Bind
 Dragon's Fighting Spirit
 Dragon's Gunfire
 Dragon's Light and Darkness
+Dragon's Mind
 Dragon's Mirror
 Dragon's Rage
 Dragon's Rebirth
@@ -3335,7 +3443,7 @@ Dragonmaid Tinkhec
 Dragonmaid Welcome
 Dragonoid Generator
 Dragonoid Token
-"Dragonox, the Empowered Warrior"
+Dragonox, the Empowered Warrior
 Dragonpit Magician
 Dragonpulse Magician
 Dragonroid
@@ -3389,6 +3497,7 @@ Drastic Drop Off
 Draw Discharge
 Draw Muscle
 Draw of Fate
+Drawbread
 Dread Dragon
 Dreadscythe Harvester
 Dream Cicada
@@ -3404,11 +3513,13 @@ Dream Mirror Recap
 Dream Shark
 Dream Tower of Princess Nemleria
 Dreaming Nemleria
-"Dreaming Reality of Nemleria, Realized"
+Dreaming Reality of Nemleria, Realized
 Dreamland
 Dreamsprite
-"Dreiath III, the True Dracocavalry General"
+Dreiath III, the True Dracocavalry General
+Driangle, Dragon of the Dark Deep
 Dried Winds
+Drill Armed Dragon
 Drill Barnacle
 Drill Bug
 Drill Driver Vespenato
@@ -3452,25 +3563,25 @@ Dual Avatar Fists - Yuhi
 Dual Avatar Invitation
 Dual Avatar Return
 Duality
-"Duamutef, Blessing of Horus"
+Duamutef, Blessing of Horus
 Duck Dummy
 Duck Fighter
 DUCKER Mobile Cannon
 Duel Academy
-"Duel Link Dragon, the Duel Dragon"
+Duel Link Dragon, the Duel Dragon
 Duel Tower
 Duelist Alliance
 Duelist Genesis
 Duelittle Chimera
 Dueltaining
-"Duke Shade, the Sinister Shadow Lord"
+Duke Shade, the Sinister Shadow Lord
 Dummy Golem
 Dunames Dark Witch
 Dungeon Worm
-"Dunnell, the Noble Arms of Light"
+Dunnell, the Noble Arms of Light
 Duoterion
 Dupe Frog
-"Duralume, Vaalmonican Heathen Hallow"
+Duralume, Vaalmonican Heathen Hallow
 Dust Barrier
 Dust Knight
 Dust Storm of Gusto
@@ -3486,7 +3597,7 @@ Dwimmered Path
 Dyna Base
 Dyna Mondo
 Dyna Tank
-"Dyna, Hero Fur Hire"
+Dyna, Hero Fur Hire
 Dynatherium
 Dystopia the Despondent
 DZW - Chimera Clad
@@ -3495,7 +3606,7 @@ E Stranger Big Bang
 E.M.R.
 Eagle Eye
 Eagle Shark
-"Eanoc, Sentry of the Ghoti"
+Eanoc, Sentry of the Ghoti
 Earth Armor Ninja
 Earth Chant
 Earth Effigy
@@ -3541,8 +3652,10 @@ Ebon Sun
 Eccentric Boy
 Echelon of the Fire Kings
 Echo Oscillation
+Eclipse Twins
 Eclipse Wyvern
-"Eco, Mystical Spirit of the Forest"
+Eclipse, Dragon Ruler of Catastrophes
+Eco, Mystical Spirit of the Forest
 Ecole de Zone
 Ectoplasmer
 Ectoplasmic Fortification!
@@ -3561,8 +3674,9 @@ Effect Veiler
 Ego Boost
 Egotistical Ape
 Egyptian God Slime
-"Ehren, Lightsworn Monk"
+Ehren, Lightsworn Monk
 Ehther the Heavenly Monarch
+Eidos the Underworld Monarch
 Eidos the Underworld Squire
 Einherjar Token
 Eisbahn
@@ -3577,7 +3691,7 @@ El Shaddoll Grysta
 El Shaddoll Shekhinaga
 El Shaddoll Wendigo
 El Shaddoll Winda
-"Elborz, the Sacred Lands of Simorgh"
+Elborz, the Sacred Lands of Simorgh
 Eldeen
 Elder Entity N'tss
 Elder Entity Norden
@@ -3586,6 +3700,7 @@ Eldlich the Golden Lord
 Eldlich the Mad Golden Lord
 Eldlixir of Black Awakening
 Eldlixir of Scarlet Sanguine
+Eldlixir of the Glorious Golden Land
 Eldlixir of White Destiny
 Electric Jellyfish
 Electric Lizard
@@ -3678,6 +3793,7 @@ Elemental HERO Tempest
 Elemental HERO Terra Firma
 Elemental HERO The Shining
 Elemental HERO Thunder Giant
+Elemental HERO Thunder Giant - Voltic Thunder
 Elemental HERO Voltic
 Elemental HERO Wild Wingman
 Elemental HERO Wildedge
@@ -3686,7 +3802,7 @@ Elemental HERO Woodsman
 Elemental Mistress Doriado
 Elemental Recharge
 Elemental Training
-"Elements of Thunder, Water, and Wind"
+Elements of Thunder, Water, and Wind
 Elementsaber Aina
 Elementsaber Lapauila
 Elementsaber Lapauila Mana
@@ -3701,6 +3817,7 @@ Elf's Light
 Eliminating the League
 Elphase
 Elzette of the White Forest
+Elzette, Azamina of the White Forest
 EM:P Meowmine
 Embers of the Ashened
 Emblem of Dragon Destroyer
@@ -3719,7 +3836,7 @@ EMERGENCY!
 Emergeroid Call
 Emerging Emergency Rescute Rescue
 Emes the Infinity
-"Emilia, Dance Priestess of the Nekroz"
+Emilia, Dance Priestess of the Nekroz
 Emissary from Pandemonium
 Emissary from the House of Wax
 Emissary of Darkness Token
@@ -3749,10 +3866,10 @@ End of the World
 Endless Decay
 Endless Engine Argyro System
 Endless Traps
-"Endymion, the Crescent of Magistus"
-"Endymion, the Magistus of Mastery"
-"Endymion, the Master Magician"
-"Endymion, the Mighty Master of Magic"
+Endymion, the Crescent of Magistus
+Endymion, the Magistus of Mastery
+Endymion, the Master Magician
+Endymion, the Mighty Master of Magic
 Endymion's Lab
 Enemy Controller
 Energizing Elements
@@ -3763,16 +3880,27 @@ Enervating Mist
 Engine Token
 Engraver of the Mark
 Enigmaster Packbit
-"Enishi, Shien's Chancellor"
+Enishi, Shien's Chancellor
 Enlightenment
 Enlightenment Dragon
 Enlightenment Paladin
-"Enlilgirsu, the Orcust Mekk-Knight"
+Enlilgirsu, the Orcust Mekk-Knight
 Enma's Judgment
+Enneacraft - Aizaβ.LEON
+Enneacraft - Archaη.TAIL
+Enneacraft - Astaγ.PIXIEA
+Enneacraft - Atoriϝ.MAR
+Enneacraft - Rebirth
+Enneacraft - Release
+Enneacraft α' "orgIA"
+Enneacraft β' "alazoneIA"
+Enneacraft ϝ' "tromarIA"
+Enneacraft θ' "oknirIA"
+Enneapolis, the Sinquisition City
 Enraged Battle Ox
 Enraged Muka Muka
 Envoy of Chaos
-"Epigonen, the Impersonation Invader"
+Epigonen, the Impersonation Invader
 Epsilon The Magnet Warrior
 Epurrely Beauty
 Epurrely Happiness
@@ -3784,7 +3912,7 @@ Eradicator Epidemic Virus
 Erebus the Underworld Monarch
 Eria the Water Channeler
 Eria the Water Charmer
-"Eria the Water Charmer, Gentle"
+Eria the Water Charmer, Gentle
 Erica the Rikka Fairy
 Escalation of the Monarchs
 Escape from the Dark Dimension
@@ -3801,6 +3929,7 @@ Eternal Favorite
 Eternal Galaxy
 Eternal Rest
 Eternal Soul
+Eternal Sunshine
 Etoile Cyber
 Etude of the Branded
 Euler's Circuit
@@ -3833,7 +3962,7 @@ Evil Eye Retribution
 Evil Eyes Unleashed
 Evil HERO Adusted Gold
 Evil HERO Dark Gaia
-Evil HERO Dark Knight
+Evil HERO Darkest Knight
 Evil HERO Dead-End Prison
 Evil HERO Infernal Gainer
 Evil HERO Infernal Prodigy
@@ -3848,17 +3977,19 @@ Evil HERO Malicious Fiend
 Evil HERO Neos Lord
 Evil HERO Sinister Necrom
 Evil HERO Toxic Bubble
+Evil HERO Vicious Claws
 Evil HERO Wild Cyclone
 Evil Mind
 Evil Thorn
 Evil Token
-Evil?Twin Challenge
-Evil?Twin GG EZ
-Evil?Twin Ki-sikil
-Evil?Twin Lil-la
-Evil?Twin Present
-Evil?Twin's Trouble Sunny
-Evil?Twins Ki-sikil & Lil-la
+Evil★Twin Challenge
+Evil★Twin GG EZ
+Evil★Twin Ki-sikil
+Evil★Twin Ki-sikil Deal
+Evil★Twin Lil-la
+Evil★Twin Present
+Evil★Twin's Trouble Sunny
+Evil★Twins Ki-sikil & Lil-la
 Evilswarm Azzathoth
 Evilswarm Bahamut
 Evilswarm Castor
@@ -3914,7 +4045,7 @@ Evolzar Dolkka
 Evolzar Laggia
 Evolzar Lars
 Evolzar Solda
-"Exa, Enforcer of the Nekroz"
+Exa, Enforcer of the Nekroz
 Exarion Universe
 Exceed the Pendulum
 Exchange
@@ -3929,7 +4060,7 @@ Exile of the Wicked
 Exiled Force
 Exodia Necross
 Exodia the Forbidden One
-"Exodia, the Legendary Defender"
+Exodia, the Legendary Defender
 Exodius the Ultimate Forbidden Lord
 Exosister Arment
 Exosister Asophiel
@@ -3971,7 +4102,7 @@ Extra Veiler
 Extra-Foolish Burial
 Extraceratops
 Exxod Fires of Rage
-"Exxod, Master of The Guard"
+Exxod, Master of The Guard
 Eye of Illusion
 Eye of the Void
 Eyearmor
@@ -4051,6 +4182,7 @@ Fake Hero
 Fake Trap
 Falchion Beta
 Fallen Angel of Roses
+Fallen Angel of the Golden Land
 Fallen of Albaz
 Fallen of Argyros
 Fallen of the Tistina
@@ -4065,11 +4197,11 @@ Familiar-Possessed - Eria
 Familiar-Possessed - Hiita
 Familiar-Possessed - Lyna
 Familiar-Possessed - Wynn
-"Fandora, the Flying Furtress"
+Fandora, the Flying Furtress
 Fantastic Striborg
 Fantastical Dragon Phantazmay
 Farewelcome Labrynth
-"Farfa, Malebranche of the Burning Abyss"
+Farfa, Malebranche of the Burning Abyss
 Farm Delivery
 FaSolfachord Fancia
 Fatal Abacus
@@ -4084,9 +4216,9 @@ Feather Shot
 Feather Wind
 Featherizer
 Feedback Warrior
-"Feedran, the Winds of Mischief"
+Feedran, the Winds of Mischief
 Felgrand Dragon
-"Felis, Lightsworn Archer"
+Felis, Lightsworn Archer
 Fencing Fire Ferret
 Fenghuang
 Fengli the Soldrapom
@@ -4120,12 +4252,12 @@ Fiendish Portrait
 Fiendish Rhino Warrior
 Fiendsmith Engraver
 Fiendsmith in Paradise
+Fiendsmith Kyrie
 Fiendsmith's Agnumday
 Fiendsmith's Desirae
-Fiendsmith's Kyrie
 Fiendsmith's Lacrima
 Fiendsmith's Requiem
-Fiendsmith's Rex Tremendae
+Fiendsmith's Rextremende
 Fiendsmith's Sanct
 Fiendsmith's Sequence
 Fiendsmith's Tract
@@ -4137,7 +4269,9 @@ Fighting Flame Dragon
 Fighting Flame Sword
 Fighting Flame Swordsman
 Fighting Spirit
-"Filo, Messenger Fur Hire"
+Filia Diabell
+Filia Regis
+Filo, Messenger Fur Hire
 Final Attack Orders
 Final Bringer of the End Times
 Final Countdown
@@ -4153,7 +4287,7 @@ Final Light
 Final Psychic Ogre
 Final Ritual of the Ancients
 Fine
-"Finis Terrae, Tower of the Necroworld"
+Finis Terrae, Tower of the Necroworld
 Finite Cards
 Fire Ant Ascator
 Fire Cracker
@@ -4211,12 +4345,15 @@ Firewall Dragon Singularity
 Firewall eXceed Dragon
 Firewall Guardian
 Firewall Phantom
+Firewall Saber Dragon
 Firewing Pegasus
 Fireworks Celebration
 Fireyarou
+First of the Dragonlords
 First of the Dragons
 First Step Towards Infestation
 First-Aid Squad
+Fish and Bids
 Fish and Kicks
 Fish and Swaps
 Fish Depth Charge
@@ -4271,6 +4408,7 @@ Flash Assailant
 Flash Charge Dragon
 Flash Fusion
 Flash Knight
+Flash of Heraldry
 Flash of the Forbidden Spell
 Flashbang
 Flavian - Colosseum of the Gladiator Beasts
@@ -4288,7 +4426,7 @@ Flip Flop Frog
 Flip Frozen
 Flipping Feline
 Flock Together
-"Flogos, the Ogdoadic Boundless"
+Flogos, the Ogdoadic Boundless
 Floodgate Trap Hole
 Floowandereeze & Eglen
 Floowandereeze & Empen
@@ -4341,13 +4479,13 @@ Fluffal Rabbit
 Fluffal Sheep
 Fluffal Wings
 Flyfang
-"Flying ""C"""
+Flying "C"
 Flying Elephant
 Flying Fish
 Flying Fortress SKY FIRE
 Flying Kamakiri #1
 Flying Kamakiri #2
-"Flying Mary, the Wandering Ghost Ship"
+Flying Mary, the Wandering Ghost Ship
 Flying Pegasus Railroad Stampede
 Flying Penguin
 Flying Red Carp
@@ -4357,7 +4495,7 @@ Fog Control
 Fog King
 Fog Warning
 Foie Glasya de Nouvelles
-"Folgo, Justice Fur Hire"
+Folgo, Justice Fur Hire
 Follow Wind
 Follow Wing
 Fool of Prophecy
@@ -4440,7 +4578,7 @@ Freezing Chains of the Ice Barrier
 Freki the Runick Fangs
 Frenzied Panda
 Frequency Magician
-"Freya, Spirit of Victory"
+Freya, Spirit of Victory
 Frightfur Bear
 Frightfur Chimera
 Frightfur Cruel Whale
@@ -4461,7 +4599,7 @@ Frightfur Sheep
 Frightfur Tiger
 Frightfur Wolf
 Friller Rabca
-"Frodi, Generaider Boss of Swords"
+Frodi, Generaider Boss of Swords
 Froggy Forcefield
 Frontier Wiseman
 Frontline Base
@@ -4491,6 +4629,7 @@ Full-Armored Xyz
 Full-Force Strike
 Fullmetalfoes Alkahest
 Fullmetalfoes Fusion
+Fullspeed Warrior
 Fungi of the Musk
 Fury of Fire
 Fury of Kairyu-Shin
@@ -4498,7 +4637,7 @@ Fury of Thunder
 Fuse Line
 Fushi No Tori
 Fushioh Richie
-"Fusilier Dragon, the Dual-Mode Beast"
+Fusilier Dragon, the Dual-Mode Beast
 Fusion Armament
 Fusion Conscription
 Fusion Deployment
@@ -4512,6 +4651,7 @@ Fusion of Fire
 Fusion Parasite
 Fusion Party!
 Fusion Recovery
+Fusion Recruitment
 Fusion Recycling Plant
 Fusion Reserve
 Fusion Sage
@@ -4535,9 +4675,9 @@ G Golem Rock Hammer
 G Golem Stubborn Menhir
 G.B. Hunter
 Gaap the Divine Soldier
-"Gabrion, the Timelord"
+Gabrion, the Timelord
 Gachi Gachi Gantetsu
-"Gadarla, the Mystery Dust Kaiju"
+Gadarla, the Mystery Dust Kaiju
 Gadget Arms
 Gadget Box
 Gadget Driver
@@ -4550,6 +4690,7 @@ Gagaga Caesar
 Gagaga Child
 Gagaga Clerk
 Gagaga Cowboy
+Gagaga Ganbara Knight
 Gagaga Gardna
 Gagaga Girl
 Gagaga Head
@@ -4557,9 +4698,11 @@ Gagaga Magician
 Gagaga Mancer
 Gagaga Samurai
 Gagaga Sister
+Gagaga Utopic Tactics
 Gagagaback
 Gagagabolt
 Gagagadraw
+Gagagaga Girl
 Gagagaga Magician
 Gagagaguard
 Gagagarevenge
@@ -4572,28 +4715,29 @@ Gagagigo the Risen
 Gagaku-P.U.N.K. Crash Beat
 Gagaku-P.U.N.K. Wa Gon
 Gagaku-P.U.N.K. Wild Picking
-"Gaia Blaze, the Force of the Sun"
-"Gaia Dragon, the Thunder Charger"
-"Gaia Drake, the Universal Force"
-"Gaia Knight, the Force of Earth"
+Gaia Blaze, the Force of the Sun
+Gaia Dragon, the Thunder Charger
+Gaia Drake, the Universal Force
+Gaia Knight, the Force of Earth
 Gaia Plate the Earth Giant
 Gaia Power
-"Gaia Prominence, the Fierce Force"
-"Gaia Saber, the Lightning Shadow"
+Gaia Prominence, the Fierce Force
+Gaia Saber, the Lightning Shadow
 Gaia Soul the Combustible Collective
+Gaia Stream, the Graceful Force
 Gaia the Dragon Champion
 Gaia The Fierce Knight
 Gaia the Fierce Knight Origin
 Gaia the Magical Knight
 Gaia the Magical Knight of Dragons
-"Gaia, the Mid-Knight Sun"
-"Gaia, the Polar Knight"
+Gaia, the Mid-Knight Sun
+Gaia, the Polar Knight
 Gaiarmor Dragonshell
 Galactic Charity
 Galactic Spiral Dragon
 Galactikuriboh
-"Galatea-i, the Orcust Automaton"
-"Galatea, the Orcust Automaton"
+Galatea-I, the Orcust Automaton
+Galatea, the Orcust Automaton
 Galaxy Brave
 Galaxy Cleric
 Galaxy Cyclone
@@ -4634,7 +4778,7 @@ Gallis the Star Beast
 Galloping Gaia
 Gamble
 Gambler of Legend
-"Gameciel, the Sea Turtle Kaiju"
+Gameciel, the Sea Turtle Kaiju
 Gamma The Electromagnet Warrior
 Gamma the Magnet Warrior
 Gamushara
@@ -4649,20 +4793,21 @@ Garbage Lord
 Garbage Ogre
 Garden Rose Flora
 Garden Rose Maiden
-"Garlandolf, King of Destruction"
+Gargardo the Necroforger Fiend
+Garlandolf, King of Destruction
 Garma Sword
 Garma Sword Oath
 Garmr of the Nordic Beasts
 Garnecia Elefantis
 Garoozis
-"Garoth, Lightsworn Warrior"
+Garoth, Lightsworn Warrior
 Garuda the Wind Spirit
 Garum the Storm Vassal
-"Garunix Eternity, Hyang of the Fire Kings"
-"Garura, Wings of Resonant Life"
+Garunix Eternity, Hyang of the Fire Kings
+Garura, Wings of Resonant Life
 Garvas
 Gash the Dust Lord
-"Gashadokuro, the Skeletal Mayakashi"
+Gashadokuro, the Skeletal Mayakashi
 Gatchiri @Ignister
 Gate Blocker
 Gate Deeg
@@ -4808,14 +4953,14 @@ Genex Worker
 Genin
 Genomix Fighter
 Genro Ryu-Ge Hakva
-"Genta, Gateman of Dark World"
+Genta, Gateman of Dark World
 Gentlemander
 Geo Genex
 Geomancer of the Ice Barrier
 Geomathmech Final Sigma
 Geomathmech Magma
 Geonator Transverser
-"Georgius, Swordman of the Ice Barrier"
+Georgius, Swordman of the Ice Barrier
 Gergonne's End
 Geri the Runick Fangs
 Germ Infection
@@ -4826,12 +4971,12 @@ Getsu Fuhma
 Ghost Beef
 Ghost Belle & Haunted Mansion
 Ghost Bird of Bewitchment
-"Ghost Charon, the Underworld Boatman"
+Ghost Charon, the Underworld Boatman
 Ghost Fairy Elfobia
 Ghost Fusion
 Ghost Gardna
 Ghost Knight of Jackal
-"Ghost Lancer, the Underworld Spearman"
+Ghost Lancer, the Underworld Spearman
 Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga
 Ghost Meets Girl - A Mayakashi's Manuscript
 Ghost Meets Girl - A Shiranui's Story
@@ -4841,9 +4986,9 @@ Ghost Ogre & Snow Rabbit
 Ghost Reaper & Winter Cherries
 Ghost Ship
 Ghost Sister & Spooky Dogwood
-"Ghost Sleeper, the Underworld Princess"
+Ghost Sleeper, the Underworld Princess
 Ghost Token
-"Ghost Wyvern, the Underworld Dragon"
+Ghost Wyvern, the Underworld Dragon
 Ghostrick Alucard
 Ghostrick Angel of Mischief
 Ghostrick Break
@@ -4913,7 +5058,7 @@ Gift of The Mystical Elf
 Giga Gagagigo
 Giga-Tech Wolf
 Gigantes
-"Gigantic ""Champion"" Sargas"
+Gigantic "Champion" Sargas
 Gigantic Cephalotus
 Gigantic Spright
 Gigantic Thundercross
@@ -4953,7 +5098,7 @@ Gimmick Puppet Terror Baby
 Gimmick Puppet Twilight Joker
 Gingerbread House
 Girochin Kuwagata
-"Girsu, the Orcust Mekk-Knight"
+Girsu, the Orcust Mekk-Knight
 Gishki Abyss
 Gishki Aquamirror
 Gishki Ariel
@@ -4976,16 +5121,16 @@ Gishki Vanity
 Gishki Vision
 Gishki Zielgigas
 Give and Take
-"Gizmek Arakami, the Hailbringer Hog"
-"Gizmek Inaba, the Hopping Hare of Hakuto"
-"Gizmek Kaku, the Supreme Shining Sky Stag"
-"Gizmek Makami, the Ferocious Fanged Fortress"
-"Gizmek Naganaki, the Sunrise Signaler"
-"Gizmek Okami, the Dreaded Deluge Dragon"
-"Gizmek Orochi, the Serpentron Sky Slasher"
-"Gizmek Taniguku, the Immobile Intellect"
-"Gizmek Uka, the Festive Fox of Fecundity"
-"Gizmek Yata, the Gleaming Vanguard"
+Gizmek Arakami, the Hailbringer Hog
+Gizmek Inaba, the Hopping Hare of Hakuto
+Gizmek Kaku, the Supreme Shining Sky Stag
+Gizmek Makami, the Ferocious Fanged Fortress
+Gizmek Naganaki, the Sunrise Signaler
+Gizmek Okami, the Dreaded Deluge Dragon
+Gizmek Orochi, the Serpentron Sky Slasher
+Gizmek Taniguku, the Immobile Intellect
+Gizmek Uka, the Festive Fox of Fecundity
+Gizmek Yata, the Gleaming Vanguard
 Glacial Beast Blizzard Wolf
 Glacial Beast Iceberg Narwhal
 Glacial Beast Polar Penguin
@@ -5040,7 +5185,7 @@ Gladiator Rejection
 Gladiator Taming
 Gladiator's Return
 Glass Slippers
-"Gleipnir, the Fetters of Fenrir"
+Gleipnir, the Fetters of Fenrir
 Glife the Phantom Bird
 Glorious Illusion
 Glorious Numbers
@@ -5085,8 +5230,8 @@ Goblin's Crazy Beast
 Goblin's Secret Remedy
 Goblindbergh
 Goddess Bow
-Goddess of Duality
 Goddess of Sweet Revenge
+Goddess of the Two Sides
 Goddess of Whim
 Goddess Skuld's Oracle
 Goddess Urd's Verdict
@@ -5099,11 +5244,12 @@ Gogogo Aristera & Dexia
 Gogogo Ghost
 Gogogo Giant
 Gogogo Gigas
+Gogogo Goblindbergh
 Gogogo Golem
 Gogogo Golem - Golden Form
 Gogogo Goram
 Gogogo Talisman
-"Goka, the Pyre of Malice"
+Goka, the Pyre of Malice
 Gokibore
 Gokipole
 Gokipon
@@ -5126,7 +5272,7 @@ Gold Pride - Start Your Engines!
 Gold Pride - That Came Out of Nowhere!
 Gold Pride - The Crowd Goes Wild!
 Gold Sarcophagus
-"Goldd, Wu-Lord of Dark World"
+Goldd, Wu-Lord of Dark World
 Golden Allure Queen
 Golden Bamboo Sword
 Golden Castle of Stromberg
@@ -5139,7 +5285,7 @@ Golden Ladybug
 Golden Land Forever!
 Golden Rule
 Golden-Eyes Idol
-"Goldenhair, the Newest Plunder Patroll"
+Goldenhair, the Newest Plunder Patroll
 Goldilocks the Battle Landscaper
 Golem Dragon
 Golem Sentry
@@ -5152,8 +5298,10 @@ Good Goblin Housekeeping
 Googly-Eyes Drum Dragon
 Gora Turtle
 Gora Turtle of Illusion
+Gordian Slicer
 Gorgon Egg
-"Gorgon, Empress of the Evil Eyed"
+Gorgon of Zilofthonia
+Gorgon, Empress of the Evil Eyed
 Gorgon's Eye
 Gorgonic Cerberus
 Gorgonic Gargoyle
@@ -5167,18 +5315,22 @@ Gottoms' Second Call
 Gouki Bearhug
 Gouki Cage Match
 Gouki Destroy Ogre
+Gouki Dragon Ogre
 Gouki Face Turn
+Gouki Fighting Spirit
 Gouki Finishing Move
 Gouki Guts
 Gouki Headbatt
 Gouki Heel Ogre
 Gouki Iron Claw
 Gouki Jet Ogre
+Gouki Mashin Suprex
 Gouki Moonsault
 Gouki Octostretch
 Gouki Re-Match
 Gouki Ringtrainer
 Gouki Riscorpio
+Gouki Sheik Ogre
 Gouki Suprex
 Gouki Tagpartner
 Gouki The Blade Ogre
@@ -5187,6 +5339,7 @@ Gouki The Great Ogre
 Gouki The Master Ogre
 Gouki The Powerload Ogre
 Gouki The Solid Ogre
+Gouki The Tyrant Ogre
 Gouki Thunder Ogre
 Gouki Twistcobra
 Goyo Chaser
@@ -5203,11 +5356,12 @@ Graceful Revival
 Graceful Tear
 Gradius
 Gradius' Option
-"Graff, Malebranche of the Burning Abyss"
-"Gragonith, Lightsworn Dragon"
+Graff, Malebranche of the Burning Abyss
+Gragonith, Lightsworn Dragon
 Granadora
 Grand Convergence
 Grand Horn of Heaven
+Grand Knight of the Red Lotus
 Grand Spiritual Art - Ichirin
 Grand Tiki Elder
 Grandmaster of the Six Samurai
@@ -5220,8 +5374,8 @@ Granmarg the Mega Monarch
 Granmarg the Rock Monarch
 GranSolfachord Coolia
 GranSolfachord Musecia
-"Grapha, Dragon Lord of Dark World"
-"Grapha, Dragon Overlord of Dark World"
+Grapha, Dragon Lord of Dark World
+Grapha, Dragon Overlord of Dark World
 Grapple Blocker
 Grappler
 Grappler Angler
@@ -5291,7 +5445,6 @@ Graydle Split
 Great Angus
 Great Bill
 Great Dezard
-Great Knight of the Red Lotus
 Great Long Nose
 Great Maju Garzett
 Great Mammoth of Goldfine
@@ -5310,7 +5463,7 @@ Greed Grado
 Greed Jar
 Greed Quasar
 Greedy Venom Fusion Dragon
-"Green Baboon, Defender of the Forest"
+Green Baboon, Defender of the Forest
 Green Duston
 Green Gadget
 Green Ninja
@@ -5318,7 +5471,7 @@ Green Phantom King
 Green Turtle Summoner
 Greenkappa
 Gren Maju Da Eiza
-"Gren, Tactician of Dark World"
+Gren, Tactician of Dark World
 Grenosaurus
 Grenosaurus Giga-Cannon
 Grid Rod
@@ -5335,7 +5488,7 @@ Ground Attacker Bugroth
 Ground Collapse
 Ground Spider
 Ground Xeno
-"Groza, Tyrant of Thunder"
+Groza, Tyrant of Thunder
 Gruesome Goo
 Gruesome Grave Squirmer
 Gryphon Wing
@@ -5382,13 +5535,14 @@ Guardragon Shield
 Guerilla Kite
 Guiding Ariadne
 Guiding Light
-"Guiding Quem, the Virtuous"
+Guiding Quem, the Virtuous
 Guilt of the Sinful Spoils
+Guilt-Gripping Morganite
 Guitar Gurnards Duonigis
 Guldfaxe of the Nordic Beasts
 Gullveig of the Nordic Ascendant
 Gundari
-"Gungnir, Dragon of the Ice Barrier"
+Gungnir, Dragon of the Ice Barrier
 Gunkan Suship Catch-of-the-Day
 Gunkan Suship Daily Special
 Gunkan Suship Ikura
@@ -5400,7 +5554,7 @@ Gunkan Suship Shirauo-class Carrier
 Gunkan Suship Uni
 Gunkan Suship Uni-class Super-Dreadnought
 Gunkan Sushipyard Seaside Supper Spot
-"Guoglim, Spear of the Ghoti"
+Guoglim, Spear of the Ghoti
 Gussari @Ignister
 Gust
 Gust Fan
@@ -5413,7 +5567,7 @@ Gusto Squirro
 Gusto Thunbolt
 Gusto Vedir
 Guts of Steel
-"Gwenhwyfar, Queen of Noble Arms"
+Gwenhwyfar, Queen of Noble Arms
 Gyaku-Gire Panda
 Gyakutenno Megami
 Gyroid
@@ -5422,21 +5576,22 @@ Ha-Re the Sword Mikanko
 Hack Worm
 Hade-Hane
 Haggard Lizardose
-"Hailon, the Timelord"
-"Hajun, the Winged Mayakashi"
+Hailon, the Timelord
+Hajun, the Winged Mayakashi
 Half Counter
 Half or Nothing
 Half Shut
 Half Unbreak
 Halfway to Forever
-"Hallo, the Spirit of Tricks"
+Hallo-Ween!
+Hallo, the Spirit of Tricks
 Hallohallo
 Hallowed Life Barrier
 Hamburger Recipe
 Hammer Bounzer
 Hammer Shark
 Hammer Shot
-"Hamon, Lord of Striking Thunder"
+Hamon, Lord of Striking Thunder
 Han-Shi Kyudo Spirit
 Hand Destruction
 Hand of Nephthys
@@ -5448,7 +5603,7 @@ Hane-Hane
 Hanewata
 Haniwa
 Hannibal Necromancer
-"Hapi, Guidance of Horus"
+Hapi, Guidance of Horus
 Happy Lover
 Hard Armor
 Hard-sellin' Goblin
@@ -5481,10 +5636,11 @@ Harpie's Pet Dragon
 Harpie's Pet Dragon - Fearsome Fire Blast
 Harpie's Pet Phantasmal Dragon
 Harpies' Hunting Ground
-"Harr, Generaider Boss of Storms"
+Harr, Generaider Boss of Storms
 Harvest Angel of Doom
 Harvest Angel of Wisdom
 Hate Buster
+Hate Rose Witch
 Hatsugai
 Haunted Shrine
 Haunted Zombies
@@ -5500,7 +5656,6 @@ Hazy Flame Peryton
 Hazy Flame Sphynx
 Hazy Glory
 Hazy Pillar
-"He Arkho - ""Hudor"""
 Head Judging
 Headless Knight
 Healing Wave Generator
@@ -5530,16 +5685,24 @@ Heavy Storm
 Heavy Storm Duster
 Heavymetalfoes Amalgam
 Heavymetalfoes Electrumite
-"Hebo, Lord of the River"
+Hebo, Lord of the River
+Hecahands Breus
+Hecahands Goddus
+Hecahands Gygas
+Hecahands Ibel
+Hecahands Jawza
+Hecahands Tartarus
+Hecahands Xeno
+Hecahands Yadel
 Hecatrice
 Hedge Guard
-"Hela, Generaider Boss of Doom"
+Hela, Generaider Boss of Doom
 Helios - The Primordial Sun
 Helios Duo Megistus
 Helios Trice Megistus
 Heliosphere Dragon
 Hellebore the Rikka Fairy
-"Helmer, Helmsman Fur Hire"
+Helmer, Helmsman Fur Hire
 Helping Robo for Combat
 Helpoemer
 Helshaddoll Hollow
@@ -5559,7 +5722,9 @@ Heraldic Beast Amphisbaena
 Heraldic Beast Basilisk
 Heraldic Beast Berners Falcon
 Heraldic Beast Eale
+Heraldic Beast Gryphon
 Heraldic Beast Leo
+Heraldic Beast Stad Whale
 Heraldic Beast Twin-Headed Eagle
 Heraldic Beast Unicorn
 Heraldry Change
@@ -5568,6 +5733,7 @@ Heraldry Record
 Herculean Power
 Hercules Beetle
 Here Goes Something!
+Here There Be Dragons
 Heretical Phobos Covos
 Heritage of the Chalice
 Heritage of the Light
@@ -5608,6 +5774,7 @@ Heroic Champion - Excalibur
 Heroic Champion - Gandiva
 Heroic Champion - Jarngreipr
 Heroic Champion - Kusanagi
+Heroic Champion - Magnum Excalibur
 Heroic Chance
 Heroic Envoy
 Heroic Gift
@@ -5615,13 +5782,13 @@ Heroic Retribution Sword
 Hexa Spirit of the Ice Barrier
 Hexatellarknight
 Hexe Trude
-"Hey, Trunade!"
+Hey, Trunade!
 Hi-Five the Sky
 Hi-Speed Re-Level
 Hi-Speedroid Chanbara
 Hi-Speedroid Clear Wing Rider
 Hi-Speedroid Cork Shooter
-Hi-Speedroid Glider 2
+Hi-Speedroid Glider #2
 Hi-Speedroid Hagoita
 Hi-Speedroid Kendama
 Hi-Speedroid Kitedrake
@@ -5668,7 +5835,7 @@ High Tide Gyojin
 High Tide on Fire Island
 Hiita the Fire Channeler
 Hiita the Fire Charmer
-"Hiita the Fire Charmer, Ablaze"
+Hiita the Fire Charmer, Ablaze
 Hinezumi Hanabi
 Hino-Kagu-Tsuchi
 Hinotama
@@ -5720,7 +5887,8 @@ House of Adhesive Tape
 How Did Dai Get Here?
 Howl of the Wild
 Howling Insect
-"Hraesvelgr, the Desperate Doom Eagle"
+Hraesvelgr, the Desperate Doom Eagle
+Hrimnir the Divine Follower
 HTS Psyhemuth
 Hu-Li the Jewel Mikanko
 Huaquero of the Golden Land
@@ -5744,12 +5912,15 @@ Hunter Spider
 Hunting Instinct
 Hurricail
 Hushed Psychic Cleric
+Hushed Psychic Minister
+Hydor, the Base of All Things
 Hydra Viper
 Hydralander Orbit
 Hydro Genex
 Hydro Pressure Cannon
 Hydrogeddon
-"Hydrotortoise, the Empowered Warrior"
+Hydrojet Shark
+Hydrotortoise, the Empowered Warrior
 Hyena
 Hymn of Light
 Hyo
@@ -5807,6 +5978,7 @@ Icejade Manifestation
 Icejade Ran Aegirine
 Icejade Tinola
 Icejade Tremora
+Ichiki Sayori Hime
 Ichiroku's Ledger Book
 Icy Breeze Refrain
 Icy Crevasse
@@ -5826,16 +5998,16 @@ Igknight Templar
 Igknight Veteran
 Igknights Unite
 Ignihorse Dragonith
-"Ignis Heat, the True Dracowarrior"
-"Ignis Phoenix, the Dracoslayer"
+Ignis Heat, the True Dracowarrior
+Ignis Phoenix, the Dracoslayer
 Ignister A.I.Land
-"Ignister Prominence, the Blasting Dracoslayer"
+Ignister Prominence, the Blasting Dracoslayer
 Ignition Beast Volcannon
 Ignition Phoenix
 Ignoble Knight of Black Laundsallyn
 Ignoble Knight of High Laundsallyn
-"Ikelos, the Dream Mirror Mara"
-"Ikelos, the Dream Mirror Sprite"
+Ikelos, the Dream Mirror Mara
+Ikelos, the Dream Mirror Sprite
 Il Blud
 Ill Witch
 Illegal Knight
@@ -5868,14 +6040,14 @@ Imperial Tombs of Necrovalley
 Imperion Magnum the Superconductive Battlebot
 Imprisoned Queen Archfiend
 Imprudent Intrusion
-"Imsety, Glory of Horus"
+Imsety, Glory of Horus
 In Papa's Footsteps
 Inaba White Rabbit
 Inari Fire
 Incandescent Ordeal
 Incarnated Machine Angel
 Incoming Machine!
-"Incredible Ecclesia, the Virtuous"
+Incredible Ecclesia, the Virtuous
 Indigo-Eyes Silver Dragon
 Indiora Doom Volt the Cubic Emperor
 Indomitable Fighter Lei Lei
@@ -5888,6 +6060,7 @@ Infernal Flame Banshee
 Infernal Flame Emperor
 Infernal Flame Vixen
 Infernal Incinerator
+Infernal Punisher
 Infernalqueen Archfiend
 Infernalqueen Salmon
 Infernity Archer
@@ -5922,6 +6095,7 @@ Infernity Wildcat
 Inferno
 Inferno Fire Blast
 Inferno Hammer
+Inferno of the Ashened
 Inferno Reckless Summon
 Inferno Tempest
 Infernoble Knight - Renaud
@@ -6005,7 +6179,7 @@ Interceptomato
 Interdimensional Matter Forwarder
 Interdimensional Matter Transporter
 Interdimensional Warp
-"Interplanetary Invader ""A"""
+Interplanetary Invader "A"
 Interplanetarypurplythorny Beast
 Interplanetarypurplythorny Dragon
 Interrupt Resistor
@@ -6030,6 +6204,7 @@ Invoked Caliga
 Invoked Cocytus
 Invoked Elysium
 Invoked Magellanica
+Invoked Magistus Omega
 Invoked Mechaba
 Invoked Purgatrio
 Invoked Raidjin
@@ -6053,7 +6228,8 @@ Inzektor Orb
 Inzektor Picofalena
 Inzektor Sword - Zektkaliber
 Ipiria
-"Iris, the Earth Mother"
+Ipt al Hecahands
+Iris, the Earth Mother
 Iron Blacksmith Kotetsu
 Iron Cage
 Iron Call
@@ -6075,15 +6251,15 @@ Iron Knight of Revolution
 Iron Thunder
 Ironhammer the Giant
 Island Turtle
-"Isolde, Belle of the Underworld"
-"Isolde, Two Tales of the Noble Knights"
+Isolde, Belle of the Underworld
+Isolde, Two Tales of the Noble Knights
 It's a Toon World!
 It's Jinzo!
 It's My Lucky Day!
-"It's No Monster, It's a God!"
+It's No Monster, It's a God!
 Ivy Shackles
 Ivy Token
-"Ixeep, Omen of the Ghoti"
+Ixeep, Omen of the Ghoti
 Izanagi
 Izanami
 Jabbing Panda
@@ -6094,8 +6270,8 @@ Jack's Knight
 Jackpot 7
 Jade Insect Whistle
 Jade Knight
-"Jain, Lightsworn Paladin"
-"Jain, Twilightsworn General"
+Jain, Lightsworn Paladin
+Jain, Twilightsworn General
 Jam Breeding Machine
 Jam Defender
 Jar of Avarice
@@ -6108,16 +6284,15 @@ Javelin Beetle Pact
 Jawsman
 Jelly Cannon
 Jellyfish
-"Jenis, Lightsworn Mender"
+Jenis, Lightsworn Mender
 Jerry Beans Man
 Jester Confit
 Jester Lord
-Jet Shark
 Jet Synchron
 Jet Warrior
 Jetroid
 Jewels of the Valiant
-"Jiaotu, Darkness of the Yang Zing"
+Jiaotu, Darkness of the Yang Zing
 Jigabyte
 Jigen Bakudan
 Jinzo
@@ -6129,14 +6304,14 @@ Jinzo #7
 Jinzo the Machine Menace
 Jioh the Gravity Ninja
 Jirai Gumo
-"Jizukiru, the Star Destroying Kaiju"
+Jizukiru, the Star Destroying Kaiju
 Job-Change Mirror
 Joker's Knight
 Joker's Straight
 Joker's Wild
 Jolt Counter
 Jongleur-Ghoul Illusionist
-"Jormungandr, Generaider Boss of Eternity"
+Jormungandr, Generaider Boss of Eternity
 Jormungardr the Nordic Serpent
 Joruri-P.U.N.K. Dangerous Gabu
 Joruri-P.U.N.K. Madame Spider
@@ -6152,7 +6327,8 @@ Judgment of the Branded
 Judgment of the Desert
 Judgment of the Pharaoh
 Judgment of Thunder
-"Judgment, the Dragon of Heaven"
+Judgment, the Dragon of Heaven
+Juke Joint "Killer Tune"
 Jumbo Drill
 Jungle Dweller
 Junk Anchor
@@ -6179,8 +6355,11 @@ Junk Sleep
 Junk Speeder
 Junk Synchron
 Junk Warrior
+Junk Warrior Extreme
 Junkuriboh
+Jupiter the Power Patron of Destruction
 Juragedo
+Juraishin, the Cursed Thunder God
 Jurassic Impact
 Jurassic Power
 Jurassic World
@@ -6213,6 +6392,18 @@ Justi-Break
 Justice Bringer
 Justice of Prophecy
 Jutte Fighter
+K9-04 Noroi
+K9-17 "Ripper"
+K9-17 Izuna
+K9-666 "Jacks"
+K9-66a Jokul
+K9-66b Lantern
+K9-EW Special Release Experiment
+K9-LC Release Restraint
+K9-ØØ "Hound"
+K9-ØØ Lupis
+K9-X "Werewolf"
+K9-X Forced Release
 KA-2 Des Scissors
 Kabazauls
 Kabuki Dragon
@@ -6224,10 +6415,11 @@ Kagemusha Raccoon Token
 Kageningen
 Kagero the Cannon Ninja
 Kagetokage
-"Kahkki, Guerilla of Dark World"
+Kahkki, Guerilla of Dark World
 Kahyoreigetsu
 Kai-Den Kendo Spirit
 Kaibaman
+Kaibaman the Legend
 Kaiju Capture Mission
 Kaiki the Unity Star
 Kairo Ryu-Ge Emva
@@ -6242,44 +6434,44 @@ Kaiser Sea Snake
 Kaiser Vorse Raider
 Kaitoptera
 Kaiza the Hidden Star
-"Kalantosa, Mystical Beast of the Forest"
+Kalantosa, Mystical Beast of the Forest
 Kamakiriman
 Kaminari Attack
 Kaminote Blow
-"Kamion, the Timelord"
+Kamion, the Timelord
 Kamionwizard
-"Kamui, Hope of Gusto"
+Kamui, Hope of Gusto
 Kanan the Swordmistress
 Kangaroo Champ
 Kanikabuto
 Kanzashi the Rikka Queen
 Kappa Avenger
 Karakuri Anatomy
-"Karakuri Barrel mdl 96 ""Shinkuro"""
-"Karakuri Bonze mdl 9763 ""Kunamzan"""
-"Karakuri Bushi mdl 6318 ""Muzanichiha"""
+Karakuri Barrel mdl 96 "Shinkuro"
+Karakuri Bonze mdl 9763 "Kunamzan"
+Karakuri Bushi mdl 6318 "Muzanichiha"
 Karakuri Cash Cache
 Karakuri Cash Inn
 Karakuri Cash Shed
-"Karakuri Gama mdl 4624 ""Shirokunishi"""
+Karakuri Gama mdl 4624 "Shirokunishi"
 Karakuri Gama Oil
 Karakuri Gold Dust
 Karakuri Klock
-"Karakuri Komachi mdl 224 ""Ninishi"""
-"Karakuri Merchant mdl 177 ""Inashichi"""
-"Karakuri Muso mdl 818 ""Haipa"""
-"Karakuri Ninja mdl 339 ""Sazank"""
-"Karakuri Ninja mdl 7749 ""Nanashick"""
-"Karakuri Ninja mdl 919 ""Kuick"""
-"Karakuri Shogun mdl 00 ""Burei"""
+Karakuri Komachi mdl 224 "Ninishi"
+Karakuri Merchant mdl 177 "Inashichi"
+Karakuri Muso mdl 818 "Haipa"
+Karakuri Ninja mdl 339 "Sazank"
+Karakuri Ninja mdl 7749 "Nanashick"
+Karakuri Ninja mdl 919 "Kuick"
+Karakuri Shogun mdl 00 "Burei"
 Karakuri Showdown Castle
-"Karakuri Soldier mdl 236 ""Nisamu"""
+Karakuri Soldier mdl 236 "Nisamu"
 Karakuri Spider
-"Karakuri Steel Shogun mdl 00X ""Bureido"""
-"Karakuri Strategist mdl 248 ""Nishipachi"""
-"Karakuri Super Shogun mdl 00N ""Bureibu"""
+Karakuri Steel Shogun mdl 00X "Bureido"
+Karakuri Strategist mdl 248 "Nishipachi"
+Karakuri Super Shogun mdl 00N "Bureibu"
 Karakuri Trick House
-"Karakuri Watchdog mdl 313 ""Saizan"""
+Karakuri Watchdog mdl 313 "Saizan"
 Karate Man
 Karbonala Warrior
 Karma Cut
@@ -6298,9 +6490,9 @@ Kashtira Shangri-Ira
 Kashtira Unicorn
 Kashtiratheosis
 Kattapillar
-"Kayenn, the Master Magma Blacksmith"
+Kayenn, the Master Magma Blacksmith
 Kazejin
-"Keaf, Murk of the Ghoti"
+Keaf, Murk of the Ghoti
 Keeper of Dragon Magic
 Keeper of the Shrine
 Kelbek
@@ -6308,7 +6500,8 @@ Kelbek the Ancient Vanguard
 Keldo
 Keldo the Sacred Protector
 Ken the Warrior Dragon
-"Keurse, the Ogdoadic Light"
+Ketu Dracotail
+Keurse, the Ogdoadic Light
 Key Mace
 Key Mace #2
 Key Man the Key Warrior
@@ -6319,6 +6512,16 @@ Kid Guard
 Kidmodo Dragon
 Kikinagashi Fucho
 Killer Needle
+Killer Tune Clip
+Killer Tune Cue
+Killer Tune Loudness War
+Killer Tune Mix
+Killer Tune Playlist
+Killer Tune Reco
+Killer Tune Red Seal
+Killer Tune Remix
+Killer Tune Synchro
+Killer Tune Track Maker
 King Beast Barbaros
 King Dragun
 King Fog
@@ -6343,9 +6546,9 @@ Kiseitai
 Kishido Spirit
 Kitchen Dragonmaid
 Kitsuni Kitsunebi
-"Kittytail, Mystical Beast of the Forest"
+Kittytail, Mystical Beast of the Forest
 Kiwi Magician Girl
-"Knight Armed Dragon, the Armored Knight Dragon"
+Knight Armed Dragon, the Armored Knight Dragon
 Knight Day Grepher
 Knight of Armor Dragon
 Knight of Legend
@@ -6435,7 +6638,7 @@ Kuebiko
 Kuibelt the Blade Dragon
 Kujakujaku
 Kuji-Kiri Curse
-"Kumongous, the Sticky String Kaiju"
+Kumongous, the Sticky String Kaiju
 Kumootoko
 Kunai with Chain
 Kunoichi
@@ -6450,12 +6653,14 @@ Kuriboh
 Kuriboh Token
 Kuribohrn
 Kuribon
+Kuribon the Fairy Spirit
 Kuriboo
 Kurikara Divincarnate
+Kurikurinku @Ignister
 Kuriphoton
 Kurivolt
 Kuro-Obi Karate Spirit
-Kuwagata ?
+Kuwagata α
 Kwagar Hercules
 Kycoo the Ghost Destroyer
 Kyoro Ryu-Ge Kaiva
@@ -6485,14 +6690,15 @@ Lady of Faith
 Lady of the Lake
 Lady Panther
 Lady's Dragonmaid
-"Laevatein, Generaider Boss of Shadows"
+Laevatein, Generaider Boss of Shadows
+Laevateinn the Burning Blade
 Lair of Darkness
 Lair Wire
 LaLa Li-oon
 Lamb Token
 Lamia
 LaMoon
-"Lancea, Ancestral Dragon of the Ice Mountain"
+Lancea, Ancestral Dragon of the Ice Mountain
 Lancephorhynchus
 Lancer Archfiend
 Lancer Dragonute
@@ -6519,7 +6725,7 @@ Last Resort
 Last Turn
 Last Will
 Latency
-"Latinum, Exarch of Dark World"
+Latinum, Exarch of Dark World
 Laughing Flower
 Laughing Puffin
 Launcher Commander
@@ -6555,9 +6761,10 @@ Lavalval Ignis
 Lavalval Salamander
 Law of the Cosmos
 Layard the Liberator
-"Lazion, the Timelord"
+Layer 19: "Preventing the Invasion! The Pitch-Black Super Quantum!!"
+Lazion, the Timelord
 Leafplace Plaice
-"Lector Pendulum, the Dracoverlord"
+Lector Pendulum, the Dracoverlord
 Ledger of Legerdemain
 Lee the World Chalice Fairy
 Leeching the Light
@@ -6583,6 +6790,7 @@ Legendary Knight Critias
 Legendary Knight Hermos
 Legendary Knight Timaeus
 Legendary Lord Six Samurai - Enishi
+Legendary Lord Six Samurai - Kizan
 Legendary Lord Six Samurai - Shi En
 Legendary Maju Garzett
 Legendary Secret of the Six Samurai
@@ -6599,10 +6807,11 @@ Legion the Fiend Jester
 Lekunga
 Lekunga Token
 Lemon Magician Girl
-"Lemuria, the Forgotten City"
+Lemuria, the Forgotten City
 Leng Ling
 Leo Wizard
-"Leo, the Keeper of the Sacred Tree"
+Leo Wizard the Dark Fiend
+Leo, the Keeper of the Sacred Tree
 Leodrake's Mane
 Leogun
 Leotaur
@@ -6610,6 +6819,7 @@ Leotron
 Leraje the God of Archery
 Lesser Dragon
 Lesser Fiend
+Let's Go Together
 Level Conversion Lab
 Level Down!?
 Level Eater
@@ -6628,7 +6838,7 @@ LeVirtue Dragon
 Lib the World Key Blademaster
 Liberator Eto
 Liberty at Last!
-"Libic, Malebranche of the Burning Abyss"
+Libic, Malebranche of the Burning Abyss
 Libromancer Agent
 Libromancer Bonded
 Libromancer Displaced
@@ -6644,7 +6854,7 @@ Libromancer Mystigirl
 Libromancer Origin Story
 Libromancer Prevented
 Libromancer Realized
-"Lich Lord, King of the Underworld"
+Lich Lord, King of the Underworld
 Life Absorbing Machine
 Life Equalizer
 Life Extreme
@@ -6661,6 +6871,7 @@ Light Dragon @Ignister
 Light Effigy
 Light End Dragon
 Light End Sublimation Dragon
+Light Force
 Light Laser
 Light Law Medium
 Light of Destruction
@@ -6669,6 +6880,7 @@ Light of Judgment
 Light of Redemption
 Light of the Branded
 Light Spiral
+Light Water Dragon
 Light Wing Shield
 Light-Imprisoning Mirror
 Lighten the Load
@@ -6682,7 +6894,7 @@ Lightning Storm
 Lightning Tricorn
 Lightning Vortex
 Lightning Warrior
-"Lightning, Dragon Ruler of Drafts"
+Lightning, Dragon Ruler of Drafts
 Lightpulsar Dragon
 Lightray Daedalus
 Lightray Diabolos
@@ -6701,7 +6913,7 @@ Lightsworn Sanctuary
 Lightwave Tuning
 Like the Diabell
 Lil-la Rap
-"Lilith, Lady of Lament"
+Lilith, Lady of Lament
 Lillybot
 Limit Code
 Limit Impulse
@@ -6735,6 +6947,7 @@ Linkerbell
 Linkmail Archfiend
 Linkross
 Linkslayer
+Linkslayer @Ignister
 Linkuriboh
 Lion Alligator
 Lionhearted Locomotive
@@ -6747,31 +6960,34 @@ Little D
 Little Fairy
 Little Trooper
 Little-Winguard
-Live?Twin Channel
-Live?Twin Home
-Live?Twin Ki-sikil
-Live?Twin Ki-sikil Frost
-Live?Twin Lil-la
-Live?Twin Lil-la Treat
-Live?Twin Sunny's Snitch
+Live☆Twin Channel
+Live☆Twin Home
+Live☆Twin Ki-sikil
+Live☆Twin Ki-sikil Frost
+Live☆Twin Lil-la
+Live☆Twin Lil-la Sweet
+Live☆Twin Lil-la Treat
+Live☆Twin Sunny's Snitch
 Living Fossil
 Living Vase
 Lizard Soldier
 Ljosalf of the Nordic Alfar
-"Lo, the Prayers of the Voiceless Voice"
+Lo, the Prayers of the Voiceless Voice
 Localized Tornado
 Lock Cat
 Lockout Gardna
 Locomotion R-Genex
 Loge's Flame
 Loka Samsara
-"Loki, Lord of the Aesir"
+Loki, Lord of the Aesir
+Lollipo★Yummy Way
+Lollipo☆Yummy
 Lone Wolf
 Lonefire Blossom
-"Longirsu, the Orcust Orchestrator"
+Longirsu, the Orcust Orchestrator
 Looking into the Future
 Loop of Destruction
-"Loptr, Shadow of the Generaider Bosses"
+Loptr, Shadow of the Generaider Bosses
 Lord British Space Fighter
 Lord Gaia the Fierce Knight
 Lord of D.
@@ -6782,7 +6998,7 @@ Lord of the Red
 Lord of the Tachyon Galaxy
 Lord of Zemia
 Lord Poison
-"Loris, Lady of Lament"
+Loris, Lady of Lament
 Lose 1 Turn
 Loss Time
 Lost Blue Breaker
@@ -6793,7 +7009,8 @@ Loud Cloud the Storm Serpent
 Lovely Labrynth of the Silver Castle
 Low Blow
 Lubellion the Searing Dragon
-"Lucent, Netherlord of Dark World"
+Luce the Dusk's Dark
+Lucent, Netherlord of Dark World
 Lucius the Shadow Vassal
 Lucky Chance
 Lucky Cloud
@@ -6804,8 +7021,8 @@ Lucky Punch
 Lucky Trinket
 Lullaby of Obedience
 Lumenize
-"Lumina, Lightsworn Summoner"
-"Lumina, Twilightsworn Shaman"
+Lumina, Lightsworn Summoner
+Lumina, Twilightsworn Shaman
 Luminous Dragon Ritual
 Luminous Soldier
 Luminous Spark
@@ -6817,13 +7034,18 @@ Lunalight Cat Dancer
 Lunalight Crimson Fox
 Lunalight Emerald Bird
 Lunalight Fusion
+Lunalight Gold Leo
 Lunalight Kaleido Chick
 Lunalight Leo Dancer
+Lunalight Liger Dancer
+Lunalight Masquerade
 Lunalight Panther Dancer
+Lunalight Perfume Dancer
 Lunalight Purple Butterfly
 Lunalight Reincarnation Dance
 Lunalight Sabre Dancer
 Lunalight Serenade Dance
+Lunalight Silver Hound
 Lunalight Tiger
 Lunalight White Rabbit
 Lunalight Wolf
@@ -6831,12 +7053,12 @@ Lunalight Yellow Marten
 Lunar Queen Elzaim
 Luster Dragon
 Luster Dragon #2
-"Luster Pendulum, the Dracoslayer"
+Luster Pendulum, the Dracoslayer
 Lycanthrope
-"Lyla, Lightsworn Sorceress"
-"Lyla, Twilightsworn Enchantress"
+Lyla, Lightsworn Sorceress
+Lyla, Twilightsworn Enchantress
 Lyna the Light Charmer
-"Lyna the Light Charmer, Lustrous"
+Lyna the Light Charmer, Lustrous
 Lyrilusc - Assembled Nightingale
 Lyrilusc - Beryl Canary
 Lyrilusc - Bird Call
@@ -6929,9 +7151,9 @@ Madolche Waltz
 Madolchepalooza
 Maestroke the Symphony Djinn
 Mage Power
-"Magellanica, the Deep Sea City"
-Magi Magi ? Magician Gal
-Magia Magic - Thor Hammer
+Magellanica, the Deep Sea City
+Magi Magi ☆ Magician Gal
+Magia Magic - Thunder of Judgment
 Magic Cylinder
 Magic Deflector
 Magic Drain
@@ -7054,10 +7276,20 @@ Magnetic Attraction
 Magnetic Field
 Magnetic Mosquito
 Magnificent Machine Angel
+Magnifistorm Great Pyre Phonix
+Magnifistorm Vortex Beauty Valrune
+Magnifistorming Crothea
+Magnifistorming Erdam
+Magnifistorming Megala
+Magnifistorming Sight Trance
+Magnifistorming Sovereign Tyranny
+Magnifistorming Stanza Tribute
+Magnifistorming Suen
+Magnifistorming Summoning Technique
 Magnum Shield
 Magnum the Reliever
 Maha Vailo
-"Maha Vailo, Light of the Heavens"
+Maha Vailo, Light of the Heavens
 Mahaama the Fairy Dragon
 Maharaghi
 Mahjong Munia Maidens
@@ -7087,7 +7319,7 @@ Majespecter Toad - Ogama
 Majespecter Tornado
 Majespecter Unicorn - Kirin
 Majespecter Wind
-"Majester Paladin, the Ascending Dracoslayer"
+Majester Paladin, the Ascending Dracoslayer
 Majestic Absorption
 Majestic Dragon
 Majestic Mech - Goryu
@@ -7097,9 +7329,9 @@ Majestic Mirage
 Majestic Red Dragon
 Majestic Star Dragon
 Majesty Hyperion
-"Majesty Maiden, the True Dracocaster"
-"Majesty Pegasus, the Dracoslayer"
-Majesty with Dragons of White
+Majesty Maiden, the True Dracocaster
+Majesty of the White Dragons
+Majesty Pegasus, the Dracoslayer
 Majesty with Eyes of Blue
 Majesty's Fiend
 Majesty's Pegasus
@@ -7108,9 +7340,9 @@ Majioshaleon
 Majiosheldon
 Major Riot
 Maju Garzett
-"Makiu, the Magical Mist"
+Makiu, the Magical Mist
 Makyura the Destructor
-"Malacoda, Netherlord of the Burning Abyss"
+Malacoda, Netherlord of the Burning Abyss
 Malefic Blue-Eyes White Dragon
 Malefic Claw Stream
 Malefic Cyber End Dragon
@@ -7134,20 +7366,22 @@ Malfunction
 Malice Ascendant
 Malice Dispersion
 Malice Doll of Demise
-"Malice, Lady of Lament"
+Malice, Lady of Lament
 Malicevorous Fork
 Malicevorous Knife
 Malicevorous Spoon
-Maliss C GWC-06
-Maliss C MTP-07
-Maliss C TB-11
+Maliss Chessy Cat
+Maliss Dormouse
+Maliss GWC-06
+Maliss Hearts Crypter
+Maliss in the Mirror
 Maliss in Underground
-Maliss P Chessy Cat
-Maliss P Dormouse
-Maliss P White Rabbit
-Maliss Q Hearts Crypter
-Maliss Q Red Ransom
-Maliss Q White Binder
+Maliss March Hare
+Maliss MTP-07
+Maliss Red Ransom
+Maliss TB-11
+Maliss White Binder
+Maliss White Rabbit
 Malus Token
 Mamemaki
 Mammoth Graveyard
@@ -7184,11 +7418,12 @@ Marauding Captain
 March of the Dark Brigade
 March of the Monarchs
 March Towards Ragnarok
-"Mardel, Generaider Boss of Light"
+Mardel, Generaider Boss of Light
 Mare Mare
 Margin Trading
-"Mariamne, the True Dracophoenix"
-"Marina, Princess of Sunflowers"
+Mariamne Paradox, the True Dracophoenix Knight
+Mariamne, the True Dracophoenix
+Marina, Princess of Sunflowers
 Marincess Aqua Argonaut
 Marincess Basilalima
 Marincess Battle Ocean
@@ -7223,6 +7458,7 @@ Marshalling Field
 Marshmacaron
 Marshmallon
 Marshmallon Glasses
+Marshmao☆Yummy
 Martial Metal Marcher
 Maryokutai
 Masaki the Legendary Swordsman
@@ -7242,10 +7478,13 @@ Masked Clown
 Masked Dragon
 Masked HERO Acid
 Masked HERO Anki
+Masked HERO Atomic
 Masked HERO Blast
 Masked HERO Dark Law
 Masked HERO Dian
 Masked HERO Divine Wind
+Masked HERO Dusk Crow
+Masked HERO Furnace
 Masked HERO Goka
 Masked HERO Koga
 Masked HERO Vapor
@@ -7265,9 +7504,10 @@ Master of Chaos
 Master of Ham
 Master of Oz
 Master of the Flaming Dragonswords
-"Master Peace, the True Dracoslayer"
-"Master Peace, the True Dracoslaying King"
-"Master Pendulum, the Dracoslayer"
+Master Peace, the True Dracoslayer
+Master Peace, the True Dracoslaying King
+Master Peace, the True Dracoverlord
+Master Pendulum, the Dracoslayer
 Master Tao the Chanter
 Master with Eyes of Blue
 Master's Diploman
@@ -7278,11 +7518,12 @@ Matching Outfits
 Materiactor Annulus
 Materiactor Critical
 Materiactor Exagard
-Materiactor Exarept
+Materiactor Exareptor
 Materiactor Gigaboros
 Materiactor Gigadra
 Materiactor Meltdown
-Materiactor Zeptowing
+Materiactor Meltthrough
+Materiactor Zeptwing
 Materialization
 Mathematician
 Mathmech Addition
@@ -7305,7 +7546,7 @@ Mavelus
 Max Metalmorph
 Max Warrior
 Maximum Six
-"Maxx ""C"""
+Maxx "C"
 Mayakashi Mayhem
 Mayakashi Metamorphosis
 Mayakashi Return
@@ -7348,20 +7589,24 @@ Meda Bat
 Medallion of the Ice Barrier
 Medium of the Ice Barrier
 Medium Piece Golem
+Medius the Pure
 Medusa Worm
-"Medusa, Watcher of the Evil Eye"
+Medusa, Watcher of the Evil Eye
 Mefist the Infernal General
 Mega Fortress Whale
 Mega Thunderball
 Mega Ton Magical Cannon
+Megalith Anastasis
 Megalith Aratron
 Megalith Bethor
 Megalith Emergence
 Megalith Hagith
+Megalith Nortra Phulra
 Megalith Och
 Megalith Ophiel
 Megalith Phaleg
 Megalith Phul
+Megalith Phuloch
 Megalith Portal
 Megalith Promotion
 Megalith Unformed
@@ -7373,7 +7618,7 @@ Megasonic Eye
 Megazowler
 Megirus Light
 Megistric Maginician
-"Mei-Kou, Master of Barriers"
+Mei-Kou, Master of Barriers
 Meizen the Battle Ninja
 Mekanikal Arkfiend
 Mekk-Knight Avram
@@ -7423,7 +7668,7 @@ Meliae of the Trees
 Melodious Concerto
 Melodious Illusion
 Melomelody the Brass Djinn
-"Meltiel, Sage of the Sky"
+Meltiel, Sage of the Sky
 Mementoal Tecuhtlica - Combined Creation
 Mementomictlan
 Mementomictlan Tecuhtlica - Creation King
@@ -7452,6 +7697,7 @@ Mental Tuner
 Meotoko
 Meowseclick
 Merciful Machine Angel
+Merciless Scorpion of Serket
 Mereologic Aggregator
 Merlin
 Mermaid Archer
@@ -7484,7 +7730,7 @@ Messenger of Peace
 Metabo Globster
 Metabo Token
 Metabo-Shark
-"Metaion, the Timelord"
+Metaion, the Timelord
 Metal Armored Bug
 Metal Detector
 Metal Dragon
@@ -7513,7 +7759,7 @@ Metallizing Parasite - Soltite
 Metalmorph
 Metalrokket Dragon
 Metalsilver Armor
-"Metaltron XII, the True Dracombatant"
+Metaltron XII, the True Dracombatant
 Metaltronus
 Metalzoa
 Metalzoa X
@@ -7546,8 +7792,10 @@ Meteorain
 Meteoroa Drytron
 Metrognome
 Mezuki
-"Michael, the Arch-Lightsworn"
-"Michion, the Timelord"
+Miasma Dragon Tistina
+Miasma Necromancer
+Michael, the Arch-Lightsworn
+Michion, the Timelord
 Michizure
 Micro Coder
 Micro Ray
@@ -7558,6 +7806,7 @@ Mighty Dino King Rex
 Mighty Guard
 Mighty Warrior
 Mikanko Dance - Mayowashidori
+Mikanko Divine Dance - Futahashira no Uzu no Miko
 Mikanko Fire Dance
 Mikanko Kagura
 Mikanko Promise
@@ -7567,7 +7816,7 @@ Mikanko Rivalry
 Mikanko Spiritwalk
 Mikanko Water Arabesque
 Mikazukinoyaiba
-"Mikazukinoyaiba, the Moon Fang Dragon"
+Mikazukinoyaiba, the Moon Fang Dragon
 Mild Turkey
 Milla the Temporal Magician
 Millennium Ankh
@@ -7613,6 +7862,7 @@ Mind Master
 Mind on Air
 Mind Over Matter
 Mind Pollutant
+Mind Procedure
 Mind Protector
 Mind Scan (Skill Card)
 Mind Trust
@@ -7621,14 +7871,15 @@ Mine Golem
 Mine Mole
 Minefield Eruption
 Minefieldriller
-"Minerva, Lightsworn Maiden"
-"Minerva, Scholar of the Sky"
-"Minerva, the Athenian Lightsworn"
-"Minerva, the Exalted Lightsworn"
+Minerva, Lightsworn Maiden
+Minerva, Scholar of the Sky
+Minerva, the Athenian Lightsworn
+Minerva, the Exalted Lightsworn
 Mini Mare Mare Token
 Mini-Guts
 Miniaturize
 Miniborrel Dragon
+Minimalian
 Minoan Centaur
 Minomushi Warrior
 Minor Goblin Official
@@ -7643,6 +7894,7 @@ Miracle Jurassic Egg
 Miracle Kids
 Miracle Locus
 Miracle of the Supreme King
+Miracle Raven
 Miracle Restoring
 Miracle Rupture
 Miracle Stone
@@ -7679,6 +7931,7 @@ Mischief of the Yokai
 Misfortune
 MiSolfachord Eliteia
 Mispolymerization
+Miss Okiku's Dishrithmetic
 Missing Force
 Missus Radiant
 Mist Archfiend
@@ -7703,16 +7956,23 @@ Mistar Boy
 Mithra the Thunder Vassal
 Mitsu the Insect Ninja
 Mitsurugi Great Purification
-"Mitsurugi no Mikoto, Kusanagi"
-"Mitsurugi no Mikoto, Saji"
+Mitsurugi Magatama
+Mitsurugi Mirror
+Mitsurugi no Miko, Wousu
+Mitsurugi no Mikoto, Aramasa
+Mitsurugi no Mikoto, Kusanagi
+Mitsurugi no Mikoto, Saji
 Mitsurugi Prayers
 Mitsurugi Ritual
+Mitsurugi Sacred Boundary
+Mitsurugi Tempest
 Mixeroid
 Moai Interceptor Cannons
 Mobius the Frost Monarch
 Mobius the Mega Monarch
 Mogmole
-"Moissa Knight, the Comet General"
+Moissa Knight, the Comet General
+Moissa Wight
 Moisture Creature
 Moja
 Mokey Mokey
@@ -7727,6 +7987,7 @@ Molten Whirlwind Wall
 Molten Zombie
 Molting Escape
 Mon Larvas
+Monarchic Perfection
 Monk Fighter
 Monk of the Tenyi
 Mono Synchron
@@ -7750,6 +8011,8 @@ Montage Dragon
 Moon Dance Ritual
 Moon Dragon Quilla
 Moon Envoy
+Moon Gardna
+Moon Magician
 Moon Mirror Shield
 Moon of the Closed Heaven
 Moon Token
@@ -7760,12 +8023,13 @@ Moray of Avarice
 Moray of Greed
 Mordschlag
 Moremarshmallon
-"Morgan, the Enchantress of Avalon"
+Morgan, the Enchantress of Avalon
+Morgana the Witch of Eyes
 Morinphen
 Mormolith
 Morph King Stygi-Gel
-"Morpheus, the Dream Mirror Black Knight"
-"Morpheus, the Dream Mirror White Knight"
+Morpheus, the Dream Mirror Black Knight
+Morpheus, the Dream Mirror White Knight
 Morphing Jar
 Morphing Jar #2
 Morpho Butterspy
@@ -7802,7 +8066,7 @@ Morphtronic Staplen
 Morphtronic Telefon
 Morphtronic Vacuumen
 Morphtronic Videon
-"Morphtronics, Scramble!"
+Morphtronics, Scramble!
 Mosaic Manticore
 Mother Grizzly
 Mother Spider
@@ -7847,9 +8111,10 @@ Mushroom Man #2
 Musical Sumo Dice Games
 Musician King
 Mustering of the Dark Scorpions
-"Musto, Oracle of Gusto"
+Musto, Oracle of Gusto
 Mutamorphosis
 Mutant Mindmaster
+Mutiny in the Sky
 Mutually Affured Destruction
 Muzurhythm the String Djinn
 My Body as a Shield
@@ -7923,7 +8188,7 @@ N.As.H. Knight
 Nadir Servant
 Naelshaddoll Ariel
 Nagel's Protection
-"Naglfar, Generaider Boss of Fire"
+Naglfar, Generaider Boss of Fire
 Nanana
 Nanobreaker
 Narrow Pass
@@ -7972,10 +8237,11 @@ Naturia Sunflower
 Naturia Tulip
 Naturia Vein
 Naturia White Oak
-"Nauya, the Ogdoadic Remnant"
+Nauya, the Ogdoadic Remnant
 Navy Dragon Mech
 Nazuki the Vaylantz Ninja
 Nebula Dragon
+Nebulus, Dragon Ruler of Mishaps
 Neck Hunter
 Necklace of Command
 Necro Defender
@@ -8006,8 +8272,8 @@ Nefarious Archfiend Eater of Nefariousness
 Nega-Ton Corepanel
 Negate Attack
 Nehshaddoll Genius
-"Neiroy, the Dream Mirror Disciple"
-"Neiroy, the Dream Mirror Traitor"
+Neiroy, the Dream Mirror Disciple
+Neiroy, the Dream Mirror Traitor
 Neko Mane King
 Nekogal #1
 Nekogal #2
@@ -8055,7 +8321,7 @@ Neo Space Connector
 Neo Space Pathfinder
 Neo Super Quantal Mech King Blaster Magna
 Neo the Magic Swordsman
-"Neo-Parshath, the Sky Paladin"
+Neo-Parshath, the Sky Paladin
 Neo-Spacian Air Hummingbird
 Neo-Spacian Aqua Dolphin
 Neo-Spacian Dark Panther
@@ -8068,10 +8334,11 @@ Neos Force
 Neos Fusion
 Neos Wiseman
 Nephe Shaddoll Fusion
-"Nephilabyss, the Ogdoadic Overlord"
-"Nephthys, the Sacred Flame"
-"Nephthys, the Sacred Preserver"
-"Neptabyss, the Atlantean Prince"
+Nephilabyss, the Ogdoadic Overlord
+Nephthys, the Sacred Flame
+Nephthys, the Sacred Preserver
+Neptabyss, the Atlantean Prince
+Nerva the Power Patron of Creation
 Nettles
 Network Trap Hole
 Neutron Blast
@@ -8086,8 +8353,8 @@ NEX
 NEXT
 Next to be Lost
 Ni-Ni the Mirror Mikanko
-"Nibiru, the Primal Being"
-"Nidhogg, Generaider Boss of Ice"
+Nibiru, the Primal Being
+Nidhogg, Generaider Boss of Ice
 Night Assailant
 Night Beam
 Night Dragolich
@@ -8120,7 +8387,7 @@ Nimble Momonga
 Nimble Musasabi
 Nimble Sunfish
 Nin-Ken Dog
-"Ninaruru, the Magistus Glass Goddess"
+Ninaruru, the Magistus Glass Goddess
 Nine Pillars of Yang Zing
 Nine-Lives Cat
 Nine-Tailed Fox
@@ -8201,10 +8468,12 @@ Nordic Relic Svalinn
 Nordic Smith Ivaldi
 Norito the Moral Leader
 Noritoshi in Darkest Rainment
-"Nouvelles Restaurant ""At Table"""
+Nouvelles Recipe Book "Recettes de Nouvellez"
+Nouvelles Restaurant "At Table"
 Nova Summoner
 Novox's Prayer
 Nowru Aries the Vernal Dragon
+NT8000 - SIRIUS
 Nubian Guard
 Number 1: Infection Buzzking
 Number 1: Numeron Gate Ekam
@@ -8231,7 +8500,7 @@ Number 2: Numeron Gate Dve
 Number 20: Giga-Brilliant
 Number 21: Frozen Lady Justice
 Number 22: Zombiestein
-"Number 23: Lancelot, Dark Knight of the Underworld"
+Number 23: Lancelot, Dark Knight of the Underworld
 Number 24: Dragulas the Vampiric Dragon
 Number 25: Force Focus
 Number 26: Spaceway Octobypass
@@ -8288,6 +8557,8 @@ Number 66: Master Key Beetle
 Number 67: Pair-a-Dice Smasher
 Number 68: Sanaphond the Sky Prison
 Number 69: Heraldry Crest
+Number 69: Heraldry Crest - Dark Matter Demolition
+Number 69: Heraldry Crest - Shatter Stream
 Number 7: Lucky Straight
 Number 70: Malevolent Sin
 Number 71: Rebarian Shark
@@ -8354,6 +8625,7 @@ Number C96: Dark Storm
 Number F0: Utopic Draco Future
 Number F0: Utopic Future
 Number F0: Utopic Future Slash
+Number F0: Utopic Future Zexal
 Number iC1000: Numerounius Numerounia
 Number S0: Utopic ZEXAL
 Number S37: Spider Shark
@@ -8376,7 +8648,7 @@ Numeron Network
 Numeron Storm
 Numeron Wall
 Numinous Healer
-"Nunu, the Ogdoadic Remnant"
+Nunu, the Ogdoadic Remnant
 Nurse Dragonmaid
 Nutrient Z
 Nuvia the Wicked
@@ -8390,10 +8662,10 @@ Obese Marmot of Nefariousness
 Obliterate!!!
 Obliterate!!! Blaze
 Obnoxious Celtic Guard
-"Oboro-Guruma, the Wheeled Mayakashi"
+Oboro-Guruma, the Wheeled Mayakashi
 Obsessive Uvualoop
 Obsidian Dragon
-"Obsidim, the Ashened City"
+Obsidim, the Ashened City
 Ocean Dragon Lord - Kairyu-Shin
 Ocean Dragon Lord - Neo-Daedalus
 Ocean of Regeneration
@@ -8427,12 +8699,12 @@ Odd-Eyes Venom Dragon
 Odd-Eyes Vortex Dragon
 Odd-Eyes Wing Dragon
 Odd-Eyes Wizard Dragon
-"Odin, Father of the Aesir"
+Odin, Father of the Aesir
 Odin's Eye
 Offering to the Immortals
 Offering to the Snake Deity
 Offerings to the Doomed
-"Ogdoabyss, the Ogdoadic Overlord"
+Ogdoabyss, the Ogdoadic Overlord
 Ogdoadic Calling
 Ogdoadic Daybreak
 Ogdoadic Hollow
@@ -8476,7 +8748,7 @@ Omega Judgment
 Omega Summon
 Ominous Fortunetelling
 Omni Dragon Brotaur
-"On Your Mark, Get Set, DUEL!"
+On Your Mark, Get Set, DUEL!
 One by One
 One Day of Peace
 One for One
@@ -8487,13 +8759,14 @@ One-Eyed Skill Gainer
 One-Kuri-Way
 One-Shot Wand
 One-Time Passcode
-"Oneiros, the Dream Mirror Erlking"
-"Oneiros, the Dream Mirror Tormentor"
+Oneiros, the Dream Mirror Erlking
+Oneiros, the Dream Mirror Tormentor
 Oni Tank T-34
 Oni-Gami Combo
 Onibimaru Soul Sweeper
 Onikuji
 Onmoraki
+Onomatokage
 Onomatopaira
 Onomatopia
 Onomatopickup
@@ -8532,7 +8805,7 @@ Ordeal of a Traveler
 Order of the Queen
 Order to Charge
 Order to Smash
-"Orea, the Sylvan High Arbiter"
+Orea, the Sylvan High Arbiter
 Orgoth the Relentless
 Orichalcos Shunoros
 Orient Dragon
@@ -8544,7 +8817,7 @@ Orphebull the Harmonious Bullfighter Bard
 Oscillo Hero
 Oshaleon
 Ostinato
-"Otherworld - The ""A"" Zone"
+Otherworld - The "A" Zone
 Otohime
 Otonari Thunder
 Otoshidamashi
@@ -8589,8 +8862,8 @@ P.M. Captor
 P.U.N.K. JAM Dragon Drive
 P.U.N.K. JAM Extreme Session
 P.U.N.K. JAM FEVER!
-"Paces, Light of the Ghoti"
-"Pacifis, the Phantasm City"
+Paces, Light of the Ghoti
+Pacifis, the Phantasm City
 Packet Link
 Packet Swap
 Pahunder
@@ -8639,6 +8912,7 @@ Parallel eXceed
 Parallel Panzer
 Parallel Port Armor
 Parallel Selection
+Parallel Teleport
 Parallel Twister
 Parallel World Fusion
 Paralyzing Chain
@@ -8651,12 +8925,12 @@ Parasite Paracide
 Parasite Paranoid
 Parasitic Ticky
 Parasomnia Pillow
-"Parl, Hermit of Dark World"
+Parl, Hermit of Dark World
 Parlor Dragonmaid
 Parrot Dragon
 Parry
 Parry Knights
-"Parsec, the Interstellar Dragon"
+Parsec, the Interstellar Dragon
 Parthian Shot
 Particle Fusion
 Past Image
@@ -8835,9 +9109,10 @@ Performapal U Go Golem
 Performapal Uni
 Performapal Whim Witch
 Performapal Whip Snake
-"Periallis, Empress of Blossoms"
+Periallis, Empress of Blossoms
 Peropero Cerperus
 Personal Spoofing
+Pesanta the Troubadour Deity
 Pestilence
 Peten the Dark Clown
 Petit Angel
@@ -8860,8 +9135,8 @@ Phantasmal Lord Ultimitl Bishbaalkin
 Phantasmal Martyr Token
 Phantasmal Martyrs
 Phantasmal Summoning Beast
-"Phantasos, the Dream Mirror Foe"
-"Phantasos, the Dream Mirror Friend"
+Phantasos, the Dream Mirror Foe
+Phantasos, the Dream Mirror Friend
 Phantom Beast Cross-Wing
 Phantom Beast Rock-Lizard
 Phantom Beast Thunder-Pegasus
@@ -8944,7 +9219,7 @@ Pikeru's Second Sight
 Pile Armed Dragon
 Pilgrim of the Ice Barrier
 Pilgrim Reaper
-"Pilica, Descendant of Gusto"
+Pilica, Descendant of Gusto
 Pillar of the Future - Cyanos
 Pinch Hopper
 Pineapple Blast
@@ -8959,7 +9234,6 @@ Pitch-Black Warwolf
 Pitch-Dark Dragon
 Pitknight Earlie
 Pitknight Filly
-Pity
 Piwraithe the Ghost Pirate
 Pixie Knight
 Pixie Ring
@@ -8999,11 +9273,12 @@ Poly-Chemicritter Dioxogre
 Poly-Chemicritter Hydragon
 Polymerization
 Pop-Up
+Poplar of the White Forest
 Portable Battery Pack
 Poseidon Wave
-"Poseidra Abyss, the Atlantean Dragon Lord"
-"Poseidra, the Atlantean Dragon"
-"Poseidra, the Storming Atlantean"
+Poseidra Abyss, the Atlantean Dragon Lord
+Poseidra, the Atlantean Dragon
+Poseidra, the Storming Atlantean
 Possessed Dark Soul
 Possessed Partnerships
 Pot of Acquisitiveness
@@ -9035,6 +9310,7 @@ Power of Dark
 Power of Friendship
 Power of Kaishin
 Power of the Guardians
+Power Patron Machine Doom-Z
 Power Pickaxe
 Power Pro Knight Sisters
 Power Pro Lady Sisters
@@ -9127,8 +9403,9 @@ Pride of the Weak
 Prideful Roar
 Priestess of the Ashened City
 Priestess with Eyes of Blue
+Prima Materiactor
 Primal Cry
-"Primal Dragon, the Primordial"
+Primal Dragon, the Primordial
 Primal Seed
 Primathmech Alembertian
 Primathmech Laplacian
@@ -9137,13 +9414,15 @@ Prime Material Falcon
 Primeval Planet Perlereino
 Primineral Kongreat
 Primineral Mandstrong
-Primite Another Beryl
+Primite Dragon Ether Beryl
+Primite Dragon Nether Berzelius
 Primite Drillbeam
+Primite Fusion
 Primite Howl
 Primite Imperial Dragon
 Primite Lordly Lode
-Primite Resounding Reaction
 Primite Roar
+Primite Scream
 Primitive Butterfly
 Primitive Planet Reichphobia
 Primordial Soup
@@ -9162,11 +9441,11 @@ Progleo
 Prohibit Snake
 Prohibition
 Prologue of the Destruction Swordsman
-"Prometeor, the Burning Star"
-"Promethean Princess, Bestower of Flames"
-"Prometheus, King of the Shadows"
+Prometeor, the Burning Star
+Promethean Princess, Bestower of Flames
+Prometheus, King of the Shadows
 Prominence Hand
-"Prominence, Molten Swordsman"
+Prominence, Molten Swordsman
 Promotion
 Prompthorn
 Proof of Powerlessness
@@ -9185,11 +9464,13 @@ Protector with Eyes of Blue
 Proto-Cyber Dragon
 Protocol Gardna
 Proton Blast
+Prototype Psychic Blaster
+Prototype Sky Striker Ace - Amatsu
 Protron
 Proxy Dragon
 Proxy F Magician
 Proxy Horse
-"Prufinesse, the Tactical Trapper"
+Prufinesse, the Tactical Trapper
 Pseudo Space
 Psi-Beast
 Psi-Blocker
@@ -9197,7 +9478,7 @@ Psi-Curse
 Psi-Impulse
 Psi-Reflector
 Psi-Station
-"Psiics, Moonlight of the Ghoti"
+Psiics, Moonlight of the Ghoti
 PSY-Frame Accelerator
 PSY-Frame Circuit
 PSY-Frame Driver
@@ -9214,6 +9495,7 @@ PSY-Framelord Zeta
 Psychic Ace
 Psychic Arsenal
 Psychic Blade
+Psychic Blaster Mk-II
 Psychic Bounder
 Psychic Commander
 Psychic Emperor
@@ -9226,6 +9508,7 @@ Psychic Kappa
 Psychic Lifetrancer
 Psychic Megacyber
 Psychic Nightmare
+Psychic Omnibuster
 Psychic Overload
 Psychic Path
 Psychic Processor
@@ -9242,7 +9525,7 @@ Psychic Tuning
 Psychic Wave
 Psychic Wheeleder
 Psychokinesis
-"Pulao, Wind of the Yang Zing"
+Pulao, Wind of the Yang Zing
 Pulling the Rug
 Pulse Mines
 Pumpkin Carriage
@@ -9261,7 +9544,7 @@ Puppet Queen
 Puppet Ritual
 Puppet Rook
 Puppet Shark
-"Puralis, the Purple Pyrotile"
+Puralis, the Purple Pyrotile
 Purge Ray
 Purple Poison Magician
 Purrely
@@ -9276,7 +9559,7 @@ Pursuit Chaser
 Purushaddoll Aeon
 Putrid Pudding Body Buddies
 Puzzle Reborn
-"Puzzlomino, the Drop-n-Deleter"
+Puzzlomino, the Drop-n-Deleter
 Pyramid Energy
 Pyramid of Light
 Pyramid of Wonders
@@ -9288,7 +9571,7 @@ Pyrotech Mech - Shiryu
 Pyroxene Fusion
 Qadshaddoll Keios
 Qardan the Clear-Sighted
-"Qebehsenuef, Protection of Horus"
+Qebehsenuef, Protection of Horus
 Qlife's End
 Qlimate Change
 Qliphort Carrier
@@ -9303,16 +9586,17 @@ Qliphort Stealth
 Qlipper Launch
 QQ Enneagon
 Quadborrel Dragon
+Quadogmatika Beast
 Quaking Mirror Force
 Quantum Cat
 Quarantine
 Queen Angel of Roses
+Queen Azamina
 Queen Bird
 Queen Butterfly Danaus
 Queen Dragun Djinn
 Queen of Autumn Leaves
 Queen of Fate - Eternia
-Queen of the Azamina
 Queen of Thorns
 Queen's Bodyguard
 Queen's Double
@@ -9338,19 +9622,26 @@ R-Genex Turbo
 R-Genex Turing
 R-Genex Ultimum
 R-Genex Undine
+R.B. Funk Dock
+R.B. Ga10 Cutter
+R.B. Ga10 Driller
+R.B. Stage Landing
+R.B. The Brute Blues
+R.B. VALCan Booster
+R.B. VALCan Rocket
 Ra's Disciple
-"Ra'ten, the Heavenly General"
+Ra'ten, the Heavenly General
 Rabid Horseman
 Rabidragon
 Radian Token
-"Radian, the Multidimensional Kaiju"
+Radian, the Multidimensional Kaiju
 Radiance of the Voiceless Voice
 Radiant Jeral
 Radiant Mirror Force
 Radiant Spirit
 Radiant Vouirescence
-"Radius, the Half-Moon Dragon"
-"Rafale, Champion Fur Hire"
+Radius, the Half-Moon Dragon
+Rafale, Champion Fur Hire
 Rafflesia Seduction
 Rage of Kairyu-Shin
 Rage of the Deep Sea
@@ -9373,10 +9664,11 @@ Ragnaraika Stag Sovereign
 Ragnaraika the Evil Seed
 Ragnaraika Wicked Butterfly
 Ragnaraika Wisteria of Woe
+Rahu Dracotail
 Rai Rider
 Rai-Jin
 Rai-Mei
-"Raiden, Hand of the Lightsworn"
+Raiden, Hand of the Lightsworn
 Raider's Knight
 Raider's Unbreakable Mind
 Raider's Wing
@@ -9449,7 +9741,6 @@ Rainbow Veil
 Raise Body Heat
 Raiza the Mega Monarch
 Raiza the Storm Monarch
-Raizeol Cross
 Rallis the Star Bird
 RAM Clouder
 Rampaging Rhynos
@@ -9473,7 +9764,7 @@ Rank-Up-Magic Skip Force
 Rank-Up-Magic Soul Shave Force
 Rank-Up-Magic Zexal Force
 Ranryu
-"Raphion, the Timelord"
+Raphion, the Timelord
 Rapid Trigger
 Rapid Warrior
 Rapid-Fire Magician
@@ -9490,21 +9781,22 @@ Rasetsu
 Rasterliger
 Ravenous Crocodragon Archethys
 Ravenous Vendread
-"Raviel, Lord of Phantasms"
-"Raviel, Lord of Phantasms - Shimmering Scraper"
+Raviel, Lord of Phantasms
+Raviel, Lord of Phantasms - Shimmering Scraper
 Ray & Temperature
 Ray of Hope
 Razor Lizard
-"Rciela, Sinister Soul of the White Forest"
+Rciela, Sinister Soul of the White Forest
 Re-Cover
 Re-dyce-cle
 Re-Fusion
 Re-qliate
 Re: EX
-"Reactan, Dragon Ruler of Pebbles"
+Reactan, Dragon Ruler of Pebbles
 Reactor Slime
 Ready for Intercepting
 Ready Fusion
+Readying of Rites
 Really Eternal Rest
 Realm Elegy
 Realm Eulogy
@@ -9535,7 +9827,7 @@ Recette de Viande (Meat Recipe)
 Reckless Greed
 Reckoned Power
 Recoded Alive
-"Recon, Scout Fur Hire"
+Recon, Scout Fur Hire
 Recovery Sorcerer
 Recurring Nightmare
 Recycle
@@ -9554,7 +9846,7 @@ Red Familiar
 Red Gadget
 Red Gardna
 Red Hared Hasty Horse
-"Red Lotus King, Flame Crime"
+Red Lotus King, Flame Crime
 Red Medicine
 Red Mirror
 Red Nova
@@ -9591,6 +9883,7 @@ Red-Eyes Fang with Chain
 Red-Eyes Flare Metal Dragon
 Red-Eyes Fusion
 Red-Eyes Insight
+Red-Eyes Metal Claws Dragon
 Red-Eyes Retro Dragon
 Red-Eyes Slash Dragon
 Red-Eyes Soul
@@ -9602,23 +9895,35 @@ Red-Eyes Zombie Dragon
 Red-Eyes Zombie Dragon Lord
 Red-Eyes Zombie Necro Dragon
 Red-Headed Oni
-"Redbeard, the Plunder Patroll Matey"
+Redbeard, the Plunder Patroll Matey
 Redeemable Jar
-"Redox, Dragon Ruler of Boulders"
+Redox, Dragon Ruler of Boulders
 Reed Butterfly
 Reese the Ice Mistress
 Reeshaddoll Wendi
-"Reeze, Whirlwind of Gusto"
+Reeze, Whirlwind of Gusto
 Reflect Bounder
 Reflection of Endymion
 Refrain the Melodious Songstress
 Regenerating Mummy
 Regenerating Rose
 Regenerating Rose Token
+Regenesis
+Regenesis Archfiend
+Regenesis Birth
+Regenesis Code
+Regenesis Commands
+Regenesis Cycle
+Regenesis Demiurge
+Regenesis Dragon
+Regenesis Lord
+Regenesis Sage
+Regenesis Warrior
 Regretful Rebirth
 Regulus
-"Reign-Beaux, Overking of Dark World"
-"Reign-Beaux, Overlord of Dark World"
+Regulus the Fairy Beast
+Reign-Beaux, Overking of Dark World
+Reign-Beaux, Overlord of Dark World
 Reincarnation of the Seventh Emperors
 Reincarnation Unveiling Mail
 Reinforce Truth
@@ -9636,7 +9941,7 @@ Release Brainwashing
 Release from Stone
 Release Restraint
 Release Restraint Wave
-"Release, Reverse, Burst"
+Release, Reverse, Burst
 Relieve Monster
 Relinkuriboh
 Relinquished
@@ -9649,8 +9954,9 @@ Remote Revenge
 Remove Brainwashing
 Remove Trap
 Renewal of the World
-"Renge, Gatekeeper of Dark World"
+Renge, Gatekeeper of Dark World
 Repair Genex Controller
+Replicard LAD
 Reprodocus
 Reptia Egg
 Reptilianne Coatl
@@ -9707,12 +10013,13 @@ Restructer Revolution
 Resurgam Xyz
 Resurrection of Chakra
 Ret-time Reviver Emit-ter
-"Retaliating ""C"""
+Retaliating "C"
 Retort
 Return
 Return from the Different Dimension
 Return of the Doomed
 Return of the Dragon Lords
+Return of the Duelist
 Return of the Monarchs
 Return of the Red-Eyes
 Return of the Six Samurai
@@ -9748,7 +10055,7 @@ Revived King Ha Des
 Revoke Fusion
 Revolution Synchron
 Revolving Switchyard
-"Rex, Freight Fur Hire"
+Rex, Freight Fur Hire
 RGB Rainbowlution
 Rhaimundos of the Red Sword
 Rhinotaurus
@@ -9768,15 +10075,16 @@ Rikka Princess
 Rikka Queen Strenna
 Rikka Sheet
 Rikka Tranquility
-"Rilliona, the Magistus of Verre"
-"Rilliona, the Wondrous Magistus Witch Wardrobe"
+Rilliona, the Magistus of Verre
+Rilliona, the Wondrous Magistus Witch Wardrobe
 Rindbrumm the Striking Dragon
 Ring Announcer
 Ring of Defense
 Ring of Destruction
 Ring of Magnetism
-"Ringowurm, the Dragon Guarding the Hundred Apples"
-"Rinyan, Lightsworn Rogue"
+Ringowurm, the Dragon Guarding the Hundred Apples
+Rinyan, Lightsworn Rogue
+Ripple Bird
 Riryoku
 Riryoku Field
 Riryoku Guardian
@@ -9869,7 +10177,7 @@ Rookie Warrior Lady
 Room for Growth
 Root Water
 Rope of Life
-"Rosaria, the Stately Fallen Angel"
+Rosaria, the Stately Fallen Angel
 Rose Archer
 Rose Bell of Revelation
 Rose Bud
@@ -9884,7 +10192,7 @@ Rose Spectre of Dunn
 Rose Tentacles
 Rose Token
 Rose Witch
-"Rose, Warrior of Revenge"
+Rose, Warrior of Revenge
 Roulette Barrel
 Roulette Spider
 Roxrose Dragon
@@ -9907,16 +10215,16 @@ Royal Surrender
 Royal Swamp Eel
 Royal Tribute
 Royal Writ of Taxation
-"Rubic, Malebranche of the Burning Abyss"
-"Rubysapphirus, the Adamant Jewel"
+Rubic, Malebranche of the Burning Abyss
+Rubysapphirus, the Adamant Jewel
 Rucia of the White Forest
 Ruddy Rose Dragon
 Ruddy Rose Witch
 Rude Kaiser
 Ruffian Railcar
-"Ruin, Angel of Oblivion"
-"Ruin, Queen of Oblivion"
-"Ruin, Supreme Queen of Oblivion"
+Ruin, Angel of Oblivion
+Ruin, Queen of Oblivion
+Ruin, Supreme Queen of Oblivion
 Ruins of the Divine Dragon Lords
 Runaway Karakuri
 Rune-Eyes Pendulum Dragon
@@ -9934,11 +10242,12 @@ Rush Recklessly
 Rush Warrior
 Ruthless Denial
 Ruthless Means
-"Ryko, Lightsworn Hunter"
-"Ryko, Twilightsworn Fighter"
+Ryko, Lightsworn Hunter
+Ryko, Twilightsworn Fighter
 Ryu Kokki
 Ryu Okami
 Ryu Senshi
+Ryu-Ge End
 Ryu-Ge Realm - Dino Domains
 Ryu-Ge Realm - Sea Spires
 Ryu-Ge Realm - Wyrm Winds
@@ -9952,6 +10261,7 @@ Ryu-Ran
 Ryzeal Cross
 Ryzeal Detonator
 Ryzeal Duo Drive
+Ryzeal Mass Driver
 Ryzeal Plasma Hole
 Ryzeal Plugin
 S-Force Bridgehead
@@ -9970,6 +10280,7 @@ S-Force Retroactive
 S-Force Showdown
 S-Force Specimen
 S:P Little Knight
+SA.I.dekick
 Saambell the Star Bonder
 Saambell the Summoner
 Sabatiel - The Philosopher's Stone
@@ -9990,13 +10301,13 @@ Sacred Scrolls of the Gizmek Legend
 Sacred Serpent's Wake
 Sacred Spirit of the Ice Barrier
 Sacred Sword of Seven Stars
-"Sacred Tree Beast, Hyperyton"
+Sacred Tree Beast, Hyperyton
 Sacrifice Level-Up
-"Sadion, the Timelord"
+Sadion, the Timelord
 Safe Zone
-"Saffira, Divine Dragon of the Voiceless Voice"
-"Saffira, Dragon Queen of the Voiceless Voice"
-"Saffira, Queen of Dragons"
+Saffira, Divine Dragon of the Voiceless Voice
+Saffira, Dragon Queen of the Voiceless Voice
+Saffira, Queen of Dragons
 Saga of the Dragon Emperor
 Sage of Benevolence - Ciela
 Sage of Silence
@@ -10006,14 +10317,17 @@ Sage of Wisdom - Himmel
 Sage with Eyes of Blue
 Sage's Stone
 Saggi the Dark Clown
-"Sagitta, Maverick Fur Hire"
+Sagitta, Maverick Fur Hire
+Saiba the Fighting Swordsmith
+Saint Azamina
 Saion the Vaylantz Archer
 Sakitama
+Sakra Vendirage
 Sakuretsu Armor
 Salamandra
 Salamandra Fusion
 Salamandra with Chain
-"Salamandra, the Flying Flame Dragon"
+Salamandra, the Flying Flame Dragon
 Salamangreat Almiraj
 Salamangreat Balelynx
 Salamangreat Beat Bison
@@ -10065,17 +10379,18 @@ Samsara D Lotus
 Samsara Dragon
 Samsara Kaiser
 Samsara Lotus
-"Samsara, Dragon of Rebirth"
+Samsara, Dragon of Rebirth
 Samurai Cavalry of Reptier
 Samurai Destroyer
 Samurai of the Ice Barrier
 Samurai Skull
 Samurai Sword Baron
+Sanaki the Mikanko Devotee
 Sanctity of Dragon
 Sand Gambler
 Sand Moth
 Sand Stone
-"Sandaion, the Timelord"
+Sandaion, the Timelord
 Sanga of the Thunder
 Sangan
 Sangen Furo
@@ -10113,8 +10428,8 @@ Satellite Cannon
 Satellite Synchron
 Satellite Warrior
 Sauge de Fleur
-"Sauravis, Dragon Sage of the Voiceless Voice"
-"Sauravis, the Ancient and Ascended"
+Sauravis, Dragon Sage of the Voiceless Voice
+Sauravis, the Ancient and Ascended
 Sauropod Brachion
 Savage Colosseum
 Scanner
@@ -10137,8 +10452,8 @@ Scareclaw Tri-Heart
 Scareclaw Twinsaw
 Scarlet Security
 Scarlight Red Dragon Archfiend
-"Scarm, Malebranche of the Burning Abyss"
-"Scarr, Scout of Dark World"
+Scarm, Malebranche of the Burning Abyss
+Scarr, Scout of Dark World
 Scarred Dragon Archfiend
 Scarred Warrior
 Scary Moth
@@ -10174,7 +10489,9 @@ Scrap Searcher
 Scrap Shark
 Scrap Sheen
 Scrap Soldier
+Scrap Synchron
 Scrap Twin Dragon
+Scrap Warrior
 Scrap Worm
 Scrap Wyvern
 Scrap-Iron Sacred Statue
@@ -10203,7 +10520,7 @@ Sea Stealth Attack
 Sea Stealth II
 Seal of the Ancients
 Seal of Wickedness
-"Seal, Strategist Fur Hire"
+Seal, Strategist Fur Hire
 Sealing Ceremony of Katon
 Sealing Ceremony of Mokuton
 Sealing Ceremony of Raiton
@@ -10234,6 +10551,7 @@ Secret Six Samurai - Rihan
 Secret Skills of the Six Samurai
 Secret Stash Slipshod Squirrel
 Secret Village of the Spellcasters
+Secreterion Dragon
 Secrets of Dark Magic
 Secrets of the Gallant
 Sectarian of Secrets
@@ -10253,7 +10571,7 @@ Seismic Shockwave
 Seiyaryu
 Sekka's Light
 Seleglare the Luminous Lunar Dragon
-"Selene, Queen of the Master Magicians"
+Selene, Queen of the Master Magicians
 Selettrice Vaalmonica
 Self-Destruct Ant
 Self-Destruct Button
@@ -10269,9 +10587,11 @@ Sentence of Doom
 Sentinel of the Seas
 Sentinel of the Tistina
 Sentry Soldier of Stone
-"Sephylon, the Ultimate Timelord"
+Sephylon, the Ultimate Timelord
 Seraphim Papillion
 Serenade the Melodious Diva
+Serene Psychic Girl
+Serene Psychic Sorceress
 Serene Psychic Witch
 Sergeant Electro
 Serial Spell
@@ -10283,11 +10603,12 @@ Servant of Catabolism
 Servant of Endymion
 Servants of the Fallen King
 Service Puppet Play
-"Serziel, Watcher of the Evil Eye"
+Serziel, Watcher of the Evil Eye
 Set Rotation
 Setting Sun
 Setuppercut
 Seven Cities of the Golden Land
+Seven Stars Slash - Army Annihilator Hagun
 Seven Swords Warrior
 Seven Tools of the Bandit
 Seventh Ascension
@@ -10314,6 +10635,7 @@ Shadow Impulse
 Shadow of Eyes
 Shadow of the Six Samurai - Shien
 Shadow Reborn
+Shadow Severing Strike
 Shadow Specter
 Shadow Spell
 Shadow Tamer
@@ -10325,7 +10647,7 @@ Shadow's Light
 Shadowknight Archfiend
 Shadowpriestess of Ohm
 Shadowslayer
-"Shafu, the Wheeled Mayakashi"
+Shafu, the Wheeled Mayakashi
 Shaman of the Ashened City
 Shaman of the Tenyi
 Shamisen Samsara Sorrowcat
@@ -10364,10 +10686,10 @@ Shien's Scheme
 Shien's Smoke Signal
 Shien's Spy
 Shien's Squire
-"Shif, Fairy of the Ghoti"
+Shif, Fairy of the Ghoti
 Shift
 Shifting Shadows
-"Shinato, King of a Higher Plane"
+Shinato, King of a Higher Plane
 Shinato's Ark
 Shine Knight
 Shine Palace
@@ -10395,8 +10717,9 @@ Shinobird Salvation
 Shinobird Token
 Shinobird's Calling
 Shinonome the Vaylantz Priestess
-"Shiny Black ""C"""
-"Shiny Black ""C"" Squadder"
+Shiny Black "C"
+Shiny Black "C" Squadder
+Shipping Error
 Shiranui Samurai
 Shiranui Samuraisaga
 Shiranui Shogunsaga
@@ -10416,7 +10739,7 @@ Shiranui Style Synthesis
 Shiranui Sunsaga
 Shiranui Swordmaster
 Shiranui Swordsaga
-"Shire, Lightsworn Spirit"
+Shire, Lightsworn Spirit
 Shock Surprise
 Shock Troops of the Ice Barrier
 Shocktopus
@@ -10440,7 +10763,7 @@ Shrine of Mist Valley
 Shrink
 Shuffle Reborn
 Shura the Combat Star
-"Shurit, Strategist of the Nekroz"
+Shurit, Strategist of the Nekroz
 Shutendoji
 Shuttleroid
 Side Effects?
@@ -10457,6 +10780,7 @@ Silent Magician LV4
 Silent Magician LV8
 Silent Magician Zero
 Silent Paladin
+Silent Psychic Magician
 Silent Psychic Wizard
 Silent Sea Nettle
 Silent Strider
@@ -10470,7 +10794,7 @@ Silent Wobby
 Silent Wolf Calupo
 Silhouhatte Rabbit
 Silhouhatte Trick
-"Sillva, Warlord of Dark World"
+Sillva, Warlord of Dark World
 Silpheed
 Silver Bow and Arrow
 Silver Fang
@@ -10478,7 +10802,7 @@ Silver Gadget
 Silver Sentinel
 Silver Wing
 Silver's Cry
-"Silvera, Wolf Tamer of the White Forest"
+Silvera, Wolf Tamer of the White Forest
 Silverrokket Dragon
 Silvervine Senri
 Silvy of the White Forest
@@ -10487,15 +10811,15 @@ Simorgh of Darkness
 Simorgh Onslaught
 Simorgh Repulsion
 Simorgh Sky Battle
-"Simorgh, Bird of Ancestry"
-"Simorgh, Bird of Beginning"
-"Simorgh, Bird of Bringing"
-"Simorgh, Bird of Calamity"
-"Simorgh, Bird of Divinity"
-"Simorgh, Bird of Perfection"
-"Simorgh, Bird of Protection"
-"Simorgh, Bird of Sovereignty"
-"Simorgh, Lord of the Storm"
+Simorgh, Bird of Ancestry
+Simorgh, Bird of Beginning
+Simorgh, Bird of Bringing
+Simorgh, Bird of Calamity
+Simorgh, Bird of Divinity
+Simorgh, Bird of Perfection
+Simorgh, Bird of Protection
+Simorgh, Bird of Sovereignty
+Simorgh, Lord of the Storm
 Simul Archfiends
 Simultaneous Equation Cannons
 Simultaneous Loss
@@ -10505,6 +10829,7 @@ Sinful Spoils of Doom - Rciela
 Sinful Spoils of Slumber - Morrian
 Sinful Spoils of Subversion - Snake-Eye
 Sinful Spoils of the White Forest
+Sinful Spoils Sanctification
 Sinful Spoils Struggle
 Sinful Spoils Subdual
 Single Purchase
@@ -10521,7 +10846,7 @@ Sishunder
 Six Samurai United
 Six Scrolls of the Samurai
 Six Strike - Double Assault
-Six Strike - Legendary Lord's Sextuple Impact
+Six Strike - Sextuple Barrage
 Six Strike - Thunder Blast
 Six Strike - Triple Impact
 Six Style - Dual Wield
@@ -10545,7 +10870,7 @@ Skull Dice
 Skull Dog Marron
 Skull Flame
 Skull Guardian
-"Skull Guardian, Protector of the Voiceless Voice"
+Skull Guardian, Protector of the Voiceless Voice
 Skull Invitation
 Skull Knight
 Skull Knight #2
@@ -10578,6 +10903,7 @@ Sky Striker Ace - Raye
 Sky Striker Ace - Roze
 Sky Striker Ace - Shizuku
 Sky Striker Ace - Zeke
+Sky Striker Ace = Zero
 Sky Striker Ace Token
 Sky Striker Airspace - Area Zero
 Sky Striker Maneuver - Afterburners!
@@ -10592,6 +10918,7 @@ Sky Striker Mecha Modules - Multirole
 Sky Striker Mecharmory - Hercules Base
 Sky Striker Mobilize - Engage!
 Sky Striker Mobilize - Linkage!
+Sky Striker Special Maneuver - Lemnisgate!
 Skyblaster Token
 Skydive Scorcher
 Skypalace Gangaridai
@@ -10630,17 +10957,18 @@ Snake Whistle
 Snake-Eye Ash
 Snake-Eye Birch
 Snake-Eye Oak
-Snake-Eyes Damned Dragon
 Snake-Eyes Diabellstar
+Snake-Eyes Doomed Dragon
 Snake-Eyes Flamberge Dragon
 Snake-Eyes Poplar
+Snake-Eyes Vengeance Dragon
 Snakeyashi
 Snapdragon
 Snatch Steal
-"Sneaky ""C"""
+Sneaky "C"
 Sniffer Dragon
 Snipe Hunter
-"Snopios, Shade of the Ghoti"
+Snopios, Shade of the Ghoti
 Snow Dragon
 Snow Plow Hustle Rustle
 Snowdrop the Rikka Fairy
@@ -10649,7 +10977,7 @@ Snowdust Giant
 Snowman Creator
 Snowman Eater
 Snowman Effect
-"Snoww, Unlight of Dark World"
+Snoww, Unlight of Dark World
 Snyffus
 Soaring Eagle Above the Searing Land
 Sogen
@@ -10669,9 +10997,12 @@ Solemn Warning
 Solemn Wishes
 Solfachord Elegance
 Solfachord Formal
+Solfachord Happiness
 Solfachord Harmonia
 Solfachord Musica
+Solfachord Primoria
 Solfachord Scale
+Solfachord Solfeggia
 Solfachord Symphony
 Solidarity
 Solitaire Magician
@@ -10682,6 +11013,7 @@ Solomon's Lawbook
 SolSolfachord Gracia
 Some Summer Summoner
 Sonata the Melodious Diva
+Songs of the Dominators
 Sonic Bird
 Sonic Boom
 Sonic Chick
@@ -10692,7 +11024,7 @@ Sonic Shooter
 Sonic Stun
 Sonic Tracker
 Sonic Warrior
-"Sophia, Goddess of Rebirth"
+Sophia, Goddess of Rebirth
 Soprano the Melodious Songstress
 Sorcerer of Dark Magic
 Sorcerer of Sebek
@@ -10714,6 +11046,7 @@ Soul Fist
 Soul Hunter
 Soul Levy
 Soul of Fire
+Soul of Gaia the Fierce Knight
 Soul of Purity and Light
 Soul of Silvermountain
 Soul of the Pure
@@ -10736,6 +11069,7 @@ Soul Unseal
 Soul-Absorbing Bone Tower
 Souleater
 Souleating Oviraptor
+Soulicer Crystal
 Souls of the Forgotten
 Sound the Retreat!
 Soundproofed
@@ -10762,6 +11096,7 @@ Spearhead of the Ashened City
 Special Hurricane
 Special Schedule
 Specimen Inspection
+Spectral, Dragon Ruler of Flickers
 Speed Bird
 Speed Recovery
 Speed Warrior
@@ -10769,8 +11104,8 @@ Speedburst Dragon
 Speedlift
 Speedroid Block-n-Roll
 Speedroid CarTurbo
-Speedroid Clackernel
-Speedroid Clear Wing Wander
+Speedroid Clear Wing Wonder
+Speedroid Colonel Clackers
 Speedroid Den-Den Daiko Duke
 Speedroid Dominobutterfly
 Speedroid Double Yoyo
@@ -10799,8 +11134,8 @@ Speedroid Wing Synchron
 Spell Absorption
 Spell Calling
 Spell Canceller
-"Spell Card ""Monster Reborn"""
-"Spell Card ""Soul Exchange"""
+Spell Card "Monster Reborn"
+Spell Card "Soul Exchange"
 Spell Chronicle
 Spell Economics
 Spell Gear
@@ -10870,10 +11205,10 @@ Spirit Converter
 Spirit Elimination
 Spirit Force
 Spirit Illusion
-"Spirit Message ""A"""
-"Spirit Message ""I"""
-"Spirit Message ""L"""
-"Spirit Message ""N"""
+Spirit Message "A"
+Spirit Message "I"
+Spirit Message "L"
+Spirit Message "N"
 Spirit of Flames
 Spirit of the Books
 Spirit of the Breeze
@@ -10885,6 +11220,7 @@ Spirit of the Pot of Greed
 Spirit of the Six Samurai
 Spirit of the Winds
 Spirit of Yubel
+Spirit Poacher
 Spirit Reaper
 Spirit Ryu
 Spirit Sculptor
@@ -10915,8 +11251,9 @@ Splendid Venus
 Split Mirror of the Underworld
 Splitting Planarian
 Spool Code
-"Spoon, the Seal of Magistus"
+Spoon, the Seal of Magistus
 Spore
+Spore the Fairy Seed
 Spright Blue
 Spright Carrot
 Spright Double Cross
@@ -10929,6 +11266,7 @@ Spright Smashers
 Spright Sprind
 Spright Starter
 Sprind the Irondash Dragon
+Spring
 Spring of Rebirth
 Springans Blast!
 Springans Booty
@@ -10966,7 +11304,6 @@ SPYRAL Tough
 Squeaknight
 Squib Draw
 Squirt Squid
-St. Azamina
 St. Joan
 Stack Reviver
 Stained Glass of Light & Dark
@@ -10983,10 +11320,11 @@ Star Boy
 Star Changer
 Star Drawing
 Star Eater
-"Star Light, Star Bright"
+Star Light, Star Bright
 Star Mine
 Star Pendulumgraph
 Star Power!!
+Star Ryzeal
 Star Seraph Sage
 Star Seraph Scale
 Star Seraph Scepter
@@ -11037,9 +11375,10 @@ Starry Knight Flamel
 Starry Knight Orbitael
 Starry Knight Rayel
 Starry Knight Sky
-"Starry Night, Starry Dragon"
+Starry Night, Starry Dragon
 Stars Align Above the Shrine
 Stars Align across the Milky Way
+Starship Adjust Plane
 Starship Spy Plane
 Startling Stare of the Snake-Eyes
 Starving Venemy Dragon
@@ -11058,6 +11397,7 @@ Steam Knight - BULLauncher
 Steam Knight - Hamburk
 Steam Synchron
 Steam Token
+Steamed Sabersaurus
 Steamroid
 Steel Cavalry of Dinon
 Steel Ogre Grotto #1
@@ -11065,6 +11405,7 @@ Steel Ogre Grotto #2
 Steel Scorpion
 Steel Shell
 Steel Star Regulator
+Steel-Stringed Sacrifice
 Steelswarm Caller
 Steelswarm Caucastag
 Steelswarm Cell
@@ -11090,6 +11431,7 @@ Stellarknight Zefraxciton
 Stellarnova Alpha
 Stellarnova Wave
 Stim-Pack
+Stinger the Electric Expeller
 Stinging Swordsman
 Stoic Challenge
 Stoic of Prophecy
@@ -11115,7 +11457,7 @@ Strategist of the Ice Barrier
 Stray Asmodian
 Stray Lambs
 Stray Purrely Street
-"Stream, Dragon Ruler of Droplets"
+Stream, Dragon Ruler of Droplets
 Strength in Unity
 Strength of Prophecy
 Strike Ninja
@@ -11133,7 +11475,7 @@ Stygian Dirge
 Stygian Security
 Stygian Sergeants
 Stygian Street Patrol
-"Suanni, Fire of the Yang Zing"
+Suanni, Fire of the Yang Zing
 Sublimation Knight
 Submareed Tour Ride
 Submarine Frog
@@ -11163,6 +11505,7 @@ Success Probability 0%
 Successor Soul
 Succubus Knight
 Succumbing-Song Morganite
+Sudden Thunder Swamp
 Suijin
 Summer Schoolwork Successful!
 Summon Breaker
@@ -11204,11 +11547,11 @@ Sunvine Shrine
 Sunvine Sowing
 Sunvine Thrasher
 Supay
-"Supay, Duskwalker"
+Supay, Duskwalker
 Super All In!
 Super Anti-Kaiju War Machine Mecha-Dogoran
 Super Anti-Kaiju War Machine Mecha-Thunder-King
-"Super Armored Robot Armed Black Iron ""C"""
+Super Armored Robot Armed Black Iron "C"
 Super Conductor Tyranno
 Super Crashbug
 Super Defense Robot Elephan
@@ -11223,6 +11566,7 @@ Super Polymerization
 Super Quantal Alphan Spike
 Super Quantal Alphancall Appeal
 Super Quantal Fairy Alphan
+Super Quantal Fairy Zetan
 Super Quantal Mech Beast Aeroboros
 Super Quantal Mech Beast Grampulse
 Super Quantal Mech Beast Lusterrex
@@ -11231,6 +11575,7 @@ Super Quantal Mech King Great Magnus
 Super Quantal Mech Ship Magnacarrier
 Super Quantal Mech Sword - Magnaslayer
 Super Quantal Union - Magnaformation
+Super Quantum Black Layer
 Super Quantum Blue Layer
 Super Quantum Green Layer
 Super Quantum Red Layer
@@ -11313,6 +11658,7 @@ Supermagic Sword of Raptinus
 Supernatural Danger Zone
 Supernatural Regeneration
 Supersoaring
+Supersonic Chick
 Supersonic Skull Flame
 Supervise
 Supply
@@ -11362,7 +11708,7 @@ Swarm of Crows
 Swarm of Locusts
 Swarm of Scarabs
 Sweet Corn
-"Sweet Dreams, Nemleria"
+Sweet Dreams, Nemleria
 Sweet Roommaid
 Swift Birdman Joe
 Swift Gaia the Fierce Knight
@@ -11451,6 +11797,7 @@ Synchro Creed
 Synchro Deflector
 Synchro Dilemma
 Synchro Ejection
+Synchro Fellows
 Synchro Forceback
 Synchro Fusionist
 Synchro Gift
@@ -11522,7 +11869,7 @@ Tainted of the Tistina
 Tainted Wisdom
 Takriminos
 Takuhee
-"Talaya, Princess of Cherry Blossoms"
+Talaya, Princess of Cherry Blossoms
 Tales of the White Forest
 Talisman of Spell Sealing
 Talisman of Trap Sealing
@@ -11535,8 +11882,9 @@ Tanngrisnir of the Nordic Beasts
 Tannhauser Gate
 Tantrum Toddler
 Tao the Chanter
+Taotao the Chanter
 Taotie Dragon
-"Taotie, Shadow of the Yang Zing"
+Taotie, Shadow of the Yang Zing
 Tarai
 Tardy Orc
 Tasuke Knight
@@ -11566,6 +11914,7 @@ Telekinetic Power Well
 Telekinetic Shocker
 Telepathic Power
 Teleport
+Teleport Fusion
 Tellarknight Altairan
 Tellarknight Constellar Caduceus
 Tellarknight Genesis
@@ -11574,20 +11923,20 @@ Tellarknight Ptolemaeus
 Tellus the Little Angel
 Temperance of Prophecy
 Tempest Magician
-"Tempest, Dragon Ruler of Storms"
+Tempest, Dragon Ruler of Storms
 Template Skipper
 Temple of Skulls
 Temple of the Kings
 Temple of the Mind's Eye
 Temple of the Six
 Temple of the Sun
-Tempura of Chance - EBI
+Tempura of Fortune - EBI
 Temtempo the Percussion Djinn
 Ten Thousand Dragon
 Tenacity of the Monarchs
 Tenchi Kaimei
 Tenderness
-"Tengu, the Winged Mayakashi"
+Tengu, the Winged Mayakashi
 Tenkabito Shien
 Tenma the Sky Star
 Tenmataitei
@@ -11595,6 +11944,7 @@ Tenpai Dragon Chundra
 Tenpai Dragon Fadra
 Tenpai Dragon Genroku
 Tenpai Dragon Paidra
+Tensei Ryu-Ge Anva
 Tenshin
 Tentacle Plant
 Tenyi Spirit - Adhara
@@ -11612,7 +11962,7 @@ Terminal World NEXT
 Terra Firma Gravity
 Terra the Terrible
 Terraforming
-"Terratiger, the Empowered Warrior"
+Terratiger, the Empowered Warrior
 Terrene Toothed Tsuchinoko
 Terrible Deal
 Terrifying Toddler of Torment
@@ -11625,13 +11975,14 @@ Terrors in the Hidden City
 Terrors of the Afterroot
 Terrors of the Overroot
 Terrors of the Underroot
+Tessera the Primal Squire
 Test Ape
 Test Bear
 Test Panther
 Test Tiger
 Testament of the Arcane Lords
 Testudo erat Numen
-"Tethys, Goddess of Light"
+Tethys, Goddess of Light
 Teva
 Texchanger
 TG-SX1
@@ -11732,6 +12083,7 @@ The Forgiving Maiden
 The Fountain in the Sky
 The Furious Sea King
 The Gates of Dark World
+The Gaze of Timaeus
 The Gift of Greed
 The Golden Apples
 The Golden Swordsoul
@@ -11772,14 +12124,17 @@ The Legendary Fisherman II
 The Legendary Fisherman III
 The Light - Hex-Sealed Fusion
 The Little Swordsman of Aile
+The Man with the Mark
 The Mask of Remnants
 The Masked Beast
 The Melody of Awakening Dragon
 The Melting Red Shadow
 The Monarchs Awaken
 The Monarchs Erupt
+The Monarchs Masterplan
+The Monarchs Revolt
 The Monarchs Stormforth
-"The Most Distant, Deepest Depths"
+The Most Distant, Deepest Depths
 The Nordic Lights
 The Paths of Destiny
 The Phantom Knights of Ancient Cloak
@@ -11832,6 +12187,7 @@ The Six Samurai - Zanji
 The Six Shinobi
 The Snake Hair
 The Spell Absorbing Life
+THE Star Ham
 The Statue of Easter Island
 The Stern Mystic
 The Suppression Pluto
@@ -11840,6 +12196,7 @@ The Terminus of the Burning Abyss
 The Thing in the Crater
 The Thing That Hides in the Mud
 The Third Sarcophagus
+The Toil of the Normal
 The Transmigration Prophecy
 The Traveler and the Burning Abyss
 The Tricky
@@ -11855,7 +12212,6 @@ The Unhappy Maiden
 The Unstoppable Exodia Incarnate
 The Wandering Doomed
 The Warrior Returning Alive
-The Wave of Light
 The Weather Auroral Canvas
 The Weather Cloudy Canvas
 The Weather Forecast
@@ -11886,16 +12242,18 @@ The World Tree
 The World's Greatest Fisherman
 The Zombie Vampire
 Theban Nightmare
-"Theia, the Primal Being"
+Theia, the Primal Being
 Theinen the Great Sphinx
 Thelematech Clatis
+Theorealize
+Theorealize Overdrive
 There Can Be Only One
-"Therion ""Bull"" Ain"
-"Therion ""Duke"" Yul"
-"Therion ""Empress"" Alasia"
-"Therion ""King"" Regulus"
-"Therion ""Lily"" Borea"
-"Therion ""Reaper"" Fum"
+Therion "Bull" Ain
+Therion "Duke" Yul
+Therion "Empress" Alasia
+Therion "King" Regulus
+Therion "Lily" Borea
+Therion "Reaper" Fum
 Therion Charge
 Therion Cross
 Therion Discolosseum
@@ -11906,7 +12264,7 @@ Thestalos the Firestorm Monarch
 Thestalos the Mega Monarch
 Thestalos the Shadowfire Monarch
 This Creepy Little Punk
-"Thor, Lord of the Aesir"
+Thor, Lord of the Aesir
 Thorn of Malice
 Thought Ruler Archfiend
 Thousand Dragon
@@ -11949,7 +12307,7 @@ Thunder End Dragon
 Thunder Hand
 Thunder Kid
 Thunder King Rai-Oh
-"Thunder King, the Lightningstrike Kaiju"
+Thunder King, the Lightningstrike Kaiju
 Thunder Nyan Nyan
 Thunder of Ruler
 Thunder Option Token
@@ -11960,18 +12318,20 @@ Thunderclap Monk
 Thunderclap Skywolf
 Thunderforce Attack
 Thunderspeed Summon
-"Tidal, Dragon Ruler of Waterfalls"
-"Tierra, Source of Destruction"
+Tidal, Dragon Ruler of Waterfalls
+Tierra, Source of Destruction
 Ties of the Brethren
 Ties That Bind
 Tiger Axe
 Tiger Dragon
 Tiki Curse
+Tiki Peace
 Tiki Soul
 Tilted Try
 Tilting Entrainment
 Timaeus the Knight of Destiny
 Timaeus the United Dragon
+Timaeus the United Magidragon
 Time Dimension Hole
 Time Engine
 Time Escaper
@@ -12021,12 +12381,12 @@ Tindangle Jhrelth
 Tindangle Protector
 Tindangle Token
 Tindangle Trinity
-"Tiras, Keeper of Genesis"
+Tiras, Keeper of Genesis
 TiSolfachord Beautia
-"Tistina, the Divinity that Defies Darkness"
+Tistina, the Divinity that Defies Darkness
 Titaniklad the Ash Dragon
 Titanocider
-"Tlakalel, His Malevolent Majesty"
+Tlakalel, His Malevolent Majesty
 Toad Master
 Toadally Awesome
 Tobari the Sky Ninja
@@ -12101,6 +12461,7 @@ Tour Bus To Forbidden Realms
 Tour Guide From the Underworld
 Tour of Doom
 Tower of Babel
+Toxic Boxfish
 Toy Box
 Toy Knight
 Toy Magician
@@ -12114,9 +12475,10 @@ Tradetoad
 Trading Places
 Traffic Ghost
 Tragedy
+Tragic Twin Threads
 Tragoedia
 Train Connection
-"Training Fur Hire, Fur All Your Training Needs"
+Training Fur Hire, Fur All Your Training Needs
 Trakodon
 Trance Archfiend
 Trance the Magic Swordsman
@@ -12140,11 +12502,13 @@ Trap Eater
 Trap Gatherer
 Trap Hole
 Trap Hole of Spikes
+Trap Holic
 Trap Jammer
 Trap Master
 Trap of Board Eraser
 Trap of Darkness
 Trap of the Imperial Tomb
+Trap of the Poisonous Scorpion
 Trap Reactor Y FI
 Trap Reclamation
 Trap Stun
@@ -12172,6 +12536,7 @@ Traptrix Vesiculo
 Treacherous Trap Hole
 Treasure Map
 Treasure Panda
+Treasures of the Kings
 Treaty on Uniform Nomenclature
 Tree Otter
 Treeborn Frog
@@ -12181,9 +12546,11 @@ Tri-and-Guess
 Tri-Blaze Accelerator
 Tri-Brigade Airborne Assault
 Tri-Brigade Arms Bucephalus II
+Tri-Brigade Arms Mouser
 Tri-Brigade Bearbrumm the Rampant Rampager
 Tri-Brigade Ferrijit the Barren Blossom
 Tri-Brigade Fraktall
+Tri-Brigade Hammer
 Tri-Brigade Kerass
 Tri-Brigade Kitt
 Tri-Brigade Mercourier
@@ -12199,6 +12566,7 @@ Tri-Brigade Stand-Off
 Tri-Edge Levia
 Tri-Edge Master
 Tri-Gate Wizard
+Tri-Headed Behemoth
 Tri-Horned Dragon
 Tri-Wight
 Trial and Tribulation
@@ -12225,7 +12593,6 @@ Tribute Burial
 Tribute Doll
 Tribute to the Doomed
 Trick Box
-Trick or Treat!
 Trickstar Aqua Angel
 Trickstar Band Drumatis
 Trickstar Band Sweet Guitar
@@ -12273,11 +12640,11 @@ Triple Tactics Talent
 Triple Tactics Thrust
 Tripod Fish
 Tripwire Beast
-"Trishula, Dragon of the Ice Barrier"
-"Trishula, the Dragon of Icy Imprisonment"
-"Trishula, Zero Dragon of the Ice Barrier"
+Trishula, Dragon of the Ice Barrier
+Trishula, the Dragon of Icy Imprisonment
+Trishula, Zero Dragon of the Ice Barrier
 Trismagistus
-"Tristan, Knight of the Underworld"
+Tristan, Knight of the Underworld
 Trivikarma
 Trojan Blast
 Trojan Gladiator Beast
@@ -12287,15 +12654,15 @@ Truckroid
 True Draco Apocalypse
 True Draco Heritage
 True Exodia
-"True King Agnimazud, the Vanisher"
-"True King Bahrastos, the Fathomer"
-"True King Lithosagym, the Disaster"
+True King Agnimazud, the Vanisher
+True King Bahrastos, the Fathomer
+True King Lithosagym, the Disaster
 True King of All Calamities
 True King's Return
 True Light
 Trust Guardian
-"Tsuchigumo, the Poisonous Mayakashi"
-"Tsukahagi, the Poisonous Mayakashi"
+Tsuchigumo, the Poisonous Mayakashi
+Tsukahagi, the Poisonous Mayakashi
 Tsukumo Slash
 Tsukuyomi
 Tsumuha-Kutsunagi the Lord of Swords
@@ -12329,11 +12696,12 @@ Turu-Purun
 Tutan Mask
 Twilight Cloth
 Twilight Eraser
-"Twilight Ninja Getsuga, the Shogun"
+Twilight Ninja Getsuga, the Shogun
 Twilight Ninja Jogen
 Twilight Ninja Kagen
-"Twilight Ninja Nichirin, the Chunin"
+Twilight Ninja Nichirin, the Chunin
 Twilight Ninja Shingetsu
+Twilight Rose Black Knight
 Twilight Rose Knight
 Twilight Twin Dragons
 Twin Long Rods #1
@@ -12351,7 +12719,6 @@ Twin-Headed Wolf
 Twin-Shield Defender
 Twin-Sword Marauder
 Twinheaded Beast
-Twins of the Eclipse
 Twisted Personality
 Twister
 Two Thousand Needles
@@ -12380,7 +12747,7 @@ Tyrant's Temper
 Tyrant's Throes
 Tyrant's Tirade
 Tyrant's Tummyache
-"Tytannial, Princess of Camellias"
+Tytannial, Princess of Camellias
 U.A. Blockbacker
 U.A. Dreadnought Dunker
 U.A. Goalkeeper
@@ -12403,6 +12770,8 @@ UFO Turtle
 UFOLight
 UFOroid
 UFOroid Fighter
+Ukanomitsune-no-Onari
+Ukanomitsune-no-Tamayura
 Ukiyoe-P.U.N.K. Amazing Dragon
 Ukiyoe-P.U.N.K. Rising Carp
 Ukiyoe-P.U.N.K. Sharakusai
@@ -12454,6 +12823,7 @@ Unacceptable Result
 Unauthorized Bootup Device
 Unauthorized Reactivation
 Unbreakable Spirit
+Unbreakable Xyz Barrier
 Unchained Abomination
 Unchained Soul Lord of Yama
 Unchained Soul of Anguish
@@ -12485,7 +12855,7 @@ Unicycular
 Unification
 Unification of the Cubic Lords
 Unified Front
-"Uniflora, Mystical Beast of the Forest"
+Uniflora, Mystical Beast of the Forest
 Unifrog
 Union Activation
 Union Attack
@@ -12522,7 +12892,7 @@ Urgent Ritual Art
 Urgent Schedule
 Urgent Synthesis
 Urgent Tuning
-"Uria, Lord of Searing Flames"
+Uria, Lord of Searing Flames
 Ursarctic Big Dipper
 Ursarctic Departure
 Ursarctic Drytron
@@ -12539,13 +12909,14 @@ Ursarctic Quint Charge
 Ursarctic Radiation
 Ursarctic Septentrion
 Ursarctic Slider
-"Urubonus, the Avatar of Malice"
+Urubonus, the Avatar of Malice
 Ushi Oni
 Utchatzimime Token
-"Utgarda, Generaider Boss of Delusion"
+Utgarda, Generaider Boss of Delusion
 Utopia Buster
 Utopian Aura
 Utopic Onomatopoeia
+Uzuhime the Manifested Mikanko
 V Salamander
 V-LAN Hydra
 V-LAN Token
@@ -12559,14 +12930,14 @@ Vaalmonica Intonare
 Vaalmonica Invitare
 Vaalmonica Scelta
 Vaalmonica Versare
-"Vaalmonica, the Agathokakological Voice"
+Vaalmonica, the Agathokakological Voice
 Vagnawa the Moon-Eating Dragon
 Vague Shadow Token
-"Vahram, the Magistus Divinity Dragon"
+Vahram, the Magistus Divinity Dragon
 Vain Betrayer
-"Vala, Seidhr of the Generaider Bosses"
-"Valerifawn, Mystical Beast of the Forest"
-"Valhalla, Hall of the Fallen"
+Vala, Seidhr of the Generaider Bosses
+Valerifawn, Mystical Beast of the Forest
+Valhalla, Hall of the Fallen
 Valiant Shark Lancer
 Valkyrian Knight
 Valkyrie Brunhilde
@@ -12582,6 +12953,7 @@ Valkyrie Vierte
 Valkyrie Zweite
 Valkyrie's Embrace
 Valkyrion the Magna Warrior
+Vallon, the Super Psy Skyblaster
 Vampire Awakening
 Vampire Baby
 Vampire Domination
@@ -12626,17 +12998,21 @@ Vanquish Soul Calamity Caesar
 Vanquish Soul Dr. Mad Love
 Vanquish Soul Dust Devil
 Vanquish Soul Heavy Borger
+Vanquish Soul Hollie Sue
 Vanquish Soul Jiaolong
 Vanquish Soul Pantera
 Vanquish Soul Pluton HG
 Vanquish Soul Razen
+Vanquish Soul Rocks
 Vanquish Soul Snow Devil
 Vanquish Soul Trinity Burst
+Vanquish Soul, Start!
 Vanquishing Light
-"Varar, Vaalmonican Concord"
+Varar, Vaalmonican Concord
+VARefar the Kick Deity
 Variable Form
 Variety Comes Out
-"Varudras, the Final Bringer of the End Times"
+Varudras, the Final Bringer of the End Times
 Vassal Token
 Vaylantz Buster Baron
 Vaylantz Dominator Duke
@@ -12648,7 +13024,7 @@ Vaylantz Wars - The Place of Beginning
 Vaylantz Wave - Master Phase
 Vaylantz World - Konig Wissen
 Vaylantz World - Shinra Bansho
-"Vector Pendulum, the Dracoverlord"
+Vector Pendulum, the Dracoverlord
 Vector Scare Archfiend
 Veda Kalanta
 Veda Kalarcanum
@@ -12656,6 +13032,7 @@ Vehicroid Connection Zone
 Veidos the Dragon of Endless Darkness
 Veidos the Eruption Dragon of Extinction
 Veil of Darkness
+Veiss Shark
 Vendread Anima
 Vendread Battlelord
 Vendread Charge
@@ -12676,7 +13053,7 @@ Vengeful Servant
 Vengeful Shinobi
 Vennominaga the Deity of Poisonous Snakes
 Vennominon the King of Poisonous Snakes
-"Vennu, Bright Bird of Divinity"
+Vennu, Bright Bird of Divinity
 Venom Boa
 Venom Burn
 Venom Cobra
@@ -12684,9 +13061,10 @@ Venom Serpent
 Venom Shot
 Venom Snake
 Venom Swamp
-"Ventdra, the Empowered Warrior"
+Ventdra, the Empowered Warrior
 Vera the Vernusylph Goddess
 Verdant Sanctuary
+Verdict of Anubis
 Vermillion Dragon Mech
 Vermillion Sparrow
 Vernusylph and the Changing Season
@@ -12709,7 +13087,7 @@ Vice Dragon
 Vicious Astraloud
 Vicious Claw
 Victoria
-"Victorica, Angel of Bravery"
+Victorica, Angel of Bravery
 Victory Dragon
 Victory of the Shadow Riders
 Victory Viper XX03
@@ -12717,13 +13095,15 @@ Vijam the Cubic Seed
 Vile Germs
 Vilepawn Archfiend
 Vindikite R-Genex
+Vingolf's Blessing
+Violence Witch
 Violent Rain
 Violet Crystal
 Violet Witch
 Viper's Grudge
 Viper's Rebirth
 Viral Infection
-"Virgil, Rock Star of the Burning Abyss"
+Virgil, Rock Star of the Burning Abyss
 Virtual World Beast - Jiujiu
 Virtual World City - Kauwloon
 Virtual World Dragon - Longlong
@@ -12797,7 +13177,7 @@ Volcanic Scattershot
 Volcanic Shell
 Volcanic Slicer
 Volcanic Trooper
-"Voloferniges, the Darkest Dragon Doomrider"
+Voloferniges, the Darkest Dragon Doomrider
 Voltanis the Adjudicator
 Voltester
 Voltic Bicorn
@@ -12807,10 +13187,11 @@ Vortex the Whirlwind
 Vortex Trooper
 Vorticular Drumgon
 Votis
-"Vouiburial, the Dragon Undertaker"
+Vouiburial, the Dragon Undertaker
 Vulcan Dragni the Cubic King
 Vulcan the Divine
-"Vulmina, Statue of the Sacred Dragon"
+Vulcarrion the Rotting Phoenix
+Vulmina, Statue of the Sacred Dragon
 VW-Tiger Catapult
 VWXYZ-Dragon Catapult Cannon
 Vylon Alpha
@@ -12843,6 +13224,8 @@ W Nebula Meteorite
 W-Wing Catapult
 Waboku
 Wailing of the Unchained Souls
+WAKE CUP! Macchi
+WAKE CUP! Mocha
 Wake Up Centur-Ion!
 Wake Up Your Elemental HERO
 Waking the Dragon
@@ -12945,11 +13328,11 @@ Weathering Soldier
 Wedju Temple
 Wee Witch's Apprentice
 Weed Out
-"Ween, the Spirit of Treats"
+Ween, the Spirit of Treats
 Weeping Idol
 Weighbridge
 Weights & Zenmaisures
-"Weiss, Lightsworn Archfiend"
+Weiss, Lightsworn Archfiend
 Welcome Labrynth
 Welcome to the Jungle
 Wetha
@@ -12996,17 +13379,19 @@ White Tiger Summoner
 White Veil
 White Wing Magician
 White-Horned Dragon
-"Whitebeard, the Plunder Patroll Helm"
+Whitebeard, the Plunder Patroll Helm
 Whitefish Salvage
 Wicked Acolyte Chilam Sabak
 Wicked Dragon with the Ersatz Head
 Wicked Plant Token
 Wicked Rebirth
+Wicked Serpent Night Dragon
 Wicked Token
 Wicked-Breaking Flamberge - Baou
 Widespread Dud
 Widespread Ruin
 Widget Kid
+Wight Reanimator
 Wightbaking
 Wightlord
 Wightmare
@@ -13040,10 +13425,11 @@ Wind-Up Warrior
 Wind-Up Zenmaines
 Wind-Up Zenmaintenance
 Wind-Up Zenmaister
-"Winda, Priestess of Gusto"
-"Windaar, Sage of Gusto"
+Winda, Priestess of Gusto
+Windaar, Sage of Gusto
 Windmill Genex
 Windrose the Elemental Lord
+WINDS OF VICTORY
 Winds Over the Ice Barrier
 Windstorm of Etaqua
 Windwitch - Blizzard Bell
@@ -13059,8 +13445,8 @@ Wing Eagle
 Wing Egg Elf
 Wing Requital
 Winged Cleaver
-"Winged Dragon, Guardian of the Fortress #1"
-"Winged Dragon, Guardian of the Fortress #2"
+Winged Dragon, Guardian of the Fortress #1
+Winged Dragon, Guardian of the Fortress #2
 Winged Egg of New Life
 Winged Kuriboh
 Winged Kuriboh LV10
@@ -13082,6 +13468,7 @@ Witch Doctor of Chaos
 Witch Doctor of Sparta
 Witch of the Black Forest
 Witch of the Black Rose
+Witch of the White Forest
 Witch's Apprentice
 Witch's Strike
 Witchcrafter Bystreet
@@ -13104,20 +13491,21 @@ Witchcrafter Scroll
 Witchcrafter Unveiling
 Witchcrafter Vice-Madame
 Witty Phantom
-"Wiz, Sage Fur Hire"
+Wiz, Sage Fur Hire
+Wizard @Ignister
 Wizard Buster Destruction Sword
 Wodan the Resident of the Forest
 Woes of the White Forest
 Wolf
 Wolf Axwielder
 Wolf in Sheep's Clothing
-"Wollow, Founder of the Drudge Dragons"
+Wollow, Founder of the Drudge Dragons
 Wonder Balloons
 Wonder Clover
 Wonder Garage
 Wonder Wand
 Wonder Xyz
-"Wonko, Noble Knight of the Forest"
+Wonko, Noble Knight of the Forest
 Wonky Quartet
 Wood Clown
 Wood Remains
@@ -13129,14 +13517,14 @@ World Chalice Guardragon
 World Chalice Guardragon Almarduke
 World Dino Wrestling
 World Gears of Theurlogical Demiurgy
-"World Legacy - ""World Ark"""
-"World Legacy - ""World Armor"""
-"World Legacy - ""World Chalice"""
-"World Legacy - ""World Crown"""
-"World Legacy - ""World Key"""
-"World Legacy - ""World Lance"""
-"World Legacy - ""World Shield"""
-"World Legacy - ""World Wand"""
+World Legacy - "World Ark"
+World Legacy - "World Armor"
+World Legacy - "World Chalice"
+World Legacy - "World Crown"
+World Legacy - "World Key"
+World Legacy - "World Lance"
+World Legacy - "World Shield"
+World Legacy - "World Wand"
 World Legacy Awakens
 World Legacy Bestowal
 World Legacy Clash
@@ -13165,6 +13553,7 @@ World Legacy's Nightmare
 World Legacy's Secret
 World Legacy's Sorrow
 World of Prophecy
+World of Spirits
 World Reassembly
 World Soul - Carbon
 World Suppression
@@ -13204,10 +13593,10 @@ Wrath of Neos
 Wrecker Panda
 Wretched Ghost of the Attic
 Wroughtweiler
-"Wulf, Lightsworn Beast"
+Wulf, Lightsworn Beast
 Wynn the Wind Channeler
 Wynn the Wind Charmer
-"Wynn the Wind Charmer, Verdant"
+Wynn the Wind Charmer, Verdant
 X-Cross Cannon
 X-Head Cannon
 X-Krawler Neurogos
@@ -13264,6 +13653,7 @@ Xyz Force
 Xyz Gift
 XYZ Hyper Cannon
 Xyz Import
+Xyz Lay
 Xyz Override
 Xyz Poseidon Splash
 Xyz Reborn
@@ -13289,13 +13679,14 @@ XYZ-Hyper Dragon Cannon
 Xyz-Raypierce
 XZ-Tank Cannon
 Y-Dragon Head
-Y-Dragon Yearhead
+Y-Yare Head
+Yad al Hecahands
 Yado Karu
 Yaguramaru the Armor Ninja
 Yaiba Robo
 Yajiro Invader
 Yaksha
-"Yakusa, Lord of the Eight Thunders"
+Yakusa, Lord of the Eight Thunders
 Yamadron
 Yamata Dragon
 Yamatako Orochi
@@ -13310,11 +13701,11 @@ Yang Zing Path
 Yang Zing Prana
 Yang Zing Unleashed
 Yaranzo
-"Yasha, the Skeletal Mayakashi"
+Yasha, the Skeletal Mayakashi
 Yashinoki
 Yata-Garasu
-"Yazi, Evil of the Yang Zing"
-"Yellow Baboon, Archer of the Forest"
+Yazi, Evil of the Yang Zing
+Yellow Baboon, Archer of the Forest
 Yellow Dragon Ninja
 Yellow Duston
 Yellow Gadget
@@ -13322,7 +13713,7 @@ Yellow Luster Shield
 Yellow Ninja
 Yellow-Bellied Oni
 Yoko-Zuna Sumo Spirit
-"Yoko, the Graceful Mayakashi"
+Yoko, the Graceful Mayakashi
 Yokotuner
 Yomi Ship
 Yorishiro of the Aqua
@@ -13354,10 +13745,16 @@ Yubel
 Yubel - Terror Incarnate
 Yubel - The Loving Defender Forever
 Yubel - The Ultimate Nightmare
-"Yuki-Musume, the Ice Mayakashi"
-"Yuki-Onna, the Absolute Zero Mayakashi"
-"Yuki-Onna, the Ice Mayakashi"
-"Yuki-Onna, the Icicle Mayakashi"
+Yuki-Musume, the Ice Mayakashi
+Yuki-Onna, the Absolute Zero Mayakashi
+Yuki-Onna, the Ice Mayakashi
+Yuki-Onna, the Icicle Mayakashi
+Yum☆Yum☆Yummys
+Yummy★Redemption
+Yummy★Snatchy
+Yummy☆Surprise
+Yummyusment★Acroquey
+Yummyusment☆Mignon
 YZ-Tank Dragon
 Z-Metal Tank
 Z-ONE
@@ -13368,21 +13765,21 @@ Zalamander Catalyzer
 Zanki
 Zany Zebra
 Zap Mustung
-"Zaphion, the Timelord"
+Zaphion, the Timelord
 Zapper Shrimp
 Zaralaam the Dark Palace
 Zarigun
-"Zebufera, Vaalmonican Hallow Heathen"
+Zebufera, Vaalmonican Hallow Heathen
 Zefra Divine Strike
 Zefra Metaltron
 Zefra Path
 Zefra Providence
 Zefra War
 Zefraath
-"Zefraniu, Secret of the Yang Zing"
-"Zefrasaber, Swordmaster of the Nekroz"
-"Zefraxa, Flame Beast of the Nekroz"
-"Zefraxi, Treasure of the Yang Zing"
+Zefraniu, Secret of the Yang Zing
+Zefrasaber, Swordmaster of the Nekroz
+Zefraxa, Flame Beast of the Nekroz
+Zefraxi, Treasure of the Yang Zing
 Zekt Conversion
 Zektrike Kou-ou
 Zeman the Ape King
@@ -13390,10 +13787,10 @@ Zenmaiday
 Zenmailfunction
 Zenmailstrom
 Zenmairch
-"Zep, Ruby of the Ghoti"
+Zep, Ruby of the Ghoti
 Zera Ritual
 Zera the Mant
-"Zeradias, Herald of Heaven"
+Zeradias, Herald of Heaven
 Zereort Migrator
 Zero Extra Link
 Zero Force
@@ -13402,7 +13799,7 @@ Zero Gravity
 Zero-Day Blaster
 ZERO-MAX
 Zerozerock
-"Zerrziel, Ruler of the Evil Eyed"
+Zerrziel, Ruler of the Evil Eyed
 Zeta Reticulant
 Zexal Alliance
 Zexal Catapult
@@ -13412,7 +13809,7 @@ Zexal Field
 Zoa
 Zoa the Fiendish Beast
 Zodiac Sign
-"Zohah, the Ogdoadic Boundless"
+Zohah, the Ogdoadic Boundless
 Zolga
 Zolga the Prophet
 Zoma the Earthbound Spirit
@@ -13446,9 +13843,9 @@ Zoodiac Ratpier
 Zoodiac Thoroughblade
 Zoodiac Tigermortar
 Zoodiac Whiptail
-"Zoroa, the Magistus Conflagrant Calamity"
-"Zoroa, the Magistus of Flame"
-"Zoroa, the Magistus Victorious Verethragna"
+Zoroa, the Magistus Conflagrant Calamity
+Zoroa, the Magistus of Flame
+Zoroa, the Magistus Verethragna
 ZS - Armed Sage
 ZS - Ascended Sage
 ZS - Ouroboros Sage
@@ -13457,9 +13854,10 @@ ZS - Vanish Sage
 Zubaba Buster
 Zubaba General
 Zubaba Knight
+Zubababa Knight
 Zubababancho Gagagacoat
 Zuijin of the Ice Barrier
-"Zure, Knight of Dark World"
+Zure, Knight of Dark World
 Zushin the Sleeping Giant
 Zuttomozaurus
 ZW - Asura Strike
